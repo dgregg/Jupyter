@@ -1,0 +1,1001 @@
+Date,Region,Type,Units,Price,Sales,Payment,Gender,Age
+1/6/2022,West,Books & Toys,4,60.6,242.4,Cash,Female,45
+1/24/2022,East,Books & Toys,1,15.15,15.15,Debit Card,Female,54
+2/5/2022,West,Books & Toys,1,15.15,15.15,Cash,Female,50
+2/12/2022,West,Books & Toys,5,75.75,378.75,Debit Card,Female,22
+2/23/2022,North,Books & Toys,5,75.75,378.75,Cash,Female,67
+3/19/2022,West,Books & Toys,4,60.6,242.4,Cash,Female,53
+3/21/2022,East,Books & Toys,4,60.6,242.4,Credit Card,Male,58
+3/25/2022,East,Books & Toys,4,60.6,242.4,Cash,Male,21
+4/3/2022,South,Books & Toys,1,15.15,15.15,Credit Card,Female,60
+4/4/2022,East,Books & Toys,3,45.45,136.35,Debit Card,Female,22
+4/29/2022,East,Books & Toys,5,75.75,378.75,Credit Card,Male,46
+5/1/2022,West,Books & Toys,5,75.75,378.75,Cash,Male,21
+5/17/2022,West,Books & Toys,5,75.75,378.75,Debit Card,Male,24
+5/19/2022,East,Books & Toys,5,75.75,378.75,Cash,Male,62
+5/19/2022,South,Books & Toys,3,45.45,136.35,Cash,Female,41
+5/19/2022,South,Books & Toys,2,30.3,60.6,Debit Card,Male,67
+6/7/2022,South,Books & Toys,5,75.75,378.75,Cash,Female,65
+6/12/2022,East,Books & Toys,2,30.3,60.6,Debit Card,Male,65
+6/14/2022,East,Books & Toys,3,45.45,136.35,Cash,Female,41
+6/18/2022,West,Books & Toys,5,75.75,378.75,Cash,Female,42
+6/30/2022,South,Books & Toys,1,15.15,15.15,Credit Card,Female,38
+7/9/2022,South,Books & Toys,5,75.75,378.75,Credit Card,Female,33
+7/13/2022,North,Books & Toys,4,60.6,242.4,Cash,Female,36
+7/18/2022,East,Books & Toys,3,45.45,136.35,Credit Card,Female,36
+7/19/2022,East,Books & Toys,5,75.75,378.75,Cash,Male,67
+7/25/2022,East,Books & Toys,5,75.75,378.75,Credit Card,Male,60
+7/28/2022,East,Books & Toys,5,75.75,378.75,Cash,Male,39
+8/3/2022,North,Books & Toys,1,15.15,15.15,Debit Card,Male,24
+8/5/2022,West,Books & Toys,3,45.45,136.35,Debit Card,Male,25
+8/9/2022,North,Books & Toys,1,15.15,15.15,Credit Card,Female,29
+8/15/2022,East,Books & Toys,5,75.75,378.75,Cash,Male,22
+8/19/2022,South,Books & Toys,5,75.75,378.75,Cash,Male,66
+8/30/2022,West,Books & Toys,2,30.3,60.6,Cash,Male,32
+9/2/2022,East,Books & Toys,4,60.6,242.4,Credit Card,Female,19
+9/6/2022,North,Books & Toys,1,15.15,15.15,Credit Card,Female,34
+9/9/2022,East,Books & Toys,5,75.75,378.75,Credit Card,Male,30
+9/17/2022,North,Books & Toys,1,15.15,15.15,Credit Card,Female,45
+9/17/2022,West,Books & Toys,1,15.15,15.15,Debit Card,Male,68
+9/22/2022,East,Books & Toys,1,15.15,15.15,Cash,Female,27
+9/25/2022,North,Books & Toys,3,45.45,136.35,Cash,Female,22
+9/29/2022,North,Books & Toys,3,45.45,136.35,Cash,Female,36
+11/28/2022,North,Books & Toys,3,45.45,136.35,Credit Card,Male,24
+11/30/2022,West,Books & Toys,5,75.75,378.75,Cash,Female,57
+12/10/2022,North,Books & Toys,4,60.6,242.4,Cash,Male,55
+12/19/2022,South,Books & Toys,1,15.15,15.15,Credit Card,Female,35
+1/1/2022,East,Clothing & Shoes,5,1500.4,7502,Cash,Male,33
+1/2/2022,North,Clothing & Shoes,3,900.24,2700.72,Credit Card,Male,69
+1/2/2022,North,Clothing & Shoes,3,900.24,2700.72,Credit Card,Male,47
+1/3/2022,East,Clothing & Shoes,2,600.16,1200.32,Debit Card,Female,66
+1/6/2022,East,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,67
+1/6/2022,East,Clothing & Shoes,3,900.24,2700.72,Cash,Male,23
+1/6/2022,North,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,22
+1/7/2022,South,Clothing & Shoes,1,300.08,300.08,Debit Card,Female,59
+1/8/2022,East,Clothing & Shoes,3,900.24,2700.72,Credit Card,Male,49
+1/8/2022,North,Clothing & Shoes,5,1500.4,7502,Debit Card,Male,60
+1/9/2022,East,Clothing & Shoes,3,900.24,2700.72,Cash,Female,28
+1/13/2022,East,Clothing & Shoes,4,1200.32,4801.28,Debit Card,Female,18
+1/13/2022,North,Clothing & Shoes,3,900.24,2700.72,Cash,Female,30
+1/14/2022,East,Clothing & Shoes,4,1200.32,4801.28,Debit Card,Female,63
+1/15/2022,East,Clothing & Shoes,3,900.24,2700.72,Debit Card,Male,48
+1/15/2022,East,Clothing & Shoes,3,900.24,2700.72,Credit Card,Female,25
+1/15/2022,East,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Male,61
+1/16/2022,South,Clothing & Shoes,1,300.08,300.08,Cash,Male,27
+1/18/2022,North,Clothing & Shoes,4,1200.32,4801.28,Cash,Female,54
+1/19/2022,East,Clothing & Shoes,3,900.24,2700.72,Cash,Female,54
+1/20/2022,West,Clothing & Shoes,5,1500.4,7502,Credit Card,Female,38
+1/21/2022,North,Clothing & Shoes,5,1500.4,7502,Credit Card,Male,43
+1/21/2022,East,Clothing & Shoes,1,300.08,300.08,Cash,Female,26
+1/22/2022,East,Clothing & Shoes,1,300.08,300.08,Cash,Male,52
+1/24/2022,North,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,43
+1/24/2022,North,Clothing & Shoes,1,300.08,300.08,Credit Card,Male,43
+1/25/2022,East,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,65
+1/26/2022,North,Clothing & Shoes,5,1500.4,7502,Cash,Female,38
+1/27/2022,North,Clothing & Shoes,1,300.08,300.08,Cash,Female,68
+1/29/2022,East,Clothing & Shoes,5,1500.4,7502,Debit Card,Female,20
+1/29/2022,North,Clothing & Shoes,5,1500.4,7502,Credit Card,Female,28
+1/31/2022,North,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,54
+2/1/2022,West,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Female,26
+2/2/2022,East,Clothing & Shoes,5,1500.4,7502,Cash,Female,50
+2/2/2022,East,Clothing & Shoes,3,900.24,2700.72,Credit Card,Female,35
+2/3/2022,West,Clothing & Shoes,3,900.24,2700.72,Cash,Female,43
+2/4/2022,North,Clothing & Shoes,5,1500.4,7502,Credit Card,Female,28
+2/5/2022,South,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,48
+2/7/2022,East,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,34
+2/7/2022,North,Clothing & Shoes,5,1500.4,7502,Cash,Male,64
+2/9/2022,North,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,32
+2/11/2022,North,Clothing & Shoes,5,1500.4,7502,Cash,Male,43
+2/12/2022,North,Clothing & Shoes,5,1500.4,7502,Credit Card,Male,31
+2/13/2022,West,Clothing & Shoes,5,1500.4,7502,Debit Card,Female,19
+2/16/2022,East,Clothing & Shoes,1,300.08,300.08,Credit Card,Male,42
+2/17/2022,East,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Female,41
+2/17/2022,South,Clothing & Shoes,5,1500.4,7502,Debit Card,Female,22
+2/18/2022,North,Clothing & Shoes,1,300.08,300.08,Cash,Male,56
+2/19/2022,North,Clothing & Shoes,2,600.16,1200.32,Debit Card,Male,46
+2/20/2022,East,Clothing & Shoes,5,1500.4,7502,Cash,Male,33
+2/22/2022,South,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,56
+2/22/2022,East,Clothing & Shoes,5,1500.4,7502,Debit Card,Male,23
+2/22/2022,South,Clothing & Shoes,5,1500.4,7502,Cash,Female,29
+2/23/2022,South,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,32
+2/23/2022,North,Clothing & Shoes,5,1500.4,7502,Cash,Female,37
+2/23/2022,East,Clothing & Shoes,3,900.24,2700.72,Cash,Female,42
+2/24/2022,East,Clothing & Shoes,2,600.16,1200.32,Cash,Female,19
+2/25/2022,East,Clothing & Shoes,1,300.08,300.08,Cash,Female,31
+2/25/2022,North,Clothing & Shoes,1,300.08,300.08,Credit Card,Male,47
+2/25/2022,East,Clothing & Shoes,5,1500.4,7502,Debit Card,Male,24
+2/25/2022,North,Clothing & Shoes,3,900.24,2700.72,Cash,Male,43
+2/25/2022,North,Clothing & Shoes,4,1200.32,4801.28,Cash,Female,50
+2/26/2022,East,Clothing & Shoes,3,900.24,2700.72,Cash,Female,26
+2/27/2022,East,Clothing & Shoes,5,1500.4,7502,Credit Card,Female,53
+2/27/2022,South,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,63
+2/28/2022,South,Clothing & Shoes,5,1500.4,7502,Debit Card,Female,41
+3/2/2022,East,Clothing & Shoes,1,300.08,300.08,Cash,Female,24
+3/2/2022,West,Clothing & Shoes,5,1500.4,7502,Debit Card,Male,21
+3/2/2022,East,Clothing & Shoes,3,900.24,2700.72,Debit Card,Female,45
+3/3/2022,South,Clothing & Shoes,4,1200.32,4801.28,Debit Card,Female,54
+3/4/2022,East,Clothing & Shoes,3,900.24,2700.72,Cash,Female,33
+3/5/2022,West,Clothing & Shoes,4,1200.32,4801.28,Debit Card,Male,21
+3/5/2022,East,Clothing & Shoes,5,1500.4,7502,Cash,Male,18
+3/6/2022,North,Clothing & Shoes,1,300.08,300.08,Cash,Female,54
+3/7/2022,East,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,69
+3/8/2022,East,Clothing & Shoes,5,1500.4,7502,Credit Card,Female,63
+3/9/2022,East,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,34
+3/10/2022,East,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Male,55
+3/12/2022,South,Clothing & Shoes,3,900.24,2700.72,Cash,Male,45
+3/16/2022,East,Clothing & Shoes,5,1500.4,7502,Credit Card,Male,34
+3/17/2022,East,Clothing & Shoes,2,600.16,1200.32,Cash,Male,51
+3/20/2022,East,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,41
+3/20/2022,East,Clothing & Shoes,3,900.24,2700.72,Cash,Female,26
+3/20/2022,East,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,45
+3/20/2022,East,Clothing & Shoes,2,600.16,1200.32,Cash,Female,69
+3/20/2022,East,Clothing & Shoes,1,300.08,300.08,Debit Card,Male,34
+3/21/2022,East,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,54
+3/25/2022,East,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,32
+3/27/2022,West,Clothing & Shoes,4,1200.32,4801.28,Cash,Male,27
+3/29/2022,South,Clothing & Shoes,1,300.08,300.08,Cash,Male,48
+3/29/2022,West,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,54
+3/30/2022,South,Clothing & Shoes,5,1500.4,7502,Credit Card,Female,31
+3/30/2022,West,Clothing & Shoes,4,1200.32,4801.28,Cash,Male,30
+4/2/2022,South,Clothing & Shoes,1,300.08,300.08,Cash,Male,20
+4/2/2022,East,Clothing & Shoes,4,1200.32,4801.28,Cash,Female,29
+4/8/2022,North,Clothing & Shoes,1,300.08,300.08,Cash,Male,50
+4/8/2022,North,Clothing & Shoes,1,300.08,300.08,Cash,Female,66
+4/9/2022,North,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Female,33
+4/9/2022,East,Clothing & Shoes,5,1500.4,7502,Cash,Male,58
+4/10/2022,North,Clothing & Shoes,2,600.16,1200.32,Cash,Male,30
+4/11/2022,South,Clothing & Shoes,4,1200.32,4801.28,Debit Card,Male,40
+4/15/2022,South,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Female,31
+4/16/2022,South,Clothing & Shoes,3,900.24,2700.72,Credit Card,Female,20
+4/17/2022,North,Clothing & Shoes,3,900.24,2700.72,Cash,Female,64
+4/20/2022,North,Clothing & Shoes,3,900.24,2700.72,Cash,Male,42
+4/20/2022,East,Clothing & Shoes,3,900.24,2700.72,Credit Card,Female,19
+4/20/2022,South,Clothing & Shoes,1,300.08,300.08,Credit Card,Male,52
+4/23/2022,East,Clothing & Shoes,3,900.24,2700.72,Cash,Female,56
+4/23/2022,South,Clothing & Shoes,5,1500.4,7502,Cash,Female,23
+4/23/2022,North,Clothing & Shoes,5,1500.4,7502,Debit Card,Female,60
+4/23/2022,South,Clothing & Shoes,1,300.08,300.08,Cash,Female,49
+4/24/2022,North,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,59
+4/24/2022,East,Clothing & Shoes,1,300.08,300.08,Cash,Female,37
+4/25/2022,North,Clothing & Shoes,5,1500.4,7502,Credit Card,Female,34
+4/25/2022,South,Clothing & Shoes,4,1200.32,4801.28,Cash,Male,56
+4/26/2022,East,Clothing & Shoes,2,600.16,1200.32,Cash,Female,27
+4/26/2022,North,Clothing & Shoes,2,600.16,1200.32,Debit Card,Male,50
+4/27/2022,West,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,68
+4/27/2022,North,Clothing & Shoes,4,1200.32,4801.28,Cash,Female,55
+4/30/2022,North,Clothing & Shoes,3,900.24,2700.72,Cash,Male,25
+4/30/2022,East,Clothing & Shoes,3,900.24,2700.72,Cash,Male,42
+5/1/2022,North,Clothing & Shoes,1,300.08,300.08,Cash,Female,29
+5/6/2022,East,Clothing & Shoes,1,300.08,300.08,Cash,Male,20
+5/6/2022,West,Clothing & Shoes,3,900.24,2700.72,Cash,Female,54
+5/7/2022,East,Clothing & Shoes,5,1500.4,7502,Credit Card,Female,24
+5/8/2022,East,Clothing & Shoes,5,1500.4,7502,Debit Card,Female,21
+5/11/2022,South,Clothing & Shoes,2,600.16,1200.32,Debit Card,Male,30
+5/12/2022,East,Clothing & Shoes,5,1500.4,7502,Cash,Female,52
+5/12/2022,North,Clothing & Shoes,5,1500.4,7502,Debit Card,Male,23
+5/13/2022,East,Clothing & Shoes,4,1200.32,4801.28,Debit Card,Female,44
+5/14/2022,North,Clothing & Shoes,3,900.24,2700.72,Credit Card,Male,40
+5/14/2022,West,Clothing & Shoes,3,900.24,2700.72,Credit Card,Female,30
+5/16/2022,East,Clothing & Shoes,4,1200.32,4801.28,Cash,Male,50
+5/16/2022,South,Clothing & Shoes,3,900.24,2700.72,Credit Card,Female,66
+5/16/2022,North,Clothing & Shoes,5,1500.4,7502,Debit Card,Male,44
+5/17/2022,South,Clothing & Shoes,3,900.24,2700.72,Debit Card,Female,52
+5/18/2022,West,Clothing & Shoes,2,600.16,1200.32,Credit Card,Male,57
+5/18/2022,South,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,53
+5/19/2022,North,Clothing & Shoes,2,600.16,1200.32,Cash,Female,38
+5/20/2022,West,Clothing & Shoes,5,1500.4,7502,Cash,Female,57
+5/21/2022,North,Clothing & Shoes,2,600.16,1200.32,Cash,Female,48
+5/26/2022,West,Clothing & Shoes,3,900.24,2700.72,Cash,Female,61
+5/26/2022,South,Clothing & Shoes,4,1200.32,4801.28,Cash,Female,22
+5/27/2022,East,Clothing & Shoes,3,900.24,2700.72,Credit Card,Male,42
+5/28/2022,West,Clothing & Shoes,1,300.08,300.08,Credit Card,Male,62
+5/30/2022,East,Clothing & Shoes,5,1500.4,7502,Credit Card,Male,53
+5/30/2022,East,Clothing & Shoes,3,900.24,2700.72,Credit Card,Female,45
+5/31/2022,East,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,20
+5/31/2022,North,Clothing & Shoes,4,1200.32,4801.28,Cash,Female,57
+5/31/2022,North,Clothing & Shoes,3,900.24,2700.72,Credit Card,Male,37
+6/3/2022,South,Clothing & Shoes,5,1500.4,7502,Credit Card,Female,23
+6/3/2022,East,Clothing & Shoes,5,1500.4,7502,Credit Card,Male,44
+6/3/2022,West,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,44
+6/6/2022,East,Clothing & Shoes,5,1500.4,7502,Cash,Male,62
+6/8/2022,North,Clothing & Shoes,5,1500.4,7502,Cash,Male,37
+6/9/2022,North,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,31
+6/11/2022,North,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,20
+6/16/2022,North,Clothing & Shoes,2,600.16,1200.32,Cash,Female,46
+6/18/2022,East,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,21
+6/18/2022,North,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,22
+6/20/2022,East,Clothing & Shoes,3,900.24,2700.72,Credit Card,Female,43
+6/20/2022,South,Clothing & Shoes,5,1500.4,7502,Credit Card,Female,37
+6/21/2022,East,Clothing & Shoes,4,1200.32,4801.28,Cash,Male,38
+6/21/2022,North,Clothing & Shoes,4,1200.32,4801.28,Cash,Female,32
+6/21/2022,West,Clothing & Shoes,2,600.16,1200.32,Cash,Male,33
+6/23/2022,West,Clothing & Shoes,1,300.08,300.08,Debit Card,Female,33
+6/23/2022,South,Clothing & Shoes,3,900.24,2700.72,Debit Card,Female,32
+6/24/2022,East,Clothing & Shoes,2,600.16,1200.32,Debit Card,Female,44
+6/24/2022,North,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,55
+6/25/2022,East,Clothing & Shoes,2,600.16,1200.32,Cash,Female,55
+6/25/2022,East,Clothing & Shoes,5,1500.4,7502,Debit Card,Female,67
+6/25/2022,East,Clothing & Shoes,2,600.16,1200.32,Credit Card,Male,34
+6/25/2022,East,Clothing & Shoes,2,600.16,1200.32,Cash,Male,44
+6/29/2022,East,Clothing & Shoes,1,300.08,300.08,Debit Card,Female,36
+7/3/2022,East,Clothing & Shoes,1,300.08,300.08,Cash,Female,46
+7/4/2022,South,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Female,42
+7/10/2022,East,Clothing & Shoes,2,600.16,1200.32,Credit Card,Male,52
+7/11/2022,East,Clothing & Shoes,5,1500.4,7502,Credit Card,Female,28
+7/11/2022,West,Clothing & Shoes,5,1500.4,7502,Credit Card,Male,64
+7/11/2022,West,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Male,44
+7/13/2022,North,Clothing & Shoes,5,1500.4,7502,Credit Card,Female,20
+7/14/2022,North,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,54
+7/16/2022,West,Clothing & Shoes,5,1500.4,7502,Cash,Female,66
+7/16/2022,South,Clothing & Shoes,1,300.08,300.08,Cash,Male,34
+7/17/2022,North,Clothing & Shoes,3,900.24,2700.72,Cash,Female,49
+7/18/2022,North,Clothing & Shoes,2,600.16,1200.32,Cash,Female,29
+7/19/2022,East,Clothing & Shoes,2,600.16,1200.32,Cash,Female,30
+7/20/2022,West,Clothing & Shoes,3,900.24,2700.72,Debit Card,Female,41
+7/20/2022,East,Clothing & Shoes,1,300.08,300.08,Cash,Male,62
+7/20/2022,West,Clothing & Shoes,5,1500.4,7502,Cash,Male,44
+7/21/2022,North,Clothing & Shoes,1,300.08,300.08,Cash,Female,19
+7/22/2022,North,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Female,23
+7/22/2022,East,Clothing & Shoes,4,1200.32,4801.28,Cash,Male,29
+7/22/2022,East,Clothing & Shoes,1,300.08,300.08,Credit Card,Male,45
+7/23/2022,South,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Female,19
+7/23/2022,East,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,40
+7/24/2022,South,Clothing & Shoes,4,1200.32,4801.28,Cash,Male,38
+7/25/2022,East,Clothing & Shoes,2,600.16,1200.32,Debit Card,Female,50
+7/27/2022,West,Clothing & Shoes,5,1500.4,7502,Credit Card,Male,43
+7/29/2022,East,Clothing & Shoes,1,300.08,300.08,Debit Card,Male,22
+7/31/2022,East,Clothing & Shoes,3,900.24,2700.72,Cash,Male,28
+8/3/2022,East,Clothing & Shoes,4,1200.32,4801.28,Debit Card,Male,65
+8/3/2022,West,Clothing & Shoes,5,1500.4,7502,Cash,Female,34
+8/3/2022,North,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Male,24
+8/7/2022,East,Clothing & Shoes,1,300.08,300.08,Debit Card,Female,63
+8/8/2022,North,Clothing & Shoes,4,1200.32,4801.28,Debit Card,Female,50
+8/10/2022,East,Clothing & Shoes,4,1200.32,4801.28,Cash,Female,26
+8/11/2022,East,Clothing & Shoes,2,600.16,1200.32,Cash,Male,25
+8/14/2022,North,Clothing & Shoes,5,1500.4,7502,Debit Card,Female,40
+8/15/2022,East,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Female,51
+8/16/2022,East,Clothing & Shoes,3,900.24,2700.72,Credit Card,Male,64
+8/18/2022,North,Clothing & Shoes,1,300.08,300.08,Debit Card,Female,62
+8/19/2022,North,Clothing & Shoes,5,1500.4,7502,Debit Card,Male,56
+8/19/2022,East,Clothing & Shoes,4,1200.32,4801.28,Cash,Male,45
+8/20/2022,North,Clothing & Shoes,5,1500.4,7502,Cash,Female,31
+8/22/2022,East,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,18
+8/22/2022,East,Clothing & Shoes,5,1500.4,7502,Debit Card,Female,61
+8/23/2022,North,Clothing & Shoes,4,1200.32,4801.28,Debit Card,Female,43
+8/26/2022,North,Clothing & Shoes,2,600.16,1200.32,Cash,Female,29
+8/29/2022,West,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Female,57
+8/30/2022,South,Clothing & Shoes,5,1500.4,7502,Credit Card,Female,62
+8/31/2022,North,Clothing & Shoes,1,300.08,300.08,Cash,Female,47
+9/3/2022,East,Clothing & Shoes,5,1500.4,7502,Cash,Female,19
+9/3/2022,North,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Female,55
+9/4/2022,North,Clothing & Shoes,1,300.08,300.08,Debit Card,Male,54
+9/5/2022,East,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Male,55
+9/5/2022,North,Clothing & Shoes,5,1500.4,7502,Debit Card,Male,45
+9/6/2022,North,Clothing & Shoes,5,1500.4,7502,Cash,Female,53
+9/8/2022,North,Clothing & Shoes,5,1500.4,7502,Credit Card,Female,54
+9/8/2022,West,Clothing & Shoes,1,300.08,300.08,Debit Card,Male,30
+9/8/2022,East,Clothing & Shoes,2,600.16,1200.32,Cash,Female,46
+9/11/2022,South,Clothing & Shoes,3,900.24,2700.72,Debit Card,Male,25
+9/12/2022,North,Clothing & Shoes,2,600.16,1200.32,Cash,Female,46
+9/14/2022,North,Clothing & Shoes,1,300.08,300.08,Credit Card,Male,23
+9/14/2022,North,Clothing & Shoes,1,300.08,300.08,Debit Card,Male,31
+9/15/2022,South,Clothing & Shoes,4,1200.32,4801.28,Cash,Male,66
+9/15/2022,East,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,32
+9/16/2022,North,Clothing & Shoes,1,300.08,300.08,Cash,Male,62
+9/18/2022,West,Clothing & Shoes,2,600.16,1200.32,Debit Card,Female,19
+9/20/2022,East,Clothing & Shoes,4,1200.32,4801.28,Cash,Female,45
+9/20/2022,West,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,36
+9/24/2022,East,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,28
+9/25/2022,East,Clothing & Shoes,5,1500.4,7502,Credit Card,Male,56
+9/25/2022,North,Clothing & Shoes,3,900.24,2700.72,Cash,Female,32
+9/27/2022,East,Clothing & Shoes,5,1500.4,7502,Debit Card,Male,42
+10/1/2022,West,Clothing & Shoes,3,900.24,2700.72,Credit Card,Female,56
+10/1/2022,South,Clothing & Shoes,5,1500.4,7502,Cash,Female,53
+10/2/2022,East,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,36
+10/4/2022,South,Clothing & Shoes,1,300.08,300.08,Cash,Female,35
+10/4/2022,East,Clothing & Shoes,3,900.24,2700.72,Credit Card,Male,44
+10/4/2022,East,Clothing & Shoes,1,300.08,300.08,Cash,Female,61
+10/7/2022,East,Clothing & Shoes,1,300.08,300.08,Cash,Female,69
+10/7/2022,East,Clothing & Shoes,3,900.24,2700.72,Credit Card,Female,53
+10/8/2022,East,Clothing & Shoes,3,900.24,2700.72,Debit Card,Male,66
+10/9/2022,West,Clothing & Shoes,1,300.08,300.08,Credit Card,Male,23
+10/9/2022,East,Clothing & Shoes,2,600.16,1200.32,Debit Card,Female,46
+10/9/2022,East,Clothing & Shoes,5,1500.4,7502,Cash,Male,26
+10/10/2022,West,Clothing & Shoes,4,1200.32,4801.28,Cash,Female,60
+10/11/2022,East,Clothing & Shoes,3,900.24,2700.72,Cash,Male,40
+10/13/2022,North,Clothing & Shoes,1,300.08,300.08,Cash,Male,36
+10/14/2022,East,Clothing & Shoes,5,1500.4,7502,Credit Card,Male,44
+10/15/2022,South,Clothing & Shoes,4,1200.32,4801.28,Cash,Female,53
+10/16/2022,East,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Male,19
+10/17/2022,East,Clothing & Shoes,5,1500.4,7502,Cash,Female,64
+10/18/2022,East,Clothing & Shoes,1,300.08,300.08,Cash,Male,37
+10/18/2022,East,Clothing & Shoes,3,900.24,2700.72,Debit Card,Male,40
+10/20/2022,East,Clothing & Shoes,5,1500.4,7502,Cash,Male,18
+10/25/2022,East,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,25
+10/27/2022,East,Clothing & Shoes,1,300.08,300.08,Cash,Male,24
+10/27/2022,East,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,49
+10/27/2022,West,Clothing & Shoes,1,300.08,300.08,Credit Card,Male,41
+11/1/2022,North,Clothing & Shoes,1,300.08,300.08,Debit Card,Male,30
+11/1/2022,West,Clothing & Shoes,3,900.24,2700.72,Cash,Male,43
+11/2/2022,West,Clothing & Shoes,1,300.08,300.08,Credit Card,Female,25
+11/3/2022,East,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,60
+11/3/2022,North,Clothing & Shoes,5,1500.4,7502,Cash,Female,36
+11/5/2022,East,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Female,20
+11/6/2022,North,Clothing & Shoes,1,300.08,300.08,Debit Card,Female,51
+11/7/2022,North,Clothing & Shoes,2,600.16,1200.32,Cash,Male,35
+11/8/2022,North,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,19
+11/9/2022,East,Clothing & Shoes,1,300.08,300.08,Cash,Female,33
+11/13/2022,East,Clothing & Shoes,5,1500.4,7502,Credit Card,Male,62
+11/13/2022,West,Clothing & Shoes,2,600.16,1200.32,Credit Card,Male,49
+11/17/2022,West,Clothing & Shoes,2,600.16,1200.32,Cash,Male,64
+11/19/2022,West,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Female,63
+11/22/2022,North,Clothing & Shoes,5,1500.4,7502,Cash,Male,69
+11/23/2022,North,Clothing & Shoes,3,900.24,2700.72,Credit Card,Male,22
+11/25/2022,South,Clothing & Shoes,4,1200.32,4801.28,Cash,Female,21
+11/28/2022,West,Clothing & Shoes,4,1200.32,4801.28,Debit Card,Male,51
+11/30/2022,West,Clothing & Shoes,3,900.24,2700.72,Cash,Female,20
+12/1/2022,West,Clothing & Shoes,4,1200.32,4801.28,Cash,Female,51
+12/3/2022,East,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,66
+12/5/2022,East,Clothing & Shoes,2,600.16,1200.32,Cash,Female,41
+12/6/2022,East,Clothing & Shoes,1,300.08,300.08,Debit Card,Male,40
+12/13/2022,East,Clothing & Shoes,5,1500.4,7502,Credit Card,Female,22
+12/13/2022,North,Clothing & Shoes,1,300.08,300.08,Debit Card,Female,63
+12/14/2022,North,Clothing & Shoes,4,1200.32,4801.28,Cash,Male,40
+12/14/2022,East,Clothing & Shoes,1,300.08,300.08,Debit Card,Female,29
+12/14/2022,North,Clothing & Shoes,2,600.16,1200.32,Credit Card,Female,50
+12/15/2022,East,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Female,54
+12/16/2022,South,Clothing & Shoes,4,1200.32,4801.28,Cash,Male,65
+12/16/2022,West,Clothing & Shoes,1,300.08,300.08,Cash,Male,47
+12/16/2022,East,Clothing & Shoes,1,300.08,300.08,Cash,Male,40
+12/17/2022,East,Clothing & Shoes,5,1500.4,7502,Debit Card,Female,54
+12/17/2022,East,Clothing & Shoes,2,600.16,1200.32,Credit Card,Male,50
+12/17/2022,East,Clothing & Shoes,1,300.08,300.08,Cash,Male,54
+12/19/2022,East,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Male,64
+12/19/2022,West,Clothing & Shoes,3,900.24,2700.72,Credit Card,Female,25
+12/23/2022,North,Clothing & Shoes,3,900.24,2700.72,Cash,Female,48
+12/24/2022,East,Clothing & Shoes,2,600.16,1200.32,Debit Card,Female,55
+12/25/2022,North,Clothing & Shoes,4,1200.32,4801.28,Cash,Male,56
+12/26/2022,East,Clothing & Shoes,2,600.16,1200.32,Cash,Female,30
+12/26/2022,South,Clothing & Shoes,2,600.16,1200.32,Cash,Female,49
+12/27/2022,North,Clothing & Shoes,4,1200.32,4801.28,Cash,Male,56
+12/27/2022,West,Clothing & Shoes,1,300.08,300.08,Cash,Male,54
+12/28/2022,East,Clothing & Shoes,4,1200.32,4801.28,Credit Card,Male,27
+12/30/2022,North,Clothing & Shoes,2,600.16,1200.32,Cash,Male,54
+12/31/2022,East,Clothing & Shoes,3,900.24,2700.72,Credit Card,Male,22
+12/31/2022,West,Clothing & Shoes,2,600.16,1200.32,Cash,Female,44
+12/31/2022,West,Clothing & Shoes,4,1200.32,4801.28,Cash,Male,47
+1/2/2022,South,Clothing & Shoes,2,81.32,162.64,Cash,Female,52
+1/2/2022,South,Clothing & Shoes,3,121.98,365.94,Debit Card,Female,30
+1/2/2022,North,Clothing & Shoes,4,162.64,650.56,Credit Card,Female,61
+1/2/2022,South,Clothing & Shoes,2,81.32,162.64,Debit Card,Female,40
+1/4/2022,West,Clothing & Shoes,3,121.98,365.94,Credit Card,Female,40
+1/9/2022,North,Clothing & Shoes,2,81.32,162.64,Cash,Female,42
+1/10/2022,West,Clothing & Shoes,2,81.32,162.64,Debit Card,Female,68
+1/12/2022,North,Clothing & Shoes,4,162.64,650.56,Cash,Female,43
+1/13/2022,North,Clothing & Shoes,2,81.32,162.64,Credit Card,Female,21
+1/16/2022,North,Clothing & Shoes,5,203.3,1016.5,Cash,Female,39
+1/20/2022,East,Clothing & Shoes,3,121.98,365.94,Credit Card,Female,63
+1/21/2022,North,Clothing & Shoes,2,81.32,162.64,Credit Card,Female,40
+1/23/2022,South,Clothing & Shoes,1,40.66,40.66,Cash,Female,49
+1/30/2022,West,Clothing & Shoes,3,121.98,365.94,Debit Card,Male,18
+1/31/2022,East,Clothing & Shoes,5,203.3,1016.5,Credit Card,Female,25
+1/31/2022,East,Clothing & Shoes,4,162.64,650.56,Debit Card,Female,68
+2/3/2022,East,Clothing & Shoes,4,162.64,650.56,Credit Card,Male,18
+2/6/2022,North,Clothing & Shoes,1,40.66,40.66,Credit Card,Female,37
+2/10/2022,West,Clothing & Shoes,5,203.3,1016.5,Cash,Male,33
+2/11/2022,South,Clothing & Shoes,5,203.3,1016.5,Cash,Male,33
+2/11/2022,South,Clothing & Shoes,5,203.3,1016.5,Credit Card,Male,48
+2/14/2022,East,Clothing & Shoes,3,121.98,365.94,Credit Card,Female,41
+2/15/2022,North,Clothing & Shoes,3,121.98,365.94,Cash,Female,23
+2/20/2022,North,Clothing & Shoes,2,81.32,162.64,Credit Card,Female,30
+2/28/2022,East,Clothing & Shoes,3,121.98,365.94,Credit Card,Male,55
+3/1/2022,West,Clothing & Shoes,4,162.64,650.56,Credit Card,Female,54
+3/1/2022,East,Clothing & Shoes,4,162.64,650.56,Debit Card,Male,67
+3/2/2022,East,Clothing & Shoes,4,162.64,650.56,Cash,Male,20
+3/7/2022,North,Clothing & Shoes,5,203.3,1016.5,Credit Card,Female,63
+3/11/2022,North,Clothing & Shoes,3,121.98,365.94,Debit Card,Male,43
+3/16/2022,South,Clothing & Shoes,1,40.66,40.66,Credit Card,Female,56
+3/17/2022,South,Clothing & Shoes,3,121.98,365.94,Cash,Female,48
+3/22/2022,North,Clothing & Shoes,4,162.64,650.56,Cash,Male,46
+3/22/2022,North,Clothing & Shoes,4,162.64,650.56,Cash,Female,52
+3/29/2022,South,Clothing & Shoes,3,121.98,365.94,Debit Card,Male,26
+3/31/2022,South,Clothing & Shoes,3,121.98,365.94,Credit Card,Male,19
+4/1/2022,West,Clothing & Shoes,1,40.66,40.66,Credit Card,Female,40
+4/12/2022,North,Clothing & Shoes,1,40.66,40.66,Cash,Male,41
+4/13/2022,East,Clothing & Shoes,3,121.98,365.94,Cash,Female,37
+4/21/2022,East,Clothing & Shoes,4,162.64,650.56,Cash,Male,53
+4/22/2022,East,Clothing & Shoes,5,203.3,1016.5,Debit Card,Male,53
+5/2/2022,North,Clothing & Shoes,5,203.3,1016.5,Debit Card,Female,35
+5/2/2022,North,Clothing & Shoes,4,162.64,650.56,Cash,Female,22
+5/4/2022,North,Clothing & Shoes,1,40.66,40.66,Credit Card,Female,32
+5/4/2022,East,Clothing & Shoes,3,121.98,365.94,Debit Card,Male,51
+5/10/2022,East,Clothing & Shoes,3,121.98,365.94,Credit Card,Female,68
+5/13/2022,North,Clothing & Shoes,2,81.32,162.64,Cash,Female,18
+5/15/2022,East,Clothing & Shoes,2,81.32,162.64,Cash,Female,19
+5/17/2022,East,Clothing & Shoes,5,203.3,1016.5,Credit Card,Male,63
+5/23/2022,East,Clothing & Shoes,2,81.32,162.64,Cash,Female,67
+5/23/2022,East,Clothing & Shoes,1,40.66,40.66,Credit Card,Female,55
+5/25/2022,North,Clothing & Shoes,5,203.3,1016.5,Cash,Male,40
+5/25/2022,East,Clothing & Shoes,1,40.66,40.66,Debit Card,Female,69
+5/26/2022,North,Clothing & Shoes,5,203.3,1016.5,Debit Card,Male,34
+5/27/2022,East,Clothing & Shoes,4,162.64,650.56,Cash,Female,55
+5/28/2022,South,Clothing & Shoes,4,162.64,650.56,Credit Card,Male,53
+5/31/2022,East,Clothing & Shoes,5,203.3,1016.5,Debit Card,Female,58
+6/2/2022,South,Clothing & Shoes,4,162.64,650.56,Cash,Female,26
+6/3/2022,East,Clothing & Shoes,4,162.64,650.56,Cash,Male,58
+6/6/2022,North,Clothing & Shoes,4,162.64,650.56,Debit Card,Female,41
+6/9/2022,East,Clothing & Shoes,4,162.64,650.56,Cash,Female,28
+6/9/2022,East,Clothing & Shoes,4,162.64,650.56,Cash,Female,50
+6/9/2022,East,Clothing & Shoes,5,203.3,1016.5,Cash,Male,69
+6/12/2022,West,Clothing & Shoes,4,162.64,650.56,Credit Card,Female,44
+6/12/2022,East,Clothing & Shoes,5,203.3,1016.5,Credit Card,Male,58
+6/12/2022,West,Clothing & Shoes,3,121.98,365.94,Cash,Male,21
+6/13/2022,East,Clothing & Shoes,5,203.3,1016.5,Cash,Female,59
+6/14/2022,East,Clothing & Shoes,4,162.64,650.56,Credit Card,Female,56
+6/15/2022,East,Clothing & Shoes,1,40.66,40.66,Cash,Male,32
+6/20/2022,East,Clothing & Shoes,4,162.64,650.56,Cash,Female,21
+6/20/2022,East,Clothing & Shoes,2,81.32,162.64,Cash,Female,53
+6/20/2022,North,Clothing & Shoes,2,81.32,162.64,Debit Card,Female,20
+6/20/2022,East,Clothing & Shoes,1,40.66,40.66,Debit Card,Female,24
+6/23/2022,North,Clothing & Shoes,2,81.32,162.64,Cash,Male,49
+6/24/2022,West,Clothing & Shoes,4,162.64,650.56,Cash,Female,55
+6/24/2022,East,Clothing & Shoes,1,40.66,40.66,Credit Card,Female,47
+6/25/2022,North,Clothing & Shoes,4,162.64,650.56,Debit Card,Female,52
+6/26/2022,East,Clothing & Shoes,2,81.32,162.64,Debit Card,Female,35
+6/27/2022,East,Clothing & Shoes,2,81.32,162.64,Cash,Female,63
+6/29/2022,East,Clothing & Shoes,3,121.98,365.94,Credit Card,Male,29
+7/1/2022,South,Clothing & Shoes,3,121.98,365.94,Debit Card,Female,34
+7/3/2022,East,Clothing & Shoes,4,162.64,650.56,Credit Card,Female,47
+7/5/2022,South,Clothing & Shoes,2,81.32,162.64,Credit Card,Female,53
+7/8/2022,East,Clothing & Shoes,1,40.66,40.66,Cash,Male,49
+7/11/2022,North,Clothing & Shoes,2,81.32,162.64,Cash,Male,61
+7/12/2022,South,Clothing & Shoes,4,162.64,650.56,Debit Card,Male,23
+7/13/2022,East,Clothing & Shoes,4,162.64,650.56,Cash,Female,61
+7/19/2022,East,Clothing & Shoes,1,40.66,40.66,Credit Card,Female,51
+7/21/2022,North,Clothing & Shoes,3,121.98,365.94,Cash,Male,37
+7/21/2022,East,Clothing & Shoes,4,162.64,650.56,Cash,Female,53
+7/22/2022,North,Clothing & Shoes,3,121.98,365.94,Credit Card,Female,62
+7/23/2022,North,Clothing & Shoes,3,121.98,365.94,Cash,Male,27
+7/28/2022,North,Clothing & Shoes,4,162.64,650.56,Debit Card,Male,35
+7/30/2022,South,Clothing & Shoes,3,121.98,365.94,Credit Card,Female,19
+7/30/2022,East,Clothing & Shoes,2,81.32,162.64,Credit Card,Male,39
+8/1/2022,North,Clothing & Shoes,5,203.3,1016.5,Cash,Male,68
+8/10/2022,North,Clothing & Shoes,2,81.32,162.64,Credit Card,Male,67
+8/13/2022,North,Clothing & Shoes,3,121.98,365.94,Cash,Female,48
+8/14/2022,North,Clothing & Shoes,5,203.3,1016.5,Cash,Female,61
+8/14/2022,East,Clothing & Shoes,3,121.98,365.94,Credit Card,Female,54
+8/14/2022,East,Clothing & Shoes,2,81.32,162.64,Credit Card,Female,68
+8/16/2022,North,Clothing & Shoes,1,40.66,40.66,Cash,Female,23
+8/20/2022,West,Clothing & Shoes,4,162.64,650.56,Credit Card,Female,23
+8/21/2022,North,Clothing & Shoes,2,81.32,162.64,Cash,Female,53
+8/21/2022,North,Clothing & Shoes,5,203.3,1016.5,Debit Card,Female,49
+8/23/2022,South,Clothing & Shoes,4,162.64,650.56,Debit Card,Female,26
+8/25/2022,East,Clothing & Shoes,3,121.98,365.94,Cash,Female,29
+8/26/2022,North,Clothing & Shoes,2,81.32,162.64,Debit Card,Female,48
+8/27/2022,East,Clothing & Shoes,5,203.3,1016.5,Cash,Female,45
+8/28/2022,North,Clothing & Shoes,4,162.64,650.56,Cash,Female,56
+9/1/2022,South,Clothing & Shoes,1,40.66,40.66,Credit Card,Female,49
+9/4/2022,South,Clothing & Shoes,3,121.98,365.94,Cash,Female,59
+9/8/2022,North,Clothing & Shoes,5,203.3,1016.5,Cash,Male,25
+9/12/2022,North,Clothing & Shoes,2,81.32,162.64,Cash,Female,67
+9/15/2022,East,Clothing & Shoes,5,203.3,1016.5,Credit Card,Female,68
+9/18/2022,East,Clothing & Shoes,2,81.32,162.64,Cash,Male,26
+9/18/2022,East,Clothing & Shoes,5,203.3,1016.5,Cash,Female,41
+9/23/2022,East,Clothing & Shoes,2,81.32,162.64,Credit Card,Male,68
+9/24/2022,East,Clothing & Shoes,4,162.64,650.56,Debit Card,Male,49
+9/25/2022,North,Clothing & Shoes,1,40.66,40.66,Cash,Female,47
+9/27/2022,South,Clothing & Shoes,3,121.98,365.94,Cash,Female,20
+9/28/2022,East,Clothing & Shoes,1,40.66,40.66,Cash,Male,24
+9/29/2022,East,Clothing & Shoes,1,40.66,40.66,Debit Card,Male,39
+9/30/2022,East,Clothing & Shoes,5,203.3,1016.5,Cash,Female,55
+10/4/2022,South,Clothing & Shoes,1,40.66,40.66,Cash,Male,19
+10/5/2022,North,Clothing & Shoes,5,203.3,1016.5,Cash,Female,24
+10/7/2022,East,Clothing & Shoes,2,81.32,162.64,Credit Card,Male,32
+10/11/2022,North,Clothing & Shoes,2,81.32,162.64,Debit Card,Female,42
+10/15/2022,North,Clothing & Shoes,5,203.3,1016.5,Credit Card,Male,26
+10/17/2022,West,Clothing & Shoes,3,121.98,365.94,Credit Card,Male,54
+10/18/2022,North,Clothing & Shoes,5,203.3,1016.5,Credit Card,Female,62
+10/20/2022,North,Clothing & Shoes,2,81.32,162.64,Cash,Male,64
+10/23/2022,West,Clothing & Shoes,2,81.32,162.64,Credit Card,Female,62
+10/26/2022,North,Clothing & Shoes,3,121.98,365.94,Debit Card,Male,43
+10/28/2022,East,Clothing & Shoes,4,162.64,650.56,Debit Card,Female,29
+10/31/2022,South,Clothing & Shoes,4,162.64,650.56,Credit Card,Female,41
+10/31/2022,North,Clothing & Shoes,4,162.64,650.56,Cash,Male,39
+11/4/2022,South,Clothing & Shoes,4,162.64,650.56,Cash,Female,47
+11/4/2022,East,Clothing & Shoes,5,203.3,1016.5,Credit Card,Female,43
+11/5/2022,North,Clothing & Shoes,2,81.32,162.64,Debit Card,Female,25
+11/5/2022,West,Clothing & Shoes,2,81.32,162.64,Debit Card,Male,47
+11/6/2022,East,Clothing & Shoes,4,162.64,650.56,Cash,Male,48
+11/22/2022,South,Clothing & Shoes,4,162.64,650.56,Cash,Female,38
+11/28/2022,West,Clothing & Shoes,4,162.64,650.56,Cash,Female,55
+12/6/2022,East,Clothing & Shoes,3,121.98,365.94,Credit Card,Female,58
+12/9/2022,East,Clothing & Shoes,3,121.98,365.94,Debit Card,Female,50
+12/11/2022,South,Clothing & Shoes,4,162.64,650.56,Credit Card,Male,60
+12/11/2022,East,Clothing & Shoes,1,40.66,40.66,Credit Card,Male,50
+12/13/2022,North,Clothing & Shoes,3,121.98,365.94,Credit Card,Female,62
+12/14/2022,South,Clothing & Shoes,3,121.98,365.94,Credit Card,Female,45
+12/16/2022,West,Clothing & Shoes,5,203.3,1016.5,Cash,Male,38
+12/17/2022,North,Clothing & Shoes,3,121.98,365.94,Debit Card,Male,31
+12/17/2022,North,Clothing & Shoes,3,121.98,365.94,Credit Card,Male,44
+12/20/2022,North,Clothing & Shoes,1,40.66,40.66,Cash,Female,57
+12/21/2022,North,Clothing & Shoes,4,162.64,650.56,Cash,Female,53
+12/21/2022,North,Clothing & Shoes,5,203.3,1016.5,Debit Card,Female,30
+12/22/2022,North,Clothing & Shoes,4,162.64,650.56,Cash,Female,20
+12/27/2022,South,Clothing & Shoes,2,81.32,162.64,Credit Card,Female,54
+12/28/2022,North,Clothing & Shoes,2,81.32,162.64,Debit Card,Female,32
+12/29/2022,East,Clothing & Shoes,1,40.66,40.66,Cash,Female,69
+12/29/2022,North,Clothing & Shoes,2,81.32,162.64,Credit Card,Female,25
+12/30/2022,West,Clothing & Shoes,4,162.64,650.56,Cash,Female,31
+1/7/2022,North,Books & Toys,5,26.15,130.75,Credit Card,Male,44
+1/10/2022,West,Books & Toys,1,5.23,5.23,Debit Card,Male,58
+1/11/2022,South,Books & Toys,3,15.69,47.07,Credit Card,Female,28
+1/14/2022,East,Books & Toys,2,10.46,20.92,Cash,Male,29
+1/16/2022,East,Books & Toys,4,20.92,83.68,Credit Card,Female,46
+1/16/2022,North,Books & Toys,5,26.15,130.75,Credit Card,Female,22
+1/19/2022,North,Books & Toys,1,5.23,5.23,Cash,Male,53
+1/22/2022,North,Books & Toys,1,5.23,5.23,Credit Card,Male,64
+1/23/2022,East,Books & Toys,3,15.69,47.07,Credit Card,Female,47
+1/29/2022,North,Books & Toys,2,10.46,20.92,Credit Card,Female,26
+1/30/2022,West,Books & Toys,1,5.23,5.23,Debit Card,Female,24
+2/1/2022,West,Books & Toys,2,10.46,20.92,Cash,Male,26
+2/2/2022,West,Books & Toys,1,5.23,5.23,Cash,Male,54
+2/3/2022,East,Books & Toys,3,15.69,47.07,Cash,Male,55
+2/4/2022,West,Books & Toys,5,26.15,130.75,Cash,Male,30
+2/5/2022,East,Books & Toys,1,5.23,5.23,Cash,Female,67
+2/7/2022,South,Books & Toys,5,26.15,130.75,Credit Card,Male,41
+2/8/2022,South,Books & Toys,4,20.92,83.68,Cash,Male,30
+2/13/2022,West,Books & Toys,2,10.46,20.92,Cash,Female,21
+2/14/2022,North,Books & Toys,1,5.23,5.23,Cash,Female,41
+2/16/2022,West,Books & Toys,5,26.15,130.75,Cash,Male,38
+2/17/2022,West,Books & Toys,3,15.69,47.07,Credit Card,Male,34
+2/22/2022,East,Books & Toys,3,15.69,47.07,Cash,Male,29
+2/25/2022,East,Books & Toys,4,20.92,83.68,Cash,Female,26
+2/28/2022,East,Books & Toys,5,26.15,130.75,Credit Card,Female,52
+3/1/2022,East,Books & Toys,5,26.15,130.75,Credit Card,Male,25
+3/4/2022,East,Books & Toys,3,15.69,47.07,Debit Card,Female,47
+3/4/2022,East,Books & Toys,1,5.23,5.23,Cash,Male,26
+3/10/2022,North,Books & Toys,3,15.69,47.07,Credit Card,Female,19
+3/23/2022,West,Books & Toys,5,26.15,130.75,Cash,Female,61
+3/25/2022,North,Books & Toys,5,26.15,130.75,Credit Card,Female,30
+3/25/2022,East,Books & Toys,1,5.23,5.23,Cash,Male,33
+3/25/2022,North,Books & Toys,4,20.92,83.68,Cash,Female,52
+3/26/2022,East,Books & Toys,1,5.23,5.23,Credit Card,Male,55
+3/28/2022,West,Books & Toys,5,26.15,130.75,Credit Card,Female,20
+3/29/2022,West,Books & Toys,1,5.23,5.23,Cash,Female,59
+3/29/2022,East,Books & Toys,3,15.69,47.07,Cash,Male,33
+3/31/2022,South,Books & Toys,1,5.23,5.23,Cash,Female,58
+4/1/2022,South,Books & Toys,4,20.92,83.68,Credit Card,Female,43
+4/1/2022,East,Books & Toys,4,20.92,83.68,Credit Card,Female,67
+4/2/2022,North,Books & Toys,2,10.46,20.92,Credit Card,Female,43
+4/5/2022,North,Books & Toys,1,5.23,5.23,Credit Card,Female,48
+4/5/2022,North,Books & Toys,4,20.92,83.68,Credit Card,Male,69
+4/6/2022,North,Books & Toys,1,5.23,5.23,Cash,Female,49
+4/7/2022,West,Books & Toys,2,10.46,20.92,Credit Card,Male,50
+4/8/2022,North,Books & Toys,3,15.69,47.07,Cash,Male,61
+4/8/2022,East,Books & Toys,1,5.23,5.23,Debit Card,Male,21
+4/10/2022,East,Books & Toys,3,15.69,47.07,Cash,Female,53
+4/11/2022,East,Books & Toys,2,10.46,20.92,Cash,Female,62
+4/13/2022,East,Books & Toys,3,15.69,47.07,Cash,Male,22
+4/15/2022,North,Books & Toys,5,26.15,130.75,Cash,Female,47
+4/15/2022,East,Books & Toys,1,5.23,5.23,Credit Card,Male,22
+4/16/2022,South,Books & Toys,2,10.46,20.92,Cash,Female,36
+4/19/2022,East,Books & Toys,3,15.69,47.07,Debit Card,Female,40
+4/20/2022,North,Books & Toys,2,10.46,20.92,Cash,Male,65
+4/28/2022,North,Books & Toys,1,5.23,5.23,Credit Card,Female,31
+4/28/2022,North,Books & Toys,3,15.69,47.07,Cash,Female,60
+5/2/2022,East,Books & Toys,2,10.46,20.92,Credit Card,Female,28
+5/2/2022,North,Books & Toys,2,10.46,20.92,Cash,Female,36
+5/3/2022,North,Books & Toys,3,15.69,47.07,Credit Card,Male,65
+5/6/2022,East,Books & Toys,2,10.46,20.92,Credit Card,Female,43
+5/12/2022,North,Books & Toys,1,5.23,5.23,Cash,Female,41
+5/14/2022,North,Books & Toys,1,5.23,5.23,Cash,Male,66
+5/14/2022,West,Books & Toys,4,20.92,83.68,Credit Card,Male,59
+5/17/2022,South,Books & Toys,2,10.46,20.92,Credit Card,Female,48
+5/17/2022,East,Books & Toys,2,10.46,20.92,Debit Card,Male,34
+5/20/2022,North,Books & Toys,2,10.46,20.92,Debit Card,Female,51
+5/21/2022,North,Books & Toys,2,10.46,20.92,Cash,Female,19
+5/26/2022,East,Books & Toys,3,15.69,47.07,Credit Card,Male,23
+5/29/2022,North,Books & Toys,4,20.92,83.68,Credit Card,Female,53
+5/31/2022,East,Books & Toys,3,15.69,47.07,Credit Card,Female,40
+5/31/2022,East,Books & Toys,5,26.15,130.75,Cash,Female,23
+6/1/2022,North,Books & Toys,5,26.15,130.75,Debit Card,Female,26
+6/5/2022,East,Books & Toys,2,10.46,20.92,Debit Card,Female,59
+6/6/2022,East,Books & Toys,3,15.69,47.07,Cash,Female,49
+6/7/2022,East,Books & Toys,4,20.92,83.68,Cash,Male,53
+6/8/2022,East,Books & Toys,4,20.92,83.68,Cash,Female,23
+6/9/2022,North,Books & Toys,4,20.92,83.68,Credit Card,Male,56
+6/11/2022,North,Books & Toys,3,15.69,47.07,Cash,Female,49
+6/12/2022,West,Books & Toys,5,26.15,130.75,Credit Card,Male,54
+6/12/2022,East,Books & Toys,1,5.23,5.23,Cash,Female,68
+6/14/2022,North,Books & Toys,5,26.15,130.75,Cash,Male,56
+6/22/2022,East,Books & Toys,5,26.15,130.75,Cash,Male,37
+6/23/2022,West,Books & Toys,1,5.23,5.23,Cash,Female,27
+7/1/2022,East,Books & Toys,3,15.69,47.07,Cash,Male,51
+7/2/2022,East,Books & Toys,3,15.69,47.07,Cash,Female,57
+7/3/2022,North,Books & Toys,3,15.69,47.07,Debit Card,Female,67
+7/4/2022,North,Books & Toys,3,15.69,47.07,Cash,Male,63
+7/8/2022,North,Books & Toys,3,15.69,47.07,Cash,Female,68
+7/9/2022,North,Books & Toys,1,5.23,5.23,Cash,Male,59
+7/13/2022,North,Books & Toys,3,15.69,47.07,Credit Card,Female,61
+7/15/2022,West,Books & Toys,5,26.15,130.75,Credit Card,Female,42
+7/21/2022,North,Books & Toys,3,15.69,47.07,Cash,Male,39
+7/23/2022,North,Books & Toys,4,20.92,83.68,Debit Card,Female,26
+7/25/2022,West,Books & Toys,3,15.69,47.07,Credit Card,Female,56
+7/27/2022,North,Books & Toys,3,15.69,47.07,Cash,Female,27
+7/30/2022,East,Books & Toys,3,15.69,47.07,Debit Card,Female,45
+8/5/2022,East,Books & Toys,3,15.69,47.07,Debit Card,Female,19
+8/6/2022,East,Books & Toys,5,26.15,130.75,Cash,Male,26
+8/9/2022,East,Books & Toys,1,5.23,5.23,Debit Card,Female,58
+8/13/2022,North,Books & Toys,1,5.23,5.23,Cash,Female,18
+8/13/2022,East,Books & Toys,5,26.15,130.75,Debit Card,Male,32
+8/18/2022,South,Books & Toys,3,15.69,47.07,Cash,Female,40
+8/18/2022,South,Books & Toys,4,20.92,83.68,Debit Card,Male,30
+8/20/2022,North,Books & Toys,3,15.69,47.07,Credit Card,Female,42
+8/20/2022,North,Books & Toys,1,5.23,5.23,Debit Card,Female,58
+8/20/2022,East,Books & Toys,1,5.23,5.23,Cash,Male,27
+8/21/2022,North,Books & Toys,1,5.23,5.23,Debit Card,Male,59
+8/26/2022,North,Books & Toys,3,15.69,47.07,Cash,Female,63
+8/28/2022,East,Books & Toys,4,20.92,83.68,Debit Card,Female,32
+8/29/2022,East,Books & Toys,1,5.23,5.23,Credit Card,Female,30
+8/31/2022,East,Books & Toys,4,20.92,83.68,Credit Card,Female,67
+8/31/2022,South,Books & Toys,5,26.15,130.75,Cash,Female,57
+9/11/2022,North,Books & Toys,3,15.69,47.07,Credit Card,Female,19
+9/12/2022,West,Books & Toys,5,26.15,130.75,Cash,Male,29
+9/13/2022,North,Books & Toys,2,10.46,20.92,Cash,Male,31
+9/17/2022,East,Books & Toys,2,10.46,20.92,Cash,Female,43
+9/20/2022,East,Books & Toys,3,15.69,47.07,Credit Card,Female,34
+9/22/2022,North,Books & Toys,5,26.15,130.75,Cash,Male,27
+9/24/2022,East,Books & Toys,1,5.23,5.23,Cash,Male,39
+9/25/2022,East,Books & Toys,3,15.69,47.07,Debit Card,Male,52
+9/26/2022,East,Books & Toys,2,10.46,20.92,Debit Card,Female,31
+9/28/2022,West,Books & Toys,5,26.15,130.75,Cash,Male,27
+9/28/2022,East,Books & Toys,4,20.92,83.68,Credit Card,Female,24
+10/2/2022,East,Books & Toys,4,20.92,83.68,Credit Card,Female,51
+10/5/2022,East,Books & Toys,5,26.15,130.75,Debit Card,Male,39
+10/6/2022,West,Books & Toys,2,10.46,20.92,Cash,Female,20
+10/10/2022,North,Books & Toys,5,26.15,130.75,Credit Card,Male,23
+10/14/2022,North,Books & Toys,3,15.69,47.07,Credit Card,Male,33
+10/16/2022,East,Books & Toys,1,5.23,5.23,Debit Card,Male,25
+10/16/2022,East,Books & Toys,3,15.69,47.07,Credit Card,Male,64
+10/17/2022,East,Books & Toys,2,10.46,20.92,Debit Card,Female,21
+10/17/2022,West,Books & Toys,3,15.69,47.07,Cash,Male,51
+10/18/2022,East,Books & Toys,2,10.46,20.92,Debit Card,Male,56
+10/26/2022,South,Books & Toys,2,10.46,20.92,Credit Card,Female,25
+10/26/2022,East,Books & Toys,1,5.23,5.23,Cash,Female,65
+10/27/2022,North,Books & Toys,3,15.69,47.07,Cash,Female,56
+10/28/2022,East,Books & Toys,2,10.46,20.92,Credit Card,Male,66
+10/29/2022,North,Books & Toys,2,10.46,20.92,Credit Card,Female,54
+11/1/2022,East,Books & Toys,4,20.92,83.68,Credit Card,Female,21
+11/1/2022,East,Books & Toys,4,20.92,83.68,Credit Card,Male,30
+11/2/2022,South,Books & Toys,5,26.15,130.75,Debit Card,Female,43
+11/4/2022,East,Books & Toys,3,15.69,47.07,Cash,Female,67
+11/8/2022,East,Books & Toys,1,5.23,5.23,Credit Card,Female,52
+11/8/2022,East,Books & Toys,1,5.23,5.23,Cash,Female,27
+11/12/2022,North,Books & Toys,5,26.15,130.75,Credit Card,Female,36
+11/17/2022,West,Books & Toys,2,10.46,20.92,Cash,Female,50
+11/17/2022,East,Books & Toys,4,20.92,83.68,Cash,Female,46
+11/18/2022,East,Books & Toys,2,10.46,20.92,Debit Card,Female,44
+11/19/2022,East,Books & Toys,2,10.46,20.92,Cash,Male,53
+11/23/2022,East,Books & Toys,3,15.69,47.07,Cash,Female,61
+11/24/2022,South,Books & Toys,2,10.46,20.92,Debit Card,Female,69
+11/25/2022,West,Books & Toys,2,10.46,20.92,Cash,Female,65
+11/25/2022,South,Books & Toys,3,15.69,47.07,Debit Card,Female,34
+11/27/2022,East,Books & Toys,3,15.69,47.07,Cash,Female,50
+11/28/2022,North,Books & Toys,5,26.15,130.75,Cash,Female,42
+11/30/2022,North,Books & Toys,3,15.69,47.07,Credit Card,Male,69
+12/3/2022,East,Books & Toys,4,20.92,83.68,Debit Card,Male,57
+12/5/2022,East,Books & Toys,1,5.23,5.23,Cash,Male,31
+12/8/2022,East,Books & Toys,2,10.46,20.92,Credit Card,Female,23
+12/8/2022,North,Books & Toys,2,10.46,20.92,Credit Card,Female,49
+12/9/2022,East,Books & Toys,2,10.46,20.92,Credit Card,Female,25
+12/12/2022,North,Books & Toys,2,10.46,20.92,Cash,Female,42
+12/17/2022,West,Books & Toys,1,5.23,5.23,Credit Card,Male,68
+12/17/2022,North,Books & Toys,1,5.23,5.23,Cash,Female,44
+12/17/2022,South,Books & Toys,4,20.92,83.68,Cash,Female,57
+12/20/2022,North,Books & Toys,2,10.46,20.92,Cash,Female,41
+12/22/2022,East,Books & Toys,2,10.46,20.92,Credit Card,Female,64
+12/23/2022,North,Books & Toys,3,15.69,47.07,Credit Card,Female,65
+12/25/2022,East,Books & Toys,3,15.69,47.07,Cash,Female,67
+12/25/2022,East,Books & Toys,1,5.23,5.23,Cash,Male,22
+12/28/2022,North,Books & Toys,4,20.92,83.68,Credit Card,Male,60
+12/29/2022,West,Books & Toys,5,26.15,130.75,Debit Card,Male,29
+12/29/2022,North,Books & Toys,5,26.15,130.75,Debit Card,Female,34
+1/8/2022,South,Clothing & Shoes,4,2400.68,9602.72,Credit Card,Female,45
+1/12/2022,East,Clothing & Shoes,4,2400.68,9602.72,Credit Card,Female,54
+1/12/2022,West,Clothing & Shoes,4,2400.68,9602.72,Credit Card,Male,43
+1/15/2022,West,Clothing & Shoes,2,1200.34,2400.68,Credit Card,Male,44
+1/16/2022,East,Clothing & Shoes,2,1200.34,2400.68,Cash,Female,59
+1/16/2022,North,Clothing & Shoes,4,2400.68,9602.72,Cash,Male,33
+1/18/2022,East,Clothing & Shoes,3,1800.51,5401.53,Cash,Female,65
+1/26/2022,West,Clothing & Shoes,3,1800.51,5401.53,Credit Card,Female,41
+1/26/2022,North,Clothing & Shoes,2,1200.34,2400.68,Debit Card,Male,43
+2/10/2022,West,Clothing & Shoes,4,2400.68,9602.72,Cash,Male,50
+2/10/2022,East,Clothing & Shoes,1,600.17,600.17,Credit Card,Female,58
+2/11/2022,North,Clothing & Shoes,2,1200.34,2400.68,Credit Card,Male,57
+2/11/2022,South,Clothing & Shoes,4,2400.68,9602.72,Credit Card,Male,66
+2/18/2022,West,Clothing & Shoes,5,3000.85,15004.25,Credit Card,Female,53
+2/19/2022,East,Clothing & Shoes,3,1800.51,5401.53,Cash,Female,42
+2/23/2022,East,Clothing & Shoes,5,3000.85,15004.25,Credit Card,Male,66
+2/23/2022,North,Clothing & Shoes,3,1800.51,5401.53,Cash,Female,21
+2/24/2022,South,Clothing & Shoes,1,600.17,600.17,Debit Card,Male,33
+2/27/2022,East,Clothing & Shoes,5,3000.85,15004.25,Credit Card,Female,66
+2/27/2022,North,Clothing & Shoes,2,1200.34,2400.68,Debit Card,Female,65
+3/3/2022,East,Clothing & Shoes,4,2400.68,9602.72,Debit Card,Female,18
+3/20/2022,East,Clothing & Shoes,4,2400.68,9602.72,Credit Card,Female,66
+3/21/2022,East,Clothing & Shoes,4,2400.68,9602.72,Cash,Male,54
+3/23/2022,South,Clothing & Shoes,4,2400.68,9602.72,Cash,Female,34
+3/25/2022,South,Clothing & Shoes,2,1200.34,2400.68,Credit Card,Male,25
+3/28/2022,East,Clothing & Shoes,5,3000.85,15004.25,Credit Card,Female,52
+4/2/2022,East,Clothing & Shoes,5,3000.85,15004.25,Debit Card,Female,38
+4/6/2022,North,Clothing & Shoes,4,2400.68,9602.72,Credit Card,Female,66
+4/7/2022,East,Clothing & Shoes,1,600.17,600.17,Cash,Female,36
+4/14/2022,South,Clothing & Shoes,4,2400.68,9602.72,Cash,Female,62
+4/15/2022,East,Clothing & Shoes,5,3000.85,15004.25,Cash,Male,52
+4/15/2022,North,Clothing & Shoes,2,1200.34,2400.68,Cash,Female,53
+4/23/2022,East,Clothing & Shoes,2,1200.34,2400.68,Cash,Male,35
+4/23/2022,East,Clothing & Shoes,1,600.17,600.17,Cash,Female,37
+4/24/2022,South,Clothing & Shoes,4,2400.68,9602.72,Cash,Female,38
+4/24/2022,North,Clothing & Shoes,1,600.17,600.17,Cash,Male,55
+5/8/2022,West,Clothing & Shoes,5,3000.85,15004.25,Debit Card,Female,57
+5/11/2022,East,Clothing & Shoes,3,1800.51,5401.53,Credit Card,Female,41
+5/13/2022,South,Clothing & Shoes,1,600.17,600.17,Credit Card,Male,25
+5/15/2022,North,Clothing & Shoes,4,2400.68,9602.72,Cash,Female,65
+5/17/2022,North,Clothing & Shoes,3,1800.51,5401.53,Cash,Male,31
+5/20/2022,North,Clothing & Shoes,1,600.17,600.17,Debit Card,Male,26
+5/21/2022,North,Clothing & Shoes,1,600.17,600.17,Cash,Female,21
+5/26/2022,North,Clothing & Shoes,4,2400.68,9602.72,Debit Card,Female,20
+6/2/2022,East,Clothing & Shoes,5,3000.85,15004.25,Cash,Male,26
+6/10/2022,North,Clothing & Shoes,3,1800.51,5401.53,Cash,Female,29
+6/14/2022,North,Clothing & Shoes,1,600.17,600.17,Debit Card,Female,34
+6/16/2022,East,Clothing & Shoes,3,1800.51,5401.53,Debit Card,Male,54
+6/23/2022,East,Clothing & Shoes,2,1200.34,2400.68,Cash,Female,45
+6/25/2022,East,Clothing & Shoes,2,1200.34,2400.68,Cash,Female,25
+7/2/2022,North,Clothing & Shoes,1,600.17,600.17,Debit Card,Male,58
+7/3/2022,East,Clothing & Shoes,1,600.17,600.17,Cash,Female,59
+7/5/2022,East,Clothing & Shoes,5,3000.85,15004.25,Cash,Male,53
+7/9/2022,West,Clothing & Shoes,4,2400.68,9602.72,Credit Card,Male,59
+7/17/2022,North,Clothing & Shoes,3,1800.51,5401.53,Credit Card,Female,62
+7/19/2022,South,Clothing & Shoes,5,3000.85,15004.25,Debit Card,Female,27
+7/21/2022,East,Clothing & Shoes,1,600.17,600.17,Credit Card,Female,42
+7/25/2022,North,Clothing & Shoes,1,600.17,600.17,Debit Card,Female,66
+7/28/2022,East,Clothing & Shoes,3,1800.51,5401.53,Cash,Female,20
+8/3/2022,East,Clothing & Shoes,4,2400.68,9602.72,Debit Card,Female,54
+8/3/2022,East,Clothing & Shoes,5,3000.85,15004.25,Credit Card,Male,49
+8/7/2022,East,Clothing & Shoes,1,600.17,600.17,Debit Card,Male,58
+8/19/2022,East,Clothing & Shoes,3,1800.51,5401.53,Debit Card,Female,37
+8/23/2022,South,Clothing & Shoes,3,1800.51,5401.53,Debit Card,Female,51
+8/23/2022,North,Clothing & Shoes,3,1800.51,5401.53,Debit Card,Female,32
+8/23/2022,South,Clothing & Shoes,1,600.17,600.17,Credit Card,Female,38
+8/28/2022,South,Clothing & Shoes,1,600.17,600.17,Cash,Female,69
+9/2/2022,North,Clothing & Shoes,4,2400.68,9602.72,Cash,Male,50
+9/6/2022,East,Clothing & Shoes,4,2400.68,9602.72,Cash,Female,40
+9/22/2022,North,Clothing & Shoes,1,600.17,600.17,Cash,Male,63
+9/23/2022,North,Clothing & Shoes,3,1800.51,5401.53,Debit Card,Male,21
+9/30/2022,South,Clothing & Shoes,5,3000.85,15004.25,Credit Card,Male,28
+10/1/2022,North,Clothing & Shoes,3,1800.51,5401.53,Credit Card,Female,20
+10/2/2022,East,Clothing & Shoes,1,600.17,600.17,Cash,Female,51
+10/14/2022,East,Clothing & Shoes,1,600.17,600.17,Cash,Male,61
+10/15/2022,South,Clothing & Shoes,1,600.17,600.17,Credit Card,Female,60
+10/17/2022,North,Clothing & Shoes,4,2400.68,9602.72,Credit Card,Male,40
+10/24/2022,North,Clothing & Shoes,4,2400.68,9602.72,Cash,Female,53
+10/25/2022,West,Clothing & Shoes,3,1800.51,5401.53,Cash,Male,66
+10/28/2022,East,Clothing & Shoes,1,600.17,600.17,Cash,Male,61
+11/4/2022,East,Clothing & Shoes,4,2400.68,9602.72,Credit Card,Female,66
+11/7/2022,East,Clothing & Shoes,1,600.17,600.17,Cash,Female,53
+11/20/2022,North,Clothing & Shoes,5,3000.85,15004.25,Debit Card,Female,28
+11/20/2022,North,Clothing & Shoes,5,3000.85,15004.25,Debit Card,Female,39
+11/23/2022,East,Clothing & Shoes,4,2400.68,9602.72,Cash,Female,51
+11/24/2022,East,Clothing & Shoes,2,1200.34,2400.68,Cash,Male,21
+11/26/2022,West,Clothing & Shoes,5,3000.85,15004.25,Credit Card,Male,24
+11/29/2022,North,Clothing & Shoes,4,2400.68,9602.72,Cash,Female,69
+12/1/2022,West,Clothing & Shoes,5,3000.85,15004.25,Cash,Male,34
+12/1/2022,East,Clothing & Shoes,5,3000.85,15004.25,Cash,Female,59
+12/7/2022,North,Clothing & Shoes,5,3000.85,15004.25,Debit Card,Female,39
+12/8/2022,East,Clothing & Shoes,5,3000.85,15004.25,Debit Card,Female,61
+12/12/2022,East,Clothing & Shoes,5,3000.85,15004.25,Credit Card,Female,44
+12/14/2022,East,Clothing & Shoes,2,1200.34,2400.68,Credit Card,Female,44
+12/18/2022,East,Clothing & Shoes,4,2400.68,9602.72,Credit Card,Female,29
+12/20/2022,East,Clothing & Shoes,3,1800.51,5401.53,Credit Card,Female,32
+12/21/2022,North,Clothing & Shoes,3,1800.51,5401.53,Credit Card,Female,58
+12/31/2022,East,Clothing & Shoes,3,1800.51,5401.53,Credit Card,Male,24
+1/1/2022,East,Clothing & Shoes,1,11.73,11.73,Cash,Female,45
+1/7/2022,West,Clothing & Shoes,4,46.92,187.68,Cash,Male,50
+1/14/2022,South,Clothing & Shoes,5,58.65,293.25,Debit Card,Female,26
+1/16/2022,East,Clothing & Shoes,5,58.65,293.25,Credit Card,Female,41
+1/20/2022,North,Clothing & Shoes,5,58.65,293.25,Cash,Female,56
+1/28/2022,North,Clothing & Shoes,4,46.92,187.68,Cash,Female,48
+1/28/2022,East,Clothing & Shoes,5,58.65,293.25,Cash,Female,41
+2/12/2022,East,Clothing & Shoes,5,58.65,293.25,Debit Card,Male,28
+2/14/2022,North,Clothing & Shoes,4,46.92,187.68,Credit Card,Male,53
+2/21/2022,North,Clothing & Shoes,5,58.65,293.25,Cash,Female,59
+3/7/2022,North,Clothing & Shoes,3,35.19,105.57,Credit Card,Male,41
+3/9/2022,West,Clothing & Shoes,1,11.73,11.73,Cash,Male,64
+3/14/2022,North,Clothing & Shoes,1,11.73,11.73,Cash,Female,19
+3/28/2022,East,Clothing & Shoes,2,23.46,46.92,Credit Card,Female,38
+3/28/2022,East,Clothing & Shoes,2,23.46,46.92,Credit Card,Male,30
+4/3/2022,East,Clothing & Shoes,2,23.46,46.92,Credit Card,Male,45
+4/13/2022,North,Clothing & Shoes,4,46.92,187.68,Cash,Female,59
+4/14/2022,East,Clothing & Shoes,5,58.65,293.25,Debit Card,Female,30
+4/14/2022,North,Clothing & Shoes,2,23.46,46.92,Credit Card,Male,56
+4/15/2022,East,Clothing & Shoes,5,58.65,293.25,Credit Card,Male,54
+5/2/2022,South,Clothing & Shoes,5,58.65,293.25,Credit Card,Female,66
+5/2/2022,East,Clothing & Shoes,4,46.92,187.68,Credit Card,Male,27
+5/4/2022,East,Clothing & Shoes,3,35.19,105.57,Cash,Male,61
+5/16/2022,South,Clothing & Shoes,5,58.65,293.25,Cash,Male,49
+5/29/2022,North,Clothing & Shoes,5,58.65,293.25,Debit Card,Female,24
+5/30/2022,South,Clothing & Shoes,5,58.65,293.25,Credit Card,Male,38
+5/31/2022,East,Clothing & Shoes,4,46.92,187.68,Cash,Male,40
+6/3/2022,South,Clothing & Shoes,4,46.92,187.68,Cash,Female,41
+6/20/2022,East,Clothing & Shoes,2,23.46,46.92,Credit Card,Female,67
+7/3/2022,North,Clothing & Shoes,2,23.46,46.92,Credit Card,Male,63
+7/6/2022,North,Clothing & Shoes,2,23.46,46.92,Cash,Male,30
+7/23/2022,South,Clothing & Shoes,1,11.73,11.73,Debit Card,Female,68
+8/8/2022,North,Clothing & Shoes,4,46.92,187.68,Cash,Male,24
+8/26/2022,North,Clothing & Shoes,5,58.65,293.25,Cash,Female,52
+8/27/2022,South,Clothing & Shoes,2,23.46,46.92,Debit Card,Female,33
+8/30/2022,South,Clothing & Shoes,5,58.65,293.25,Credit Card,Male,69
+9/10/2022,East,Clothing & Shoes,3,35.19,105.57,Cash,Female,41
+9/10/2022,West,Clothing & Shoes,5,58.65,293.25,Cash,Female,35
+9/13/2022,South,Clothing & Shoes,2,23.46,46.92,Credit Card,Female,37
+9/24/2022,East,Clothing & Shoes,1,11.73,11.73,Cash,Male,36
+9/29/2022,North,Clothing & Shoes,5,58.65,293.25,Cash,Female,49
+10/3/2022,West,Clothing & Shoes,1,11.73,11.73,Cash,Female,63
+10/7/2022,North,Clothing & Shoes,4,46.92,187.68,Debit Card,Female,31
+10/19/2022,East,Clothing & Shoes,4,46.92,187.68,Debit Card,Female,25
+10/28/2022,East,Clothing & Shoes,3,35.19,105.57,Cash,Female,48
+10/31/2022,West,Clothing & Shoes,2,23.46,46.92,Credit Card,Female,59
+11/3/2022,South,Clothing & Shoes,5,58.65,293.25,Credit Card,Female,52
+11/14/2022,North,Clothing & Shoes,4,46.92,187.68,Cash,Male,69
+11/22/2022,East,Clothing & Shoes,2,23.46,46.92,Cash,Female,58
+12/2/2022,East,Clothing & Shoes,2,23.46,46.92,Cash,Female,23
+12/12/2022,East,Clothing & Shoes,3,35.19,105.57,Cash,Female,57
+1/3/2022,North,Technology,5,5250,26250,Cash,Male,44
+2/23/2022,South,Technology,4,4200,16800,Cash,Female,41
+3/11/2022,East,Technology,4,4200,16800,Debit Card,Female,29
+3/21/2022,North,Technology,3,3150,9450,Credit Card,Male,60
+3/29/2022,West,Technology,4,4200,16800,Debit Card,Female,24
+4/20/2022,East,Technology,4,4200,16800,Cash,Female,67
+4/28/2022,East,Technology,3,3150,9450,Debit Card,Female,52
+5/17/2022,West,Technology,2,2100,4200,Credit Card,Female,32
+5/19/2022,North,Technology,5,5250,26250,Cash,Female,42
+5/30/2022,North,Technology,3,3150,9450,Debit Card,Female,30
+6/14/2022,East,Technology,3,3150,9450,Debit Card,Male,69
+6/15/2022,North,Technology,5,5250,26250,Credit Card,Female,44
+6/17/2022,East,Technology,4,4200,16800,Credit Card,Male,44
+6/23/2022,North,Technology,1,1050,1050,Debit Card,Female,34
+6/28/2022,East,Technology,5,5250,26250,Credit Card,Female,48
+6/29/2022,East,Technology,2,2100,4200,Cash,Male,41
+7/8/2022,East,Technology,1,1050,1050,Cash,Female,49
+7/22/2022,North,Technology,4,4200,16800,Credit Card,Male,30
+7/28/2022,East,Technology,1,1050,1050,Credit Card,Male,45
+7/30/2022,North,Technology,2,2100,4200,Credit Card,Female,43
+8/12/2022,East,Technology,2,2100,4200,Cash,Male,68
+8/19/2022,East,Technology,1,1050,1050,Credit Card,Male,68
+8/20/2022,North,Technology,3,3150,9450,Credit Card,Male,65
+8/23/2022,East,Technology,4,4200,16800,Cash,Female,43
+9/3/2022,North,Technology,3,3150,9450,Cash,Male,39
+9/8/2022,East,Technology,5,5250,26250,Cash,Female,67
+9/16/2022,North,Technology,4,4200,16800,Cash,Male,27
+9/16/2022,North,Technology,3,3150,9450,Credit Card,Female,68
+9/18/2022,East,Technology,1,1050,1050,Cash,Female,22
+9/22/2022,West,Technology,1,1050,1050,Debit Card,Male,27
+9/24/2022,North,Technology,1,1050,1050,Debit Card,Male,29
+9/25/2022,East,Technology,4,4200,16800,Credit Card,Female,64
+9/25/2022,South,Technology,4,4200,16800,Cash,Male,22
+9/26/2022,East,Technology,5,5250,26250,Debit Card,Female,56
+9/28/2022,South,Technology,2,2100,4200,Cash,Female,64
+9/30/2022,North,Technology,5,5250,26250,Cash,Male,48
+10/7/2022,West,Technology,5,5250,26250,Debit Card,Male,27
+10/11/2022,South,Technology,5,5250,26250,Debit Card,Male,47
+10/12/2022,North,Technology,2,2100,4200,Cash,Female,32
+11/1/2022,South,Technology,4,4200,16800,Credit Card,Male,21
+11/3/2022,South,Technology,3,3150,9450,Credit Card,Male,27
+11/5/2022,East,Technology,5,5250,26250,Credit Card,Female,56
+11/15/2022,South,Technology,1,1050,1050,Cash,Female,50
+11/26/2022,East,Technology,2,2100,4200,Cash,Female,43
+12/3/2022,North,Technology,2,2100,4200,Credit Card,Female,68
+12/13/2022,South,Technology,3,3150,9450,Credit Card,Male,43
+12/23/2022,North,Technology,3,3150,9450,Debit Card,Female,66
+12/26/2022,North,Technology,2,2100,4200,Debit Card,Male,36
+12/29/2022,East,Technology,5,5250,26250,Credit Card,Male,66
+1/4/2022,North,Books & Toys,4,143.36,573.44,Credit Card,Male,38
+1/9/2022,South,Books & Toys,4,143.36,573.44,Debit Card,Male,51
+1/13/2022,West,Books & Toys,1,35.84,35.84,Credit Card,Female,26
+1/14/2022,East,Books & Toys,4,143.36,573.44,Cash,Male,29
+1/15/2022,South,Books & Toys,2,71.68,143.36,Credit Card,Female,56
+1/17/2022,North,Books & Toys,3,107.52,322.56,Credit Card,Male,42
+1/22/2022,North,Books & Toys,1,35.84,35.84,Credit Card,Female,56
+1/24/2022,North,Books & Toys,4,143.36,573.44,Cash,Male,29
+1/28/2022,East,Books & Toys,2,71.68,143.36,Debit Card,Female,23
+1/29/2022,East,Books & Toys,2,71.68,143.36,Cash,Male,40
+1/31/2022,East,Books & Toys,5,179.2,896,Credit Card,Female,23
+2/2/2022,North,Books & Toys,1,35.84,35.84,Debit Card,Female,35
+2/3/2022,North,Books & Toys,4,143.36,573.44,Cash,Male,48
+2/3/2022,West,Books & Toys,3,107.52,322.56,Credit Card,Female,39
+2/7/2022,North,Books & Toys,4,143.36,573.44,Credit Card,Male,33
+2/7/2022,West,Books & Toys,3,107.52,322.56,Debit Card,Female,50
+2/11/2022,East,Books & Toys,1,35.84,35.84,Cash,Female,22
+2/19/2022,East,Books & Toys,4,143.36,573.44,Debit Card,Female,63
+2/20/2022,East,Books & Toys,3,107.52,322.56,Debit Card,Male,44
+2/21/2022,East,Books & Toys,4,143.36,573.44,Credit Card,Female,62
+2/22/2022,East,Books & Toys,5,179.2,896,Cash,Male,46
+3/3/2022,North,Books & Toys,4,143.36,573.44,Debit Card,Female,65
+3/4/2022,South,Books & Toys,3,107.52,322.56,Cash,Male,67
+3/8/2022,North,Books & Toys,4,143.36,573.44,Cash,Male,24
+3/10/2022,East,Books & Toys,2,71.68,143.36,Credit Card,Female,22
+3/12/2022,East,Books & Toys,1,35.84,35.84,Credit Card,Female,52
+3/15/2022,East,Books & Toys,1,35.84,35.84,Cash,Female,38
+3/21/2022,East,Books & Toys,5,179.2,896,Credit Card,Female,22
+3/27/2022,South,Books & Toys,5,179.2,896,Debit Card,Female,65
+4/2/2022,North,Books & Toys,1,35.84,35.84,Debit Card,Female,41
+4/8/2022,East,Books & Toys,2,71.68,143.36,Credit Card,Male,25
+4/9/2022,North,Books & Toys,1,35.84,35.84,Cash,Male,26
+4/18/2022,East,Books & Toys,1,35.84,35.84,Cash,Female,51
+4/20/2022,North,Books & Toys,2,71.68,143.36,Cash,Male,43
+4/20/2022,North,Books & Toys,4,143.36,573.44,Credit Card,Female,46
+4/30/2022,East,Books & Toys,5,179.2,896,Debit Card,Male,55
+5/1/2022,East,Books & Toys,4,143.36,573.44,Debit Card,Female,67
+5/1/2022,West,Books & Toys,4,143.36,573.44,Debit Card,Female,56
+5/4/2022,North,Books & Toys,5,179.2,896,Debit Card,Male,64
+5/6/2022,South,Books & Toys,3,107.52,322.56,Cash,Female,60
+5/16/2022,East,Books & Toys,2,71.68,143.36,Cash,Male,27
+5/22/2022,West,Books & Toys,1,35.84,35.84,Debit Card,Male,38
+5/23/2022,North,Books & Toys,2,71.68,143.36,Debit Card,Male,51
+5/26/2022,North,Books & Toys,2,71.68,143.36,Credit Card,Female,68
+5/27/2022,East,Books & Toys,4,143.36,573.44,Cash,Male,27
+5/29/2022,East,Books & Toys,4,143.36,573.44,Debit Card,Female,60
+5/31/2022,North,Books & Toys,5,179.2,896,Credit Card,Male,38
+6/1/2022,North,Books & Toys,4,143.36,573.44,Credit Card,Female,43
+6/11/2022,South,Books & Toys,1,35.84,35.84,Credit Card,Female,51
+6/14/2022,West,Books & Toys,5,179.2,896,Cash,Female,58
+6/16/2022,North,Books & Toys,3,107.52,322.56,Cash,Female,20
+6/22/2022,West,Books & Toys,3,107.52,322.56,Cash,Male,47
+6/30/2022,North,Books & Toys,1,35.84,35.84,Debit Card,Female,53
+7/4/2022,South,Books & Toys,5,179.2,896,Credit Card,Female,40
+7/9/2022,South,Books & Toys,1,35.84,35.84,Credit Card,Female,39
+7/10/2022,East,Books & Toys,3,107.52,322.56,Cash,Female,44
+7/10/2022,North,Books & Toys,1,35.84,35.84,Cash,Male,64
+7/10/2022,South,Books & Toys,5,179.2,896,Debit Card,Female,64
+7/13/2022,West,Books & Toys,3,107.52,322.56,Debit Card,Female,66
+7/23/2022,East,Books & Toys,1,35.84,35.84,Credit Card,Female,40
+7/30/2022,North,Books & Toys,3,107.52,322.56,Debit Card,Female,29
+8/6/2022,South,Books & Toys,1,35.84,35.84,Debit Card,Female,30
+8/16/2022,East,Books & Toys,1,35.84,35.84,Credit Card,Female,38
+8/19/2022,East,Books & Toys,5,179.2,896,Debit Card,Female,68
+8/22/2022,East,Books & Toys,1,35.84,35.84,Credit Card,Male,28
+9/7/2022,East,Books & Toys,2,71.68,143.36,Cash,Female,37
+9/7/2022,West,Books & Toys,1,35.84,35.84,Debit Card,Female,42
+9/8/2022,North,Books & Toys,4,143.36,573.44,Cash,Female,23
+9/20/2022,North,Books & Toys,2,71.68,143.36,Cash,Female,25
+9/21/2022,West,Books & Toys,3,107.52,322.56,Cash,Male,23
+9/25/2022,West,Books & Toys,1,35.84,35.84,Cash,Male,30
+10/1/2022,West,Books & Toys,2,71.68,143.36,Cash,Female,43
+10/6/2022,East,Books & Toys,3,107.52,322.56,Debit Card,Female,63
+10/6/2022,South,Books & Toys,1,35.84,35.84,Cash,Female,58
+10/18/2022,North,Books & Toys,1,35.84,35.84,Debit Card,Female,45
+10/18/2022,East,Books & Toys,2,71.68,143.36,Debit Card,Male,45
+10/19/2022,West,Books & Toys,4,143.36,573.44,Credit Card,Female,58
+10/21/2022,East,Books & Toys,3,107.52,322.56,Cash,Male,22
+10/22/2022,West,Books & Toys,2,71.68,143.36,Credit Card,Female,61
+10/26/2022,East,Books & Toys,2,71.68,143.36,Debit Card,Male,34
+10/31/2022,South,Books & Toys,5,179.2,896,Credit Card,Male,41
+11/3/2022,West,Books & Toys,1,35.84,35.84,Debit Card,Female,18
+11/5/2022,East,Books & Toys,5,179.2,896,Cash,Male,23
+11/12/2022,East,Books & Toys,4,143.36,573.44,Credit Card,Female,54
+11/14/2022,North,Books & Toys,3,107.52,322.56,Cash,Female,58
+11/16/2022,North,Books & Toys,2,71.68,143.36,Cash,Male,25
+11/17/2022,North,Books & Toys,3,107.52,322.56,Cash,Female,52
+11/26/2022,North,Books & Toys,4,143.36,573.44,Cash,Female,34
+11/27/2022,West,Books & Toys,4,143.36,573.44,Cash,Female,60
+11/30/2022,North,Books & Toys,2,71.68,143.36,Cash,Male,40
+11/30/2022,East,Books & Toys,5,179.2,896,Credit Card,Female,49
+12/4/2022,West,Books & Toys,3,107.52,322.56,Credit Card,Female,27
+12/11/2022,West,Books & Toys,5,179.2,896,Cash,Female,57
+12/13/2022,East,Books & Toys,3,107.52,322.56,Credit Card,Male,39
+12/17/2022,East,Books & Toys,3,107.52,322.56,Credit Card,Female,64
+12/17/2022,South,Books & Toys,4,143.36,573.44,Cash,Female,38
+12/23/2022,East,Books & Toys,4,143.36,573.44,Cash,Female,49
+12/24/2022,North,Books & Toys,3,107.52,322.56,Credit Card,Male,58
+12/29/2022,North,Books & Toys,1,35.84,35.84,Credit Card,Female,38
+12/31/2022,East,Books & Toys,1,35.84,35.84,Debit Card,Female,59
+8/17/2022,East,Books & Toys,1,36.84,36.84,Debit Card,Female,60
