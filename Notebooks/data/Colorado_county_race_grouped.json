@@ -1,0 +1,6761 @@
+[{
+	"County": "Adams County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8001,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 504108,
+	"Food Insecurity population": 44230,
+	"Food Insecurity Rate": 8.8,
+	"disability number": {
+		"Asian": 1508,
+		"Black": 1816,
+		"Native American": 921,
+		"Pacific Islander": 48,
+		"White nonhispanic": 30251
+	},
+	"disability rate": {
+		"Asian": 7.6,
+		"Black": 10.9,
+		"Latino": 8.6,
+		"Native American": 16.9,
+		"Pacific Islander": 10,
+		"White nonhispanic": 12.1,
+		"Overall": 10.4
+	},
+	"homeowners": {
+		"Asian": 3777,
+		"Black": 2049,
+		"Native American": 1215,
+		"Pacific Islander": 96,
+		"White nonhispanic": 73229,
+		"Overall": 110208
+	},
+	"homeownership rate": {
+		"Asian": 65.8,
+		"Black": 38.9,
+		"Latino": 54.8,
+		"Native American": 63.1,
+		"Pacific Islander": 36.1,
+		"White nonhispanic": 73.9,
+		"Overall": 66.2
+	},
+	"median income": {
+		"Asian": 71815,
+		"Black": 46490,
+		"Latino": 58592,
+		"Native American": 68111,
+		"Pacific Islander": 83750,
+		"White nonhispanic": 81212,
+		"Overall": 71202
+	},
+	"percent": {
+		"Asian": 5,
+		"Black": 4.6,
+		"Latino": 40,
+		"Native American": 2.9,
+		"Pacific Islander": 0.3,
+		"White nonhispanic": 50
+	},
+	"populations": {
+		"Asian": 25444,
+		"Black": 23215,
+		"Latino": 201784,
+		"Native American": 14432,
+		"Pacific Islander": 1381,
+		"White nonhispanic": 252170
+	},
+	"poverty population": {
+		"Asian": 2542,
+		"Black": 2934,
+		"Latino": 30309,
+		"Native American": 619,
+		"Pacific Islander": 105,
+		"White nonhispanic": 16706,
+		"Overall": 54159
+	},
+	"poverty rate": {
+		"Asian": 12.8,
+		"Black": 17.8,
+		"Latino": 15.2,
+		"Native American": 11.4,
+		"Pacific Islander": 18,
+		"White nonhispanic": 6.7,
+		"Overall": 10.8
+	},
+	"unemployed": {
+		"Asian": 688,
+		"Black": 743,
+		"Latino": 5433,
+		"Native American": 239,
+		"Pacific Islander": 76,
+		"White nonhispanic": 8061,
+		"Overall": 15305
+	},
+	"unemployment rate": {
+		"Asian": 4.4,
+		"Black": 6.1,
+		"Latino": 3.9,
+		"Native American": 5.3,
+		"Pacific Islander": 14.8,
+		"White nonhispanic": 3.9,
+		"Overall": 4
+	}
+}, {
+	"County": "Alamosa County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8003,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 16107,
+	"Food Insecurity population": 2340,
+	"Food Insecurity Rate": 14.5,
+	"disability number": {
+		"Asian": 22,
+		"Black": 22,
+		"Native American": 108,
+		"Pacific Islander": null,
+		"White nonhispanic": 1053
+	},
+	"disability rate": {
+		"Asian": 10.3,
+		"Black": 16.5,
+		"Latino": 20.8,
+		"Native American": 20.2,
+		"Pacific Islander": null,
+		"White nonhispanic": 14,
+		"Overall": 17.5
+	},
+	"homeowners": {
+		"Asian": 26,
+		"Black": 11,
+		"Native American": 97,
+		"Pacific Islander": null,
+		"White nonhispanic": 1999,
+		"Overall": 3562
+	},
+	"homeownership rate": {
+		"Asian": 44.1,
+		"Black": 20.4,
+		"Latino": 55.3,
+		"Native American": 40.2,
+		"Pacific Islander": null,
+		"White nonhispanic": 64,
+		"Overall": 57.8
+	},
+	"median income": {
+		"Asian": null,
+		"Black": 29844,
+		"Latino": 30319,
+		"Native American": 52759,
+		"Pacific Islander": null,
+		"White nonhispanic": 46510,
+		"Overall": 37515
+	},
+	"percent": {
+		"Asian": 2,
+		"Black": 1.4,
+		"Latino": 46.8,
+		"Native American": 4.7,
+		"Pacific Islander": 0.5,
+		"White nonhispanic": 47.6
+	},
+	"populations": {
+		"Asian": 319,
+		"Black": 223,
+		"Latino": 7533,
+		"Native American": 757,
+		"Pacific Islander": 74,
+		"White nonhispanic": 7672
+	},
+	"poverty population": {
+		"Asian": 96,
+		"Black": 33,
+		"Latino": 2268,
+		"Native American": 51,
+		"Pacific Islander": null,
+		"White nonhispanic": 1143,
+		"Overall": 3528
+	},
+	"poverty rate": {
+		"Asian": 58.2,
+		"Black": 27.5,
+		"Latino": 32.6,
+		"Native American": 9.6,
+		"Pacific Islander": null,
+		"White nonhispanic": 15.8,
+		"Overall": 23.5
+	},
+	"unemployed": {
+		"Asian": 27,
+		"Black": 0,
+		"Latino": 771,
+		"Native American": 24,
+		"Pacific Islander": null,
+		"White nonhispanic": 319,
+		"Overall": 1157
+	},
+	"unemployment rate": {
+		"Asian": 15.6,
+		"Black": 0,
+		"Latino": 13.7,
+		"Native American": 5.6,
+		"Pacific Islander": null,
+		"White nonhispanic": 5.1,
+		"Overall": 9.2
+	}
+}, {
+	"County": "Arapahoe County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8005,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 644560,
+	"Food Insecurity population": 53830,
+	"Food Insecurity Rate": 8.4,
+	"disability number": {
+		"Asian": 2849,
+		"Black": 6343,
+		"Native American": 526,
+		"Pacific Islander": 60,
+		"White nonhispanic": 40242
+	},
+	"disability rate": {
+		"Asian": 7.3,
+		"Black": 9.2,
+		"Latino": 5.4,
+		"Native American": 11.9,
+		"Pacific Islander": 4.3,
+		"White nonhispanic": 10.5,
+		"Overall": 9
+	},
+	"homeowners": {
+		"Asian": 7786,
+		"Black": 9949,
+		"Native American": 917,
+		"Pacific Islander": 189,
+		"White nonhispanic": 117587,
+		"Overall": 152635
+	},
+	"homeownership rate": {
+		"Asian": 65,
+		"Black": 41.3,
+		"Latino": 43.1,
+		"Native American": 52,
+		"Pacific Islander": 44.5,
+		"White nonhispanic": 71,
+		"Overall": 63.5
+	},
+	"median income": {
+		"Asian": 79021,
+		"Black": 58390,
+		"Latino": 60895,
+		"Native American": 59857,
+		"Pacific Islander": 73750,
+		"White nonhispanic": 85278,
+		"Overall": 77469
+	},
+	"percent": {
+		"Asian": 7.6,
+		"Black": 12.7,
+		"Latino": 19.2,
+		"Native American": 1.8,
+		"Pacific Islander": 0.5,
+		"White nonhispanic": 60.3
+	},
+	"populations": {
+		"Asian": 48822,
+		"Black": 82107,
+		"Latino": 123960,
+		"Native American": 11329,
+		"Pacific Islander": 3328,
+		"White nonhispanic": 388556
+	},
+	"poverty population": {
+		"Asian": 4003,
+		"Black": 8776,
+		"Latino": 15714,
+		"Native American": 452,
+		"Pacific Islander": 143,
+		"White nonhispanic": 21255,
+		"Overall": 51542
+	},
+	"poverty rate": {
+		"Asian": 10.3,
+		"Black": 12.7,
+		"Latino": 12.9,
+		"Native American": 10.3,
+		"Pacific Islander": 9.9,
+		"White nonhispanic": 5.5,
+		"Overall": 8.1
+	},
+	"unemployed": {
+		"Asian": 899,
+		"Black": 3379,
+		"Latino": 4104,
+		"Native American": 292,
+		"Pacific Islander": 34,
+		"White nonhispanic": 11004,
+		"Overall": 20839
+	},
+	"unemployment rate": {
+		"Asian": 2.9,
+		"Black": 6.3,
+		"Latino": 4.8,
+		"Native American": 8.2,
+		"Pacific Islander": 3,
+		"White nonhispanic": 3.4,
+		"Overall": 4.1
+	}
+}, {
+	"County": "Archuleta County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8007,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 13253,
+	"Food Insecurity population": 1380,
+	"Food Insecurity Rate": 10.4,
+	"disability number": {
+		"Asian": 0,
+		"Black": 0,
+		"Native American": 16,
+		"Pacific Islander": null,
+		"White nonhispanic": 1575
+	},
+	"disability rate": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 11.3,
+		"Native American": 8.7,
+		"Pacific Islander": null,
+		"White nonhispanic": 15.7,
+		"Overall": 14.7
+	},
+	"homeowners": {
+		"Asian": 61,
+		"Black": 25,
+		"Native American": 12,
+		"Pacific Islander": null,
+		"White nonhispanic": 3587,
+		"Overall": 4230
+	},
+	"homeownership rate": {
+		"Asian": 100,
+		"Black": 100,
+		"Latino": 53,
+		"Native American": 20.3,
+		"Pacific Islander": null,
+		"White nonhispanic": 76.2,
+		"Overall": 72.2
+	},
+	"median income": {
+		"Asian": 85911,
+		"Black": null,
+		"Latino": 39500,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 54209,
+		"Overall": 52221
+	},
+	"percent": {
+		"Asian": 1.2,
+		"Black": 1.9,
+		"Latino": 18.4,
+		"Native American": 2,
+		"Pacific Islander": 0.6,
+		"White nonhispanic": 76.3
+	},
+	"populations": {
+		"Asian": 158,
+		"Black": 251,
+		"Latino": 2435,
+		"Native American": 263,
+		"Pacific Islander": 74,
+		"White nonhispanic": 10116
+	},
+	"poverty population": {
+		"Asian": 6,
+		"Black": 52,
+		"Latino": 313,
+		"Native American": 43,
+		"Pacific Islander": null,
+		"White nonhispanic": 766,
+		"Overall": 1153
+	},
+	"poverty rate": {
+		"Asian": 4.8,
+		"Black": 22.6,
+		"Latino": 12.9,
+		"Native American": 23.4,
+		"Pacific Islander": null,
+		"White nonhispanic": 7.6,
+		"Overall": 8.8
+	},
+	"unemployed": {
+		"Asian": 0,
+		"Black": 8,
+		"Latino": 168,
+		"Native American": 6,
+		"Pacific Islander": null,
+		"White nonhispanic": 360,
+		"Overall": 568
+	},
+	"unemployment rate": {
+		"Asian": 0,
+		"Black": 4.2,
+		"Latino": 9.6,
+		"Native American": 3.4,
+		"Pacific Islander": null,
+		"White nonhispanic": 4.1,
+		"Overall": 5.1
+	}
+}, {
+	"County": "Baca County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8009,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 3561,
+	"Food Insecurity population": 530,
+	"Food Insecurity Rate": 14.8,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 627
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 10.1,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 21.4,
+		"Overall": 20.2
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1027,
+		"Overall": 1180
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 58.9,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 73.5,
+		"Overall": 71
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 28594,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 40566,
+		"Overall": 35878
+	},
+	"percent": {
+		"Asian": 0,
+		"Black": 1.5,
+		"Latino": 11,
+		"Native American": 3.1,
+		"Pacific Islander": 0.1,
+		"White nonhispanic": 84.8
+	},
+	"populations": {
+		"Asian": 0,
+		"Black": 54,
+		"Latino": 390,
+		"Native American": 111,
+		"Pacific Islander": 3,
+		"White nonhispanic": 3021
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 71,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 528,
+		"Overall": 654
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 18.3,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 18.2,
+		"Overall": 19
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 3,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 40,
+		"Overall": 61
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 1.1,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1.6,
+		"Overall": 2.1
+	}
+}, {
+	"County": "Bent County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8011,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 5787,
+	"Food Insecurity population": 1130,
+	"Food Insecurity Rate": 19.4,
+	"disability number": {
+		"Asian": null,
+		"Black": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 660
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 28.2,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 25,
+		"Overall": 26.1
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 826,
+		"Overall": 1053
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 46.9,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 64.3,
+		"Overall": 59.6
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 26602,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 32218,
+		"Overall": 30900
+	},
+	"percent": {
+		"Asian": 0.3,
+		"Black": 4.1,
+		"Latino": 32.1,
+		"Native American": 1.8,
+		"Pacific Islander": 0,
+		"White nonhispanic": 63.4
+	},
+	"populations": {
+		"Asian": 15,
+		"Black": 238,
+		"Latino": 1855,
+		"Native American": 102,
+		"Pacific Islander": 0,
+		"White nonhispanic": 3667
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 534,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 620,
+		"Overall": 1177
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 41.1,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 23.4,
+		"Overall": 29.5
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 182,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 119,
+		"Overall": 289
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 11.9,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 3.7,
+		"Overall": 5.8
+	}
+}, {
+	"County": "Boulder County",
+	"State": "Colorado",
+	"Fb Id": 110,
+	"Fips": 8013,
+	"Org.Name": "Community Food Share",
+	"State Abbreviation": "CO",
+	"Total population": 322510,
+	"Food Insecurity population": 29610,
+	"Food Insecurity Rate": 9.2,
+	"disability number": {
+		"Asian": 594,
+		"Black": 163,
+		"Native American": 305,
+		"Pacific Islander": 28,
+		"White nonhispanic": 21197
+	},
+	"disability rate": {
+		"Asian": 3.9,
+		"Black": 5.6,
+		"Latino": 7.3,
+		"Native American": 21.8,
+		"Pacific Islander": 13.8,
+		"White nonhispanic": 8.5,
+		"Overall": 8.1
+	},
+	"homeowners": {
+		"Asian": 2623,
+		"Black": 354,
+		"Native American": 138,
+		"Pacific Islander": 66,
+		"White nonhispanic": 69375,
+		"Overall": 79273
+	},
+	"homeownership rate": {
+		"Asian": 53.8,
+		"Black": 30.4,
+		"Latino": 45.1,
+		"Native American": 29.4,
+		"Pacific Islander": 75.9,
+		"White nonhispanic": 65.3,
+		"Overall": 62.2
+	},
+	"median income": {
+		"Asian": 96400,
+		"Black": 48371,
+		"Latino": 55208,
+		"Native American": 37000,
+		"Pacific Islander": null,
+		"White nonhispanic": 87340,
+		"Overall": 83019
+	},
+	"percent": {
+		"Asian": 6.1,
+		"Black": 1.5,
+		"Latino": 13.9,
+		"Native American": 1.4,
+		"Pacific Islander": 0.2,
+		"White nonhispanic": 77.6
+	},
+	"populations": {
+		"Asian": 19814,
+		"Black": 4945,
+		"Latino": 44740,
+		"Native American": 4424,
+		"Pacific Islander": 620,
+		"White nonhispanic": 250174
+	},
+	"poverty population": {
+		"Asian": 1550,
+		"Black": 607,
+		"Latino": 7336,
+		"Native American": 220,
+		"Pacific Islander": 33,
+		"White nonhispanic": 25675,
+		"Overall": 36358
+	},
+	"poverty rate": {
+		"Asian": 11.1,
+		"Black": 22.3,
+		"Latino": 17,
+		"Native American": 16,
+		"Pacific Islander": 20.2,
+		"White nonhispanic": 10.6,
+		"Overall": 11.7
+	},
+	"unemployed": {
+		"Asian": 334,
+		"Black": 78,
+		"Latino": 2092,
+		"Native American": 159,
+		"Pacific Islander": 24,
+		"White nonhispanic": 8353,
+		"Overall": 11245
+	},
+	"unemployment rate": {
+		"Asian": 2.6,
+		"Black": 3.1,
+		"Latino": 6.6,
+		"Native American": 14,
+		"Pacific Islander": 11.6,
+		"White nonhispanic": 3.9,
+		"Overall": 4.2
+	}
+}, {
+	"County": "Broomfield County",
+	"State": "Colorado",
+	"Fb Id": 110,
+	"Fips": 8014,
+	"Org.Name": "Community Food Share",
+	"State Abbreviation": "CO",
+	"Total population": 67886,
+	"Food Insecurity population": 5390,
+	"Food Insecurity Rate": 7.9,
+	"disability number": {
+		"Asian": 128,
+		"Black": 87,
+		"Native American": 41,
+		"Pacific Islander": null,
+		"White nonhispanic": 4376
+	},
+	"disability rate": {
+		"Asian": 2.9,
+		"Black": 10.1,
+		"Latino": 9,
+		"Native American": 15.1,
+		"Pacific Islander": null,
+		"White nonhispanic": 8.4,
+		"Overall": 8.1
+	},
+	"homeowners": {
+		"Asian": 1046,
+		"Black": 166,
+		"Native American": 72,
+		"Pacific Islander": null,
+		"White nonhispanic": 15015,
+		"Overall": 17917
+	},
+	"homeownership rate": {
+		"Asian": 69.1,
+		"Black": 47.2,
+		"Latino": 49.7,
+		"Native American": 47.4,
+		"Pacific Islander": null,
+		"White nonhispanic": 67.1,
+		"Overall": 65.2
+	},
+	"median income": {
+		"Asian": 114196,
+		"Black": 90385,
+		"Latino": 78692,
+		"Native American": 82500,
+		"Pacific Islander": null,
+		"White nonhispanic": 97181,
+		"Overall": 96416
+	},
+	"percent": {
+		"Asian": 8,
+		"Black": 2.3,
+		"Latino": 12.4,
+		"Native American": 1.4,
+		"Pacific Islander": 0.1,
+		"White nonhispanic": 76.8
+	},
+	"populations": {
+		"Asian": 5412,
+		"Black": 1528,
+		"Latino": 8404,
+		"Native American": 938,
+		"Pacific Islander": 70,
+		"White nonhispanic": 52116
+	},
+	"poverty population": {
+		"Asian": 183,
+		"Black": 62,
+		"Latino": 830,
+		"Native American": 18,
+		"Pacific Islander": null,
+		"White nonhispanic": 2620,
+		"Overall": 3763
+	},
+	"poverty rate": {
+		"Asian": 4.1,
+		"Black": 7.1,
+		"Latino": 9.9,
+		"Native American": 6.1,
+		"Pacific Islander": null,
+		"White nonhispanic": 5.1,
+		"Overall": 5.6
+	},
+	"unemployed": {
+		"Asian": 95,
+		"Black": 6,
+		"Latino": 267,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 1234,
+		"Overall": 1730
+	},
+	"unemployment rate": {
+		"Asian": 2.7,
+		"Black": 0.9,
+		"Latino": 4.4,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 2.9,
+		"Overall": 3.2
+	}
+}, {
+	"County": "Chaffee County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8015,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 19557,
+	"Food Insecurity population": 2080,
+	"Food Insecurity Rate": 10.6,
+	"disability number": {
+		"Asian": 80,
+		"Black": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 2757
+	},
+	"disability rate": {
+		"Asian": 27.6,
+		"Black": 0,
+		"Latino": 12.9,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 17.1,
+		"Overall": 17.1
+	},
+	"homeowners": {
+		"Asian": 79,
+		"Black": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 5913,
+		"Overall": 6405
+	},
+	"homeownership rate": {
+		"Asian": 73.8,
+		"Black": null,
+		"Latino": 60.7,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 79.2,
+		"Overall": 77.8
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 50049,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 56133,
+		"Overall": 55771
+	},
+	"percent": {
+		"Asian": 2.2,
+		"Black": 2,
+		"Latino": 10,
+		"Native American": 1.3,
+		"Pacific Islander": 0.2,
+		"White nonhispanic": 84.9
+	},
+	"populations": {
+		"Asian": 425,
+		"Black": 395,
+		"Latino": 1963,
+		"Native American": 259,
+		"Pacific Islander": 40,
+		"White nonhispanic": 16609
+	},
+	"poverty population": {
+		"Asian": 77,
+		"Black": 0,
+		"Latino": 290,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1411,
+		"Overall": 1776
+	},
+	"poverty rate": {
+		"Asian": 26.6,
+		"Black": 0,
+		"Latino": 19.1,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 8.8,
+		"Overall": 9.8
+	},
+	"unemployed": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 140,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 421,
+		"Overall": 577
+	},
+	"unemployment rate": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 8.9,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 2.9,
+		"Overall": 3.4
+	}
+}, {
+	"County": "Cheyenne County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8017,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 2026,
+	"Food Insecurity population": 200,
+	"Food Insecurity Rate": 9.9,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 213
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 8.4,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 13.8,
+		"Overall": 12.2
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 509,
+		"Overall": 553
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 31.2,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 75.9,
+		"Overall": 71.4
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 51375,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 54083,
+		"Overall": 53977
+	},
+	"percent": {
+		"Asian": 2.2,
+		"Black": 0.1,
+		"Latino": 17.1,
+		"Native American": 2.7,
+		"Pacific Islander": 0.2,
+		"White nonhispanic": 77.8
+	},
+	"populations": {
+		"Asian": 44,
+		"Black": 2,
+		"Latino": 346,
+		"Native American": 54,
+		"Pacific Islander": 4,
+		"White nonhispanic": 1576
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 203,
+		"Overall": 203
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 13.1,
+		"Overall": 10.2
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 54,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 45,
+		"Overall": 109
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 23.2,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 3.7,
+		"Overall": 7.4
+	}
+}, {
+	"County": "Clear Creek County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8019,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 9495,
+	"Food Insecurity population": 830,
+	"Food Insecurity Rate": 8.8,
+	"disability number": {
+		"Asian": null,
+		"Black": 30,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 833
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": 30,
+		"Latino": 6,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 10,
+		"Overall": 9.9
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": 14,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 3150,
+		"Overall": 3394
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": 24.6,
+		"Latino": 82.6,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 78.4,
+		"Overall": 77.2
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 70333,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 68534,
+		"Overall": 67060
+	},
+	"percent": {
+		"Asian": 1.3,
+		"Black": 1.6,
+		"Latino": 7,
+		"Native American": 3,
+		"Pacific Islander": 0.1,
+		"White nonhispanic": 88.7
+	},
+	"populations": {
+		"Asian": 127,
+		"Black": 156,
+		"Latino": 662,
+		"Native American": 288,
+		"Pacific Islander": 14,
+		"White nonhispanic": 8422
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": 45,
+		"Latino": 54,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 578,
+		"Overall": 725
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": 45,
+		"Latino": 8.5,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 6.9,
+		"Overall": 7.8
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 258,
+		"Overall": 256
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 3.5,
+		"Overall": 3.1
+	}
+}, {
+	"County": "Conejos County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8021,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 8128,
+	"Food Insecurity population": 1080,
+	"Food Insecurity Rate": 13.3,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": 67,
+		"Pacific Islander": null,
+		"White nonhispanic": 611
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 22.5,
+		"Native American": 32.4,
+		"Pacific Islander": null,
+		"White nonhispanic": 17,
+		"Overall": 20.3
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": 91,
+		"Pacific Islander": null,
+		"White nonhispanic": 1140,
+		"Overall": 2528
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 77.3,
+		"Native American": 80.5,
+		"Pacific Islander": null,
+		"White nonhispanic": 83.3,
+		"Overall": 79.4
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 29433,
+		"Native American": 18625,
+		"Pacific Islander": null,
+		"White nonhispanic": 49911,
+		"Overall": 36084
+	},
+	"percent": {
+		"Asian": 0.3,
+		"Black": 1,
+		"Latino": 52.4,
+		"Native American": 4.1,
+		"Pacific Islander": 0.3,
+		"White nonhispanic": 44.6
+	},
+	"populations": {
+		"Asian": 27,
+		"Black": 82,
+		"Latino": 4263,
+		"Native American": 330,
+		"Pacific Islander": 27,
+		"White nonhispanic": 3622
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 1218,
+		"Native American": 41,
+		"Pacific Islander": null,
+		"White nonhispanic": 480,
+		"Overall": 1756
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 28.7,
+		"Native American": 19.8,
+		"Pacific Islander": null,
+		"White nonhispanic": 13.3,
+		"Overall": 21.7
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 499,
+		"Native American": 49,
+		"Pacific Islander": null,
+		"White nonhispanic": 99,
+		"Overall": 653
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 14.7,
+		"Native American": 28.2,
+		"Pacific Islander": null,
+		"White nonhispanic": 3.7,
+		"Overall": 10.5
+	}
+}, {
+	"County": "Costilla County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8023,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 3745,
+	"Food Insecurity population": 650,
+	"Food Insecurity Rate": 17.4,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 316
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 28.2,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 25.3,
+		"Overall": 27.6
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 425,
+		"Overall": 1205
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 60.9,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 83.7,
+		"Overall": 69
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 27112,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 39000,
+		"Overall": 30965
+	},
+	"percent": {
+		"Asian": 1.5,
+		"Black": 0.4,
+		"Latino": 61.9,
+		"Native American": 5.6,
+		"Pacific Islander": 0,
+		"White nonhispanic": 33.4
+	},
+	"populations": {
+		"Asian": 56,
+		"Black": 14,
+		"Latino": 2317,
+		"Native American": 211,
+		"Pacific Islander": 0,
+		"White nonhispanic": 1250
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 583,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 394,
+		"Overall": 1023
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 25.2,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 31.5,
+		"Overall": 27.3
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 139,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 170,
+		"Overall": 306
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 7.3,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 15.3,
+		"Overall": 9.6
+	}
+}, {
+	"County": "Crowley County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8025,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 5754,
+	"Food Insecurity population": 1070,
+	"Food Insecurity Rate": 18.6,
+	"disability number": {
+		"Asian": null,
+		"Black": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 851
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 17.7,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 26.8,
+		"Overall": 24.6
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 713,
+		"Overall": 943
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 51.8,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 81.7,
+		"Overall": 72.5
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 34815,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 43156,
+		"Overall": 42135
+	},
+	"percent": {
+		"Asian": 2,
+		"Black": 4.4,
+		"Latino": 31.9,
+		"Native American": 3,
+		"Pacific Islander": 0.5,
+		"White nonhispanic": 61.5
+	},
+	"populations": {
+		"Asian": 116,
+		"Black": 253,
+		"Latino": 1833,
+		"Native American": 171,
+		"Pacific Islander": 31,
+		"White nonhispanic": 3540
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 491,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 809,
+		"Overall": 1339
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 32.8,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 25.4,
+		"Overall": 27.9
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 283,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 416,
+		"Overall": 760
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 17.7,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 13.1,
+		"Overall": 14.8
+	}
+}, {
+	"County": "Custer County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8027,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 4776,
+	"Food Insecurity population": 530,
+	"Food Insecurity Rate": 11.1,
+	"disability number": {
+		"Asian": null,
+		"Black": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 671
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 21.8,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 16.5,
+		"Overall": 16.1
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1781,
+		"Overall": 1930
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 92.6,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 86.8,
+		"Overall": 87.2
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 51570,
+		"Overall": 53119
+	},
+	"percent": {
+		"Asian": 0.8,
+		"Black": 3.2,
+		"Latino": 9.2,
+		"Native American": 2.1,
+		"Pacific Islander": 0.7,
+		"White nonhispanic": 85.2
+	},
+	"populations": {
+		"Asian": 40,
+		"Black": 152,
+		"Latino": 440,
+		"Native American": 102,
+		"Pacific Islander": 32,
+		"White nonhispanic": 4067
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 2,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 564,
+		"Overall": 601
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 0.5,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 14,
+		"Overall": 12.7
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 202,
+		"Overall": 235
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 5.5,
+		"Overall": 5.7
+	}
+}, {
+	"County": "Delta County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8029,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 30565,
+	"Food Insecurity population": 4410,
+	"Food Insecurity Rate": 14.4,
+	"disability number": {
+		"Asian": 19,
+		"Black": 3,
+		"Native American": 68,
+		"Pacific Islander": null,
+		"White nonhispanic": 4938
+	},
+	"disability rate": {
+		"Asian": 5.9,
+		"Black": 1.4,
+		"Latino": 11.5,
+		"Native American": 31.9,
+		"Pacific Islander": null,
+		"White nonhispanic": 20.4,
+		"Overall": 18.9
+	},
+	"homeowners": {
+		"Asian": 148,
+		"Black": 49,
+		"Native American": 37,
+		"Pacific Islander": null,
+		"White nonhispanic": 7949,
+		"Overall": 8751
+	},
+	"homeownership rate": {
+		"Asian": 82.7,
+		"Black": 100,
+		"Latino": 59.1,
+		"Native American": 43,
+		"Pacific Islander": null,
+		"White nonhispanic": 75.1,
+		"Overall": 73.6
+	},
+	"median income": {
+		"Asian": 38835,
+		"Black": null,
+		"Latino": 37786,
+		"Native American": 93864,
+		"Pacific Islander": null,
+		"White nonhispanic": 47670,
+		"Overall": 45269
+	},
+	"percent": {
+		"Asian": 1.2,
+		"Black": 1.6,
+		"Latino": 15.2,
+		"Native American": 1.8,
+		"Pacific Islander": 0,
+		"White nonhispanic": 81.3
+	},
+	"populations": {
+		"Asian": 379,
+		"Black": 486,
+		"Latino": 4649,
+		"Native American": 540,
+		"Pacific Islander": 10,
+		"White nonhispanic": 24857
+	},
+	"poverty population": {
+		"Asian": 100,
+		"Black": 42,
+		"Latino": 1136,
+		"Native American": 75,
+		"Pacific Islander": null,
+		"White nonhispanic": 4039,
+		"Overall": 5379
+	},
+	"poverty rate": {
+		"Asian": 31.1,
+		"Black": 19.9,
+		"Latino": 26.7,
+		"Native American": 35.2,
+		"Pacific Islander": null,
+		"White nonhispanic": 16.7,
+		"Overall": 18.3
+	},
+	"unemployed": {
+		"Asian": 0,
+		"Black": 78,
+		"Latino": 301,
+		"Native American": 23,
+		"Pacific Islander": null,
+		"White nonhispanic": 1259,
+		"Overall": 1658
+	},
+	"unemployment rate": {
+		"Asian": 0,
+		"Black": 29.8,
+		"Latino": 9.2,
+		"Native American": 9.7,
+		"Pacific Islander": null,
+		"White nonhispanic": 6,
+		"Overall": 6.6
+	}
+}, {
+	"County": "Denver County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8031,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 705576,
+	"Food Insecurity population": 75240,
+	"Food Insecurity Rate": 10.7,
+	"disability number": {
+		"Asian": 1854,
+		"Black": 8599,
+		"Native American": 1123,
+		"Pacific Islander": 216,
+		"White nonhispanic": 36398
+	},
+	"disability rate": {
+		"Asian": 7.1,
+		"Black": 13.4,
+		"Latino": 8.7,
+		"Native American": 19.1,
+		"Pacific Islander": 18.4,
+		"White nonhispanic": 9.6,
+		"Overall": 9.6
+	},
+	"homeowners": {
+		"Asian": 4628,
+		"Black": 9459,
+		"Native American": 984,
+		"Pacific Islander": 204,
+		"White nonhispanic": 106392,
+		"Overall": 150382
+	},
+	"homeownership rate": {
+		"Asian": 46.2,
+		"Black": 37.1,
+		"Latino": 42.1,
+		"Native American": 38.6,
+		"Pacific Islander": 66,
+		"White nonhispanic": 54.8,
+		"Overall": 49.9
+	},
+	"median income": {
+		"Asian": 64052,
+		"Black": 41832,
+		"Latino": 51329,
+		"Native American": 31593,
+		"Pacific Islander": 100893,
+		"White nonhispanic": 81686,
+		"Overall": 68592
+	},
+	"percent": {
+		"Asian": 4.9,
+		"Black": 10.7,
+		"Latino": 29.9,
+		"Native American": 2.1,
+		"Pacific Islander": 0.4,
+		"White nonhispanic": 54.2
+	},
+	"populations": {
+		"Asian": 34462,
+		"Black": 75445,
+		"Latino": 210937,
+		"Native American": 14663,
+		"Pacific Islander": 2804,
+		"White nonhispanic": 382228
+	},
+	"poverty population": {
+		"Asian": 3851,
+		"Black": 15298,
+		"Latino": 36477,
+		"Native American": 1428,
+		"Pacific Islander": 77,
+		"White nonhispanic": 30863,
+		"Overall": 89203
+	},
+	"poverty rate": {
+		"Asian": 14.9,
+		"Black": 24,
+		"Latino": 17.5,
+		"Native American": 24.5,
+		"Pacific Islander": 6.5,
+		"White nonhispanic": 8.2,
+		"Overall": 12.9
+	},
+	"unemployed": {
+		"Asian": 643,
+		"Black": 3260,
+		"Latino": 7157,
+		"Native American": 424,
+		"Pacific Islander": 49,
+		"White nonhispanic": 10492,
+		"Overall": 21987
+	},
+	"unemployment rate": {
+		"Asian": 2.9,
+		"Black": 6.4,
+		"Latino": 4.7,
+		"Native American": 8.4,
+		"Pacific Islander": 6,
+		"White nonhispanic": 3.1,
+		"Overall": 3.8
+	}
+}, {
+	"County": "Dolores County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8033,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 1857,
+	"Food Insecurity population": 230,
+	"Food Insecurity Rate": 12.5,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 342
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 4.6,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 20.5,
+		"Overall": 19.2
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 619,
+		"Overall": 619
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 83.6,
+		"Overall": 81.6
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 45000,
+		"Overall": 45972
+	},
+	"percent": {
+		"Asian": 0,
+		"Black": 0.3,
+		"Latino": 7.1,
+		"Native American": 2.4,
+		"Pacific Islander": 0.5,
+		"White nonhispanic": 89.8
+	},
+	"populations": {
+		"Asian": 0,
+		"Black": 5,
+		"Latino": 131,
+		"Native American": 45,
+		"Pacific Islander": 9,
+		"White nonhispanic": 1667
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 6,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 231,
+		"Overall": 246
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 4.6,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 13.9,
+		"Overall": 13.2
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 31,
+		"Overall": 57
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 2.2,
+		"Overall": 3.9
+	}
+}, {
+	"County": "Douglas County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8035,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 336041,
+	"Food Insecurity population": 19580,
+	"Food Insecurity Rate": 5.8,
+	"disability number": {
+		"Asian": 523,
+		"Black": 341,
+		"Native American": 237,
+		"Pacific Islander": 2,
+		"White nonhispanic": 19148
+	},
+	"disability rate": {
+		"Asian": 3.3,
+		"Black": 7.1,
+		"Latino": 6.2,
+		"Native American": 18.9,
+		"Pacific Islander": 0.7,
+		"White nonhispanic": 7,
+		"Overall": 6.7
+	},
+	"homeowners": {
+		"Asian": 3546,
+		"Black": 802,
+		"Native American": 307,
+		"Pacific Islander": 72,
+		"White nonhispanic": 83776,
+		"Overall": 95344
+	},
+	"homeownership rate": {
+		"Asian": 69.8,
+		"Black": 47,
+		"Latino": 68.7,
+		"Native American": 78.3,
+		"Pacific Islander": 55.4,
+		"White nonhispanic": 81,
+		"Overall": 79
+	},
+	"median income": {
+		"Asian": 120038,
+		"Black": 101302,
+		"Latino": 106360,
+		"Native American": 94274,
+		"Pacific Islander": null,
+		"White nonhispanic": 121637,
+		"Overall": 119730
+	},
+	"percent": {
+		"Asian": 6.3,
+		"Black": 2.1,
+		"Latino": 8.7,
+		"Native American": 1.1,
+		"Pacific Islander": 0.3,
+		"White nonhispanic": 82.2
+	},
+	"populations": {
+		"Asian": 21322,
+		"Black": 7044,
+		"Latino": 29211,
+		"Native American": 3566,
+		"Pacific Islander": 1159,
+		"White nonhispanic": 276316
+	},
+	"poverty population": {
+		"Asian": 572,
+		"Black": 445,
+		"Latino": 1449,
+		"Native American": 63,
+		"Pacific Islander": 2,
+		"White nonhispanic": 7518,
+		"Overall": 10275
+	},
+	"poverty rate": {
+		"Asian": 3.6,
+		"Black": 9.3,
+		"Latino": 5,
+		"Native American": 5.4,
+		"Pacific Islander": 0.7,
+		"White nonhispanic": 2.7,
+		"Overall": 3.1
+	},
+	"unemployed": {
+		"Asian": 398,
+		"Black": 115,
+		"Latino": 677,
+		"Native American": 41,
+		"Pacific Islander": 0,
+		"White nonhispanic": 6020,
+		"Overall": 7477
+	},
+	"unemployment rate": {
+		"Asian": 3.2,
+		"Black": 3,
+		"Latino": 3.2,
+		"Native American": 4.2,
+		"Pacific Islander": 0,
+		"White nonhispanic": 2.8,
+		"Overall": 2.9
+	}
+}, {
+	"County": "Eagle County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8037,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 54681,
+	"Food Insecurity population": 3620,
+	"Food Insecurity Rate": 6.6,
+	"disability number": {
+		"Asian": 4,
+		"Black": 0,
+		"Native American": 82,
+		"Pacific Islander": null,
+		"White nonhispanic": 2203
+	},
+	"disability rate": {
+		"Asian": 1.1,
+		"Black": 0,
+		"Latino": 2.5,
+		"Native American": 60.7,
+		"Pacific Islander": null,
+		"White nonhispanic": 6,
+		"Overall": 5
+	},
+	"homeowners": {
+		"Asian": 71,
+		"Black": 0,
+		"Native American": 42,
+		"Pacific Islander": null,
+		"White nonhispanic": 10793,
+		"Overall": 12680
+	},
+	"homeownership rate": {
+		"Asian": 77.2,
+		"Black": 0,
+		"Latino": 42.5,
+		"Native American": 40,
+		"Pacific Islander": null,
+		"White nonhispanic": 77.9,
+		"Overall": 69.8
+	},
+	"median income": {
+		"Asian": 55000,
+		"Black": 133614,
+		"Latino": 55310,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 93947,
+		"Overall": 84790
+	},
+	"percent": {
+		"Asian": 1.9,
+		"Black": 1.4,
+		"Latino": 29.6,
+		"Native American": 0.4,
+		"Pacific Islander": 0.2,
+		"White nonhispanic": 67.2
+	},
+	"populations": {
+		"Asian": 1013,
+		"Black": 757,
+		"Latino": 16179,
+		"Native American": 239,
+		"Pacific Islander": 88,
+		"White nonhispanic": 36748
+	},
+	"poverty population": {
+		"Asian": 90,
+		"Black": 68,
+		"Latino": 1953,
+		"Native American": 63,
+		"Pacific Islander": null,
+		"White nonhispanic": 2201,
+		"Overall": 4354
+	},
+	"poverty rate": {
+		"Asian": 25.2,
+		"Black": 10.7,
+		"Latino": 12.2,
+		"Native American": 47.4,
+		"Pacific Islander": null,
+		"White nonhispanic": 6,
+		"Overall": 8
+	},
+	"unemployed": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 191,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 626,
+		"Overall": 837
+	},
+	"unemployment rate": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 1.7,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 2,
+		"Overall": 1.9
+	}
+}, {
+	"County": "El Paso County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8041,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 698974,
+	"Food Insecurity population": 72750,
+	"Food Insecurity Rate": 10.4,
+	"disability number": {
+		"Asian": 1557,
+		"Black": 6100,
+		"Native American": 1268,
+		"Pacific Islander": 294,
+		"White nonhispanic": 58679
+	},
+	"disability rate": {
+		"Asian": 8.3,
+		"Black": 14.8,
+		"Latino": 11.2,
+		"Native American": 24.5,
+		"Pacific Islander": 11.2,
+		"White nonhispanic": 12.7,
+		"Overall": 12.4
+	},
+	"homeowners": {
+		"Asian": 4050,
+		"Black": 7029,
+		"Native American": 937,
+		"Pacific Islander": 295,
+		"White nonhispanic": 132810,
+		"Overall": 164677
+	},
+	"homeownership rate": {
+		"Asian": 67.1,
+		"Black": 43.7,
+		"Latino": 49.4,
+		"Native American": 47.6,
+		"Pacific Islander": 37.2,
+		"White nonhispanic": 68.5,
+		"Overall": 64
+	},
+	"median income": {
+		"Asian": 75000,
+		"Black": 54377,
+		"Latino": 54484,
+		"Native American": 51726,
+		"Pacific Islander": 53805,
+		"White nonhispanic": 72789,
+		"Overall": 68779
+	},
+	"percent": {
+		"Asian": 4.7,
+		"Black": 8.7,
+		"Latino": 17.1,
+		"Native American": 2.4,
+		"Pacific Islander": 0.9,
+		"White nonhispanic": 69.1
+	},
+	"populations": {
+		"Asian": 32657,
+		"Black": 60826,
+		"Latino": 119545,
+		"Native American": 16655,
+		"Pacific Islander": 5986,
+		"White nonhispanic": 483009
+	},
+	"poverty population": {
+		"Asian": 1426,
+		"Black": 6308,
+		"Latino": 19055,
+		"Native American": 876,
+		"Pacific Islander": 393,
+		"White nonhispanic": 37613,
+		"Overall": 68548
+	},
+	"poverty rate": {
+		"Asian": 7.5,
+		"Black": 14.6,
+		"Latino": 16.4,
+		"Native American": 17.1,
+		"Pacific Islander": 14.9,
+		"White nonhispanic": 8,
+		"Overall": 10.1
+	},
+	"unemployed": {
+		"Asian": 718,
+		"Black": 3661,
+		"Latino": 6610,
+		"Native American": 536,
+		"Pacific Islander": 191,
+		"White nonhispanic": 19304,
+		"Overall": 31772
+	},
+	"unemployment rate": {
+		"Asian": 4.4,
+		"Black": 10.5,
+		"Latino": 8,
+		"Native American": 12.2,
+		"Pacific Islander": 8.8,
+		"White nonhispanic": 4.9,
+		"Overall": 5.8
+	}
+}, {
+	"County": "Elbert County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8039,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 25717,
+	"Food Insecurity population": 1600,
+	"Food Insecurity Rate": 6.2,
+	"disability number": {
+		"Asian": 39,
+		"Black": 19,
+		"Native American": 37,
+		"Pacific Islander": null,
+		"White nonhispanic": 2083
+	},
+	"disability rate": {
+		"Asian": 15.1,
+		"Black": 20.4,
+		"Latino": 7.6,
+		"Native American": 14.7,
+		"Pacific Islander": null,
+		"White nonhispanic": 9.2,
+		"Overall": 8.9
+	},
+	"homeowners": {
+		"Asian": 49,
+		"Black": 65,
+		"Native American": 130,
+		"Pacific Islander": null,
+		"White nonhispanic": 7666,
+		"Overall": 8354
+	},
+	"homeownership rate": {
+		"Asian": 64.5,
+		"Black": 100,
+		"Latino": 79.5,
+		"Native American": 97.7,
+		"Pacific Islander": null,
+		"White nonhispanic": 90.8,
+		"Overall": 90
+	},
+	"median income": {
+		"Asian": 179038,
+		"Black": null,
+		"Latino": 66326,
+		"Native American": 43495,
+		"Pacific Islander": null,
+		"White nonhispanic": 103197,
+		"Overall": 99199
+	},
+	"percent": {
+		"Asian": 1.7,
+		"Black": 1.8,
+		"Latino": 7,
+		"Native American": 1.7,
+		"Pacific Islander": 0.1,
+		"White nonhispanic": 88.5
+	},
+	"populations": {
+		"Asian": 427,
+		"Black": 459,
+		"Latino": 1799,
+		"Native American": 441,
+		"Pacific Islander": 29,
+		"White nonhispanic": 22764
+	},
+	"poverty population": {
+		"Asian": 4,
+		"Black": 2,
+		"Latino": 106,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 1092,
+		"Overall": 1230
+	},
+	"poverty rate": {
+		"Asian": 1.6,
+		"Black": 2.2,
+		"Latino": 6,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 4.8,
+		"Overall": 4.8
+	},
+	"unemployed": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 46,
+		"Native American": 8,
+		"Pacific Islander": null,
+		"White nonhispanic": 373,
+		"Overall": 416
+	},
+	"unemployment rate": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 3.4,
+		"Native American": 3.9,
+		"Pacific Islander": null,
+		"White nonhispanic": 2,
+		"Overall": 2
+	}
+}, {
+	"County": "Fremont County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8043,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 47321,
+	"Food Insecurity population": 6420,
+	"Food Insecurity Rate": 13.6,
+	"disability number": {
+		"Asian": 58,
+		"Black": 67,
+		"Native American": 26,
+		"Pacific Islander": null,
+		"White nonhispanic": 6361
+	},
+	"disability rate": {
+		"Asian": 24.3,
+		"Black": 37.2,
+		"Latino": 12,
+		"Native American": 27.1,
+		"Pacific Islander": null,
+		"White nonhispanic": 19.6,
+		"Overall": 18.9
+	},
+	"homeowners": {
+		"Asian": 19,
+		"Black": 60,
+		"Native American": 48,
+		"Pacific Islander": null,
+		"White nonhispanic": 12251,
+		"Overall": 12858
+	},
+	"homeownership rate": {
+		"Asian": 86.4,
+		"Black": 56.6,
+		"Latino": 58.7,
+		"Native American": 82.8,
+		"Pacific Islander": null,
+		"White nonhispanic": 76.1,
+		"Overall": 75
+	},
+	"median income": {
+		"Asian": null,
+		"Black": 51154,
+		"Latino": 36964,
+		"Native American": 34375,
+		"Pacific Islander": null,
+		"White nonhispanic": 50125,
+		"Overall": 49409
+	},
+	"percent": {
+		"Asian": 1.3,
+		"Black": 5.3,
+		"Latino": 13.3,
+		"Native American": 2,
+		"Pacific Islander": 0,
+		"White nonhispanic": 79.1
+	},
+	"populations": {
+		"Asian": 621,
+		"Black": 2517,
+		"Latino": 6288,
+		"Native American": 953,
+		"Pacific Islander": 18,
+		"White nonhispanic": 37428
+	},
+	"poverty population": {
+		"Asian": 42,
+		"Black": 55,
+		"Latino": 754,
+		"Native American": 34,
+		"Pacific Islander": null,
+		"White nonhispanic": 4315,
+		"Overall": 5226
+	},
+	"poverty rate": {
+		"Asian": 17.6,
+		"Black": 30.6,
+		"Latino": 26.2,
+		"Native American": 35.4,
+		"Pacific Islander": null,
+		"White nonhispanic": 13.3,
+		"Overall": 14.5
+	},
+	"unemployed": {
+		"Asian": 0,
+		"Black": 353,
+		"Latino": 131,
+		"Native American": 34,
+		"Pacific Islander": null,
+		"White nonhispanic": 1797,
+		"Overall": 2242
+	},
+	"unemployment rate": {
+		"Asian": 0,
+		"Black": 16.4,
+		"Latino": 2.5,
+		"Native American": 5.4,
+		"Pacific Islander": null,
+		"White nonhispanic": 5.6,
+		"Overall": 5.5
+	}
+}, {
+	"County": "Garfield County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8045,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 59055,
+	"Food Insecurity population": 4860,
+	"Food Insecurity Rate": 8.2,
+	"disability number": {
+		"Asian": 21,
+		"Black": 20,
+		"Native American": 68,
+		"Pacific Islander": null,
+		"White nonhispanic": 3778
+	},
+	"disability rate": {
+		"Asian": 4,
+		"Black": 7.9,
+		"Latino": 3.5,
+		"Native American": 17.4,
+		"Pacific Islander": null,
+		"White nonhispanic": 9.5,
+		"Overall": 7.8
+	},
+	"homeowners": {
+		"Asian": 37,
+		"Black": 21,
+		"Native American": 111,
+		"Pacific Islander": null,
+		"White nonhispanic": 12030,
+		"Overall": 14374
+	},
+	"homeownership rate": {
+		"Asian": 20.3,
+		"Black": 21.4,
+		"Latino": 49.1,
+		"Native American": 78.7,
+		"Pacific Islander": null,
+		"White nonhispanic": 72.7,
+		"Overall": 66.9
+	},
+	"median income": {
+		"Asian": 92172,
+		"Black": 36232,
+		"Latino": 61607,
+		"Native American": 63493,
+		"Pacific Islander": null,
+		"White nonhispanic": 79258,
+		"Overall": 75937
+	},
+	"percent": {
+		"Asian": 1.2,
+		"Black": 1.2,
+		"Latino": 28.4,
+		"Native American": 1.6,
+		"Pacific Islander": 0.1,
+		"White nonhispanic": 68.1
+	},
+	"populations": {
+		"Asian": 695,
+		"Black": 724,
+		"Latino": 16789,
+		"Native American": 960,
+		"Pacific Islander": 33,
+		"White nonhispanic": 40239
+	},
+	"poverty population": {
+		"Asian": 0,
+		"Black": 70,
+		"Latino": 2131,
+		"Native American": 101,
+		"Pacific Islander": null,
+		"White nonhispanic": 2711,
+		"Overall": 5009
+	},
+	"poverty rate": {
+		"Asian": 0,
+		"Black": 28.5,
+		"Latino": 12.8,
+		"Native American": 25.8,
+		"Pacific Islander": null,
+		"White nonhispanic": 6.9,
+		"Overall": 8.6
+	},
+	"unemployed": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 631,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 1328,
+		"Overall": 2011
+	},
+	"unemployment rate": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 5.7,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 4,
+		"Overall": 4.4
+	}
+}, {
+	"County": "Gilpin County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8047,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 6018,
+	"Food Insecurity population": 440,
+	"Food Insecurity Rate": 7.3,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": 35,
+		"Pacific Islander": null,
+		"White nonhispanic": 487
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 4.5,
+		"Native American": 21.5,
+		"Pacific Islander": null,
+		"White nonhispanic": 9.6,
+		"Overall": 9.6
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 2086,
+		"Overall": 2230
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 57.9,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 85.7,
+		"Overall": 79.6
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 91208,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 78400,
+		"Overall": 76429
+	},
+	"percent": {
+		"Asian": 0.9,
+		"Black": 2.6,
+		"Latino": 8.4,
+		"Native American": 4,
+		"Pacific Islander": 0,
+		"White nonhispanic": 85.3
+	},
+	"populations": {
+		"Asian": 57,
+		"Black": 155,
+		"Latino": 503,
+		"Native American": 241,
+		"Pacific Islander": 0,
+		"White nonhispanic": 5133
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 25,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 257,
+		"Overall": 286
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 5.4,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 5.1,
+		"Overall": 4.9
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 0,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 82,
+		"Overall": 79
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 0,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 1.8,
+		"Overall": 1.5
+	}
+}, {
+	"County": "Grand County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8049,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 15303,
+	"Food Insecurity population": 1330,
+	"Food Insecurity Rate": 8.7,
+	"disability number": {
+		"Asian": 0,
+		"Black": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 730
+	},
+	"disability rate": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 2.4,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 5.5,
+		"Overall": 5
+	},
+	"homeowners": {
+		"Asian": 13,
+		"Black": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 3915,
+		"Overall": 4028
+	},
+	"homeownership rate": {
+		"Asian": 22.8,
+		"Black": 0,
+		"Latino": 32.6,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 71.5,
+		"Overall": 68.5
+	},
+	"median income": {
+		"Asian": 34926,
+		"Black": null,
+		"Latino": 54688,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 71953,
+		"Overall": 71198
+	},
+	"percent": {
+		"Asian": 1.4,
+		"Black": 2.2,
+		"Latino": 8.8,
+		"Native American": 0.1,
+		"Pacific Islander": 0.1,
+		"White nonhispanic": 87.3
+	},
+	"populations": {
+		"Asian": 221,
+		"Black": 333,
+		"Latino": 1350,
+		"Native American": 9,
+		"Pacific Islander": 17,
+		"White nonhispanic": 13358
+	},
+	"poverty population": {
+		"Asian": 93,
+		"Black": 17,
+		"Latino": 390,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 926,
+		"Overall": 1440
+	},
+	"poverty rate": {
+		"Asian": 43.7,
+		"Black": 10.6,
+		"Latino": 29.4,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 7,
+		"Overall": 9.5
+	},
+	"unemployed": {
+		"Asian": 0,
+		"Black": 7,
+		"Latino": 58,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 356,
+		"Overall": 426
+	},
+	"unemployment rate": {
+		"Asian": 0,
+		"Black": 4.1,
+		"Latino": 6.2,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 3.1,
+		"Overall": 3.3
+	}
+}, {
+	"County": "Gunnison County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8051,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 16802,
+	"Food Insecurity population": 1680,
+	"Food Insecurity Rate": 10,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": 100,
+		"Pacific Islander": null,
+		"White nonhispanic": 1109
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 5.9,
+		"Native American": 58.1,
+		"Pacific Islander": null,
+		"White nonhispanic": 7.6,
+		"Overall": 8
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": 1,
+		"Pacific Islander": null,
+		"White nonhispanic": 3910,
+		"Overall": 4065
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 44.5,
+		"Native American": 0.9,
+		"Pacific Islander": null,
+		"White nonhispanic": 64.2,
+		"Overall": 61.4
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 42875,
+		"Native American": 55361,
+		"Pacific Islander": null,
+		"White nonhispanic": 60469,
+		"Overall": 56577
+	},
+	"percent": {
+		"Asian": 1.2,
+		"Black": 1.6,
+		"Latino": 9.4,
+		"Native American": 1.3,
+		"Pacific Islander": 0.2,
+		"White nonhispanic": 86.9
+	},
+	"populations": {
+		"Asian": 209,
+		"Black": 262,
+		"Latino": 1583,
+		"Native American": 221,
+		"Pacific Islander": 36,
+		"White nonhispanic": 14607
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 224,
+		"Native American": 26,
+		"Pacific Islander": null,
+		"White nonhispanic": 1752,
+		"Overall": 2154
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 15.1,
+		"Native American": 15.1,
+		"Pacific Islander": null,
+		"White nonhispanic": 12.5,
+		"Overall": 13.4
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 78,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 642,
+		"Overall": 727
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 6.7,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 5.1,
+		"Overall": 5.1
+	}
+}, {
+	"County": "Hinsdale County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8053,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 857,
+	"Food Insecurity population": 120,
+	"Food Insecurity Rate": 14,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 214
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 27.8,
+		"Overall": 25.4
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 254,
+		"Overall": 270
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 71.8,
+		"Overall": 71.6
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 56250,
+		"Overall": 56339
+	},
+	"percent": {
+		"Asian": 2.2,
+		"Black": 0.4,
+		"Latino": 5.7,
+		"Native American": 2.3,
+		"Pacific Islander": 0,
+		"White nonhispanic": 90
+	},
+	"populations": {
+		"Asian": 19,
+		"Black": 3,
+		"Latino": 49,
+		"Native American": 20,
+		"Pacific Islander": 0,
+		"White nonhispanic": 771
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 68,
+		"Overall": 84
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 8.8,
+		"Overall": 9.8
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 26,
+		"Overall": 34
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 3.8,
+		"Overall": 4.7
+	}
+}, {
+	"County": "Huerfano County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8055,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 6679,
+	"Food Insecurity population": 960,
+	"Food Insecurity Rate": 14.4,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": 82,
+		"Pacific Islander": null,
+		"White nonhispanic": 947
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 24.4,
+		"Native American": 68.3,
+		"Pacific Islander": null,
+		"White nonhispanic": 23.7,
+		"Overall": 23
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": 82,
+		"Pacific Islander": null,
+		"White nonhispanic": 1644,
+		"Overall": 2314
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 60.5,
+		"Native American": 71.3,
+		"Pacific Islander": null,
+		"White nonhispanic": 77.1,
+		"Overall": 71.8
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 27961,
+		"Native American": 38963,
+		"Pacific Islander": null,
+		"White nonhispanic": 39508,
+		"Overall": 38137
+	},
+	"percent": {
+		"Asian": 1.4,
+		"Black": 1.9,
+		"Latino": 34.3,
+		"Native American": 3.2,
+		"Pacific Islander": 0,
+		"White nonhispanic": 61.1
+	},
+	"populations": {
+		"Asian": 96,
+		"Black": 127,
+		"Latino": 2290,
+		"Native American": 213,
+		"Pacific Islander": 0,
+		"White nonhispanic": 4083
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 382,
+		"Native American": 35,
+		"Pacific Islander": null,
+		"White nonhispanic": 640,
+		"Overall": 1030
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 17,
+		"Native American": 29.2,
+		"Pacific Islander": null,
+		"White nonhispanic": 16.1,
+		"Overall": 15.8
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 74,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 106,
+		"Overall": 176
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 4.2,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 2.9,
+		"Overall": 3.1
+	}
+}, {
+	"County": "Jackson County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8057,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 1261,
+	"Food Insecurity population": 110,
+	"Food Insecurity Rate": 8.6,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 94
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 2.3,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 9.1,
+		"Overall": 8
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 376,
+		"Overall": 446
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 93.3,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 77.8,
+		"Overall": 79.9
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 49028,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 53650,
+		"Overall": 53300
+	},
+	"percent": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 17.4,
+		"Native American": 0.4,
+		"Pacific Islander": 0,
+		"White nonhispanic": 82.2
+	},
+	"populations": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 220,
+		"Native American": 5,
+		"Pacific Islander": 0,
+		"White nonhispanic": 1036
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 48,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 72,
+		"Overall": 121
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 21.9,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 7,
+		"Overall": 9.6
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 19,
+		"Overall": 19
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 2,
+		"Overall": 1.7
+	}
+}, {
+	"County": "Jefferson County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8059,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 574798,
+	"Food Insecurity population": 48030,
+	"Food Insecurity Rate": 8.4,
+	"disability number": {
+		"Asian": 960,
+		"Black": 624,
+		"Native American": 547,
+		"Pacific Islander": 0,
+		"White nonhispanic": 46239
+	},
+	"disability rate": {
+		"Asian": 5.9,
+		"Black": 9.8,
+		"Latino": 8.7,
+		"Native American": 15,
+		"Pacific Islander": 0,
+		"White nonhispanic": 10.4,
+		"Overall": 10
+	},
+	"homeowners": {
+		"Asian": 3768,
+		"Black": 814,
+		"Native American": 674,
+		"Pacific Islander": 41,
+		"White nonhispanic": 144617,
+		"Overall": 164186
+	},
+	"homeownership rate": {
+		"Asian": 67.6,
+		"Black": 43.6,
+		"Latino": 46.1,
+		"Native American": 51,
+		"Pacific Islander": 42.3,
+		"White nonhispanic": 74.9,
+		"Overall": 70.7
+	},
+	"median income": {
+		"Asian": 79035,
+		"Black": 56408,
+		"Latino": 61526,
+		"Native American": 64250,
+		"Pacific Islander": 105298,
+		"White nonhispanic": 87542,
+		"Overall": 82986
+	},
+	"percent": {
+		"Asian": 3.8,
+		"Black": 1.9,
+		"Latino": 15.4,
+		"Native American": 1.6,
+		"Pacific Islander": 0.2,
+		"White nonhispanic": 78.1
+	},
+	"populations": {
+		"Asian": 21829,
+		"Black": 10887,
+		"Latino": 88330,
+		"Native American": 9261,
+		"Pacific Islander": 1345,
+		"White nonhispanic": 449045
+	},
+	"poverty population": {
+		"Asian": 1711,
+		"Black": 894,
+		"Latino": 10897,
+		"Native American": 312,
+		"Pacific Islander": 11,
+		"White nonhispanic": 25146,
+		"Overall": 40118
+	},
+	"poverty rate": {
+		"Asian": 10.6,
+		"Black": 14.2,
+		"Latino": 12.6,
+		"Native American": 8.7,
+		"Pacific Islander": 3.4,
+		"White nonhispanic": 5.7,
+		"Overall": 7.1
+	},
+	"unemployed": {
+		"Asian": 449,
+		"Black": 423,
+		"Latino": 3017,
+		"Native American": 102,
+		"Pacific Islander": 0,
+		"White nonhispanic": 12898,
+		"Overall": 17044
+	},
+	"unemployment rate": {
+		"Asian": 3.3,
+		"Black": 7.8,
+		"Latino": 4.6,
+		"Native American": 3,
+		"Pacific Islander": 0,
+		"White nonhispanic": 3.4,
+		"Overall": 3.6
+	}
+}, {
+	"County": "Kiowa County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8061,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 1489,
+	"Food Insecurity population": 170,
+	"Food Insecurity Rate": 11.2,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 207
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 15.4,
+		"Overall": 15.5
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 465,
+		"Overall": 474
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 77.1,
+		"Overall": 74.3
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 41827,
+		"Overall": 41731
+	},
+	"percent": {
+		"Asian": 0,
+		"Black": 1,
+		"Latino": 4.8,
+		"Native American": 2.9,
+		"Pacific Islander": 0.2,
+		"White nonhispanic": 91.7
+	},
+	"populations": {
+		"Asian": 0,
+		"Black": 15,
+		"Latino": 72,
+		"Native American": 43,
+		"Pacific Islander": 3,
+		"White nonhispanic": 1365
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 160,
+		"Overall": 177
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 11.9,
+		"Overall": 12.1
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 31,
+		"Overall": 31
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 3,
+		"Overall": 2.8
+	}
+}, {
+	"County": "Kit Carson County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8063,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 7447,
+	"Food Insecurity population": 700,
+	"Food Insecurity Rate": 9.5,
+	"disability number": {
+		"Asian": null,
+		"Black": 2,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1013
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": 22.2,
+		"Latino": 5.8,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 18.4,
+		"Overall": 16
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1758,
+		"Overall": 1995
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 52.9,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 69.2,
+		"Overall": 66.4
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 48719,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 49350,
+		"Overall": 49349
+	},
+	"percent": {
+		"Asian": 0.2,
+		"Black": 2.6,
+		"Latino": 19.1,
+		"Native American": 0.9,
+		"Pacific Islander": 0.3,
+		"White nonhispanic": 77
+	},
+	"populations": {
+		"Asian": 16,
+		"Black": 196,
+		"Latino": 1421,
+		"Native American": 64,
+		"Pacific Islander": 20,
+		"White nonhispanic": 5731
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": 2,
+		"Latino": 71,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 320,
+		"Overall": 421
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": 22.2,
+		"Latino": 5.4,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 5.8,
+		"Overall": 6.1
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 26,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 178,
+		"Overall": 211
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 2.8,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 3.8,
+		"Overall": 3.6
+	}
+}, {
+	"County": "La Plata County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8067,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 55617,
+	"Food Insecurity population": 5050,
+	"Food Insecurity Rate": 9.1,
+	"disability number": {
+		"Asian": 33,
+		"Black": 20,
+		"Native American": 298,
+		"Pacific Islander": null,
+		"White nonhispanic": 4161
+	},
+	"disability rate": {
+		"Asian": 8.1,
+		"Black": 8,
+		"Latino": 6.4,
+		"Native American": 8.2,
+		"Pacific Islander": null,
+		"White nonhispanic": 9.6,
+		"Overall": 9
+	},
+	"homeowners": {
+		"Asian": 89,
+		"Black": 4,
+		"Native American": 608,
+		"Pacific Islander": null,
+		"White nonhispanic": 13473,
+		"Overall": 15400
+	},
+	"homeownership rate": {
+		"Asian": 80.2,
+		"Black": 7.7,
+		"Latino": 54.2,
+		"Native American": 50.8,
+		"Pacific Islander": null,
+		"White nonhispanic": 74.1,
+		"Overall": 70.7
+	},
+	"median income": {
+		"Asian": 66382,
+		"Black": null,
+		"Latino": 54461,
+		"Native American": 46542,
+		"Pacific Islander": null,
+		"White nonhispanic": 72212,
+		"Overall": 68685
+	},
+	"percent": {
+		"Asian": 1.1,
+		"Black": 0.9,
+		"Latino": 12.8,
+		"Native American": 8.1,
+		"Pacific Islander": 0.1,
+		"White nonhispanic": 78.5
+	},
+	"populations": {
+		"Asian": 623,
+		"Black": 485,
+		"Latino": 7110,
+		"Native American": 4481,
+		"Pacific Islander": 35,
+		"White nonhispanic": 43686
+	},
+	"poverty population": {
+		"Asian": 61,
+		"Black": 45,
+		"Latino": 927,
+		"Native American": 871,
+		"Pacific Islander": null,
+		"White nonhispanic": 3106,
+		"Overall": 4919
+	},
+	"poverty rate": {
+		"Asian": 17.1,
+		"Black": 24.3,
+		"Latino": 13.4,
+		"Native American": 26.7,
+		"Pacific Islander": null,
+		"White nonhispanic": 7.3,
+		"Overall": 9.1
+	},
+	"unemployed": {
+		"Asian": 24,
+		"Black": 3,
+		"Latino": 162,
+		"Native American": 156,
+		"Pacific Islander": null,
+		"White nonhispanic": 1343,
+		"Overall": 1889
+	},
+	"unemployment rate": {
+		"Asian": 7.4,
+		"Black": 1.9,
+		"Latino": 3.2,
+		"Native American": 5.5,
+		"Pacific Islander": null,
+		"White nonhispanic": 3.6,
+		"Overall": 4.1
+	}
+}, {
+	"County": "Lake County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8065,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 7751,
+	"Food Insecurity population": 870,
+	"Food Insecurity Rate": 11.2,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": 26,
+		"Pacific Islander": null,
+		"White nonhispanic": 601
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 15.8,
+		"Native American": 22,
+		"Pacific Islander": null,
+		"White nonhispanic": 12.2,
+		"Overall": 13.1
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": 56,
+		"Pacific Islander": null,
+		"White nonhispanic": 1737,
+		"Overall": 2320
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 57.9,
+		"Native American": 100,
+		"Pacific Islander": null,
+		"White nonhispanic": 73.4,
+		"Overall": 68.4
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 33382,
+		"Native American": 72333,
+		"Pacific Islander": null,
+		"White nonhispanic": 61442,
+		"Overall": 50565
+	},
+	"percent": {
+		"Asian": 1.6,
+		"Black": 0.6,
+		"Latino": 32.4,
+		"Native American": 2,
+		"Pacific Islander": 0,
+		"White nonhispanic": 63.8
+	},
+	"populations": {
+		"Asian": 126,
+		"Black": 47,
+		"Latino": 2508,
+		"Native American": 153,
+		"Pacific Islander": 3,
+		"White nonhispanic": 4948
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 546,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 450,
+		"Overall": 1110
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 21.8,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 9.3,
+		"Overall": 14.6
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 111,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 169,
+		"Overall": 270
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 6,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 3.8,
+		"Overall": 4.1
+	}
+}, {
+	"County": "Larimer County",
+	"State": "Colorado",
+	"Fb Id": 137,
+	"Fips": 8069,
+	"Org.Name": "Food Bank for Larimer County",
+	"State Abbreviation": "CO",
+	"Total population": 344786,
+	"Food Insecurity population": 33690,
+	"Food Insecurity Rate": 9.8,
+	"disability number": {
+		"Asian": 330,
+		"Black": 217,
+		"Native American": 270,
+		"Pacific Islander": 32,
+		"White nonhispanic": 28766
+	},
+	"disability rate": {
+		"Asian": 4.4,
+		"Black": 6.7,
+		"Latino": 7.3,
+		"Native American": 10.3,
+		"Pacific Islander": 12.3,
+		"White nonhispanic": 10.2,
+		"Overall": 9.7
+	},
+	"homeowners": {
+		"Asian": 1621,
+		"Black": 128,
+		"Native American": 434,
+		"Pacific Islander": 33,
+		"White nonhispanic": 80314,
+		"Overall": 89118
+	},
+	"homeownership rate": {
+		"Asian": 62.5,
+		"Black": 13.8,
+		"Latino": 51.6,
+		"Native American": 52.4,
+		"Pacific Islander": 55.9,
+		"White nonhispanic": 67,
+		"Overall": 65
+	},
+	"median income": {
+		"Asian": 62254,
+		"Black": 51107,
+		"Latino": 54881,
+		"Native American": 53418,
+		"Pacific Islander": 59659,
+		"White nonhispanic": 74289,
+		"Overall": 71881
+	},
+	"percent": {
+		"Asian": 3.3,
+		"Black": 1.8,
+		"Latino": 11.5,
+		"Native American": 1.8,
+		"Pacific Islander": 0.2,
+		"White nonhispanic": 82.6
+	},
+	"populations": {
+		"Asian": 11456,
+		"Black": 6290,
+		"Latino": 39686,
+		"Native American": 6120,
+		"Pacific Islander": 843,
+		"White nonhispanic": 284755
+	},
+	"poverty population": {
+		"Asian": 1062,
+		"Black": 546,
+		"Latino": 6559,
+		"Native American": 523,
+		"Pacific Islander": 73,
+		"White nonhispanic": 28829,
+		"Overall": 38822
+	},
+	"poverty rate": {
+		"Asian": 14.8,
+		"Black": 17.9,
+		"Latino": 17.2,
+		"Native American": 20.5,
+		"Pacific Islander": 34.1,
+		"White nonhispanic": 10.4,
+		"Overall": 11.6
+	},
+	"unemployed": {
+		"Asian": 245,
+		"Black": 123,
+		"Latino": 1778,
+		"Native American": 184,
+		"Pacific Islander": 61,
+		"White nonhispanic": 10577,
+		"Overall": 13358
+	},
+	"unemployment rate": {
+		"Asian": 3.8,
+		"Black": 4.4,
+		"Latino": 6.3,
+		"Native American": 8.6,
+		"Pacific Islander": 26.7,
+		"White nonhispanic": 4.4,
+		"Overall": 4.7
+	}
+}, {
+	"County": "Las Animas County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8071,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 14266,
+	"Food Insecurity population": 2070,
+	"Food Insecurity Rate": 14.5,
+	"disability number": {
+		"Asian": 0,
+		"Black": 18,
+		"Native American": 183,
+		"Pacific Islander": null,
+		"White nonhispanic": 1771
+	},
+	"disability rate": {
+		"Asian": 0,
+		"Black": 62.1,
+		"Latino": 24.7,
+		"Native American": 36,
+		"Pacific Islander": null,
+		"White nonhispanic": 24.6,
+		"Overall": 24.1
+	},
+	"homeowners": {
+		"Asian": 0,
+		"Black": 0,
+		"Native American": 156,
+		"Pacific Islander": null,
+		"White nonhispanic": 2794,
+		"Overall": 4494
+	},
+	"homeownership rate": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 63.4,
+		"Native American": 46.4,
+		"Pacific Islander": null,
+		"White nonhispanic": 73.7,
+		"Overall": 67.4
+	},
+	"median income": {
+		"Asian": 60840,
+		"Black": null,
+		"Latino": 38674,
+		"Native American": 20250,
+		"Pacific Islander": null,
+		"White nonhispanic": 47674,
+		"Overall": 41817
+	},
+	"percent": {
+		"Asian": 1.5,
+		"Black": 1.6,
+		"Latino": 41.5,
+		"Native American": 6.9,
+		"Pacific Islander": 0,
+		"White nonhispanic": 52.9
+	},
+	"populations": {
+		"Asian": 218,
+		"Black": 232,
+		"Latino": 5921,
+		"Native American": 990,
+		"Pacific Islander": 5,
+		"White nonhispanic": 7546
+	},
+	"poverty population": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 1247,
+		"Native American": 117,
+		"Pacific Islander": null,
+		"White nonhispanic": 999,
+		"Overall": 2474
+	},
+	"poverty rate": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 21.9,
+		"Native American": 23,
+		"Pacific Islander": null,
+		"White nonhispanic": 14.2,
+		"Overall": 18.5
+	},
+	"unemployed": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 417,
+		"Native American": 162,
+		"Pacific Islander": null,
+		"White nonhispanic": 350,
+		"Overall": 976
+	},
+	"unemployment rate": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 8.9,
+		"Native American": 30.4,
+		"Pacific Islander": null,
+		"White nonhispanic": 5.3,
+		"Overall": 8.1
+	}
+}, {
+	"County": "Lincoln County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8073,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 5585,
+	"Food Insecurity population": 660,
+	"Food Insecurity Rate": 11.9,
+	"disability number": {
+		"Asian": null,
+		"Black": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 513
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 8.6,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 16.7,
+		"Overall": 15.9
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": 5,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1022,
+		"Overall": 1071
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": 100,
+		"Latino": 32.9,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 73.3,
+		"Overall": 70.6
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 25595,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 48648,
+		"Overall": 47258
+	},
+	"percent": {
+		"Asian": 0.5,
+		"Black": 8.3,
+		"Latino": 22.5,
+		"Native American": 1.6,
+		"Pacific Islander": 0.3,
+		"White nonhispanic": 67.1
+	},
+	"populations": {
+		"Asian": 27,
+		"Black": 462,
+		"Latino": 1259,
+		"Native American": 91,
+		"Pacific Islander": 17,
+		"White nonhispanic": 3748
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 127,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 356,
+		"Overall": 515
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 40.4,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 11.6,
+		"Overall": 14.8
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": 306,
+		"Latino": 58,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 70,
+		"Overall": 124
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": 66.7,
+		"Latino": 5.1,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 2.4,
+		"Overall": 2.7
+	}
+}, {
+	"County": "Lincoln County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8073,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 5585,
+	"Food Insecurity population": 660,
+	"Food Insecurity Rate": 11.9,
+	"disability number": {
+		"Asian": null,
+		"Black": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 513
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 8.6,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 16.7,
+		"Overall": 15.9
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": 5,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1022,
+		"Overall": 1071
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": 100,
+		"Latino": 32.9,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 73.3,
+		"Overall": 70.6
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 25595,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 48648,
+		"Overall": 47258
+	},
+	"percent": {
+		"Asian": 0.5,
+		"Black": 8.3,
+		"Latino": 22.5,
+		"Native American": 1.6,
+		"Pacific Islander": 0.3,
+		"White nonhispanic": 67.1
+	},
+	"populations": {
+		"Asian": 27,
+		"Black": 462,
+		"Latino": 1259,
+		"Native American": 91,
+		"Pacific Islander": 17,
+		"White nonhispanic": 3748
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 127,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 356,
+		"Overall": 515
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 40.4,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 11.6,
+		"Overall": 14.8
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": 306,
+		"Latino": 58,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 70,
+		"Overall": 124
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": 66.7,
+		"Latino": 5.1,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 2.4,
+		"Overall": 2.7
+	}
+}, {
+	"County": "Logan County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8075,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 22380,
+	"Food Insecurity population": 2470,
+	"Food Insecurity Rate": 11,
+	"disability number": {
+		"Asian": 16,
+		"Black": 38,
+		"Native American": 71,
+		"Pacific Islander": 0,
+		"White nonhispanic": 2565
+	},
+	"disability rate": {
+		"Asian": 8.6,
+		"Black": 39.6,
+		"Latino": 8.6,
+		"Native American": 40.3,
+		"Pacific Islander": 0,
+		"White nonhispanic": 15.2,
+		"Overall": 14.2
+	},
+	"homeowners": {
+		"Asian": 36,
+		"Black": 31,
+		"Native American": 4,
+		"Pacific Islander": 0,
+		"White nonhispanic": 4956,
+		"Overall": 5476
+	},
+	"homeownership rate": {
+		"Asian": 78.3,
+		"Black": 96.9,
+		"Latino": 42.3,
+		"Native American": 10.8,
+		"Pacific Islander": 0,
+		"White nonhispanic": 69,
+		"Overall": 65.2
+	},
+	"median income": {
+		"Asian": 126125,
+		"Black": null,
+		"Latino": 45377,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 54931,
+		"Overall": 53318
+	},
+	"percent": {
+		"Asian": 1,
+		"Black": 3.8,
+		"Latino": 16.8,
+		"Native American": 1.8,
+		"Pacific Islander": 0.9,
+		"White nonhispanic": 76.2
+	},
+	"populations": {
+		"Asian": 219,
+		"Black": 843,
+		"Latino": 3749,
+		"Native American": 408,
+		"Pacific Islander": 210,
+		"White nonhispanic": 17054
+	},
+	"poverty population": {
+		"Asian": 6,
+		"Black": 34,
+		"Latino": 629,
+		"Native American": 9,
+		"Pacific Islander": 0,
+		"White nonhispanic": 1604,
+		"Overall": 2701
+	},
+	"poverty rate": {
+		"Asian": 3.4,
+		"Black": 47.9,
+		"Latino": 18,
+		"Native American": 5.1,
+		"Pacific Islander": 0,
+		"White nonhispanic": 9.7,
+		"Overall": 12.6
+	},
+	"unemployed": {
+		"Asian": 0,
+		"Black": 184,
+		"Latino": 63,
+		"Native American": 0,
+		"Pacific Islander": 0,
+		"White nonhispanic": 476,
+		"Overall": 603
+	},
+	"unemployment rate": {
+		"Asian": 0,
+		"Black": 100,
+		"Latino": 2.1,
+		"Native American": 0,
+		"Pacific Islander": 0,
+		"White nonhispanic": 3.3,
+		"Overall": 3.3
+	}
+}, {
+	"County": "Mesa County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8077,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 151218,
+	"Food Insecurity population": 18870,
+	"Food Insecurity Rate": 12.5,
+	"disability number": {
+		"Asian": 81,
+		"Black": 133,
+		"Native American": 315,
+		"Pacific Islander": 4,
+		"White nonhispanic": 19469
+	},
+	"disability rate": {
+		"Asian": 5.7,
+		"Black": 13.4,
+		"Latino": 10.2,
+		"Native American": 24,
+		"Pacific Islander": 1.9,
+		"White nonhispanic": 15.9,
+		"Overall": 15
+	},
+	"homeowners": {
+		"Asian": 319,
+		"Black": 69,
+		"Native American": 279,
+		"Pacific Islander": 0,
+		"White nonhispanic": 37311,
+		"Overall": 42093
+	},
+	"homeownership rate": {
+		"Asian": 56.5,
+		"Black": 29.4,
+		"Latino": 52.9,
+		"Native American": 46.6,
+		"Pacific Islander": 0,
+		"White nonhispanic": 71.1,
+		"Overall": 68.2
+	},
+	"median income": {
+		"Asian": 59750,
+		"Black": 101397,
+		"Latino": 46625,
+		"Native American": 22448,
+		"Pacific Islander": 13056,
+		"White nonhispanic": 57639,
+		"Overall": 55379
+	},
+	"percent": {
+		"Asian": 1.5,
+		"Black": 1.3,
+		"Latino": 14.5,
+		"Native American": 1.7,
+		"Pacific Islander": 0.3,
+		"White nonhispanic": 81.4
+	},
+	"populations": {
+		"Asian": 2225,
+		"Black": 1967,
+		"Latino": 21988,
+		"Native American": 2601,
+		"Pacific Islander": 400,
+		"White nonhispanic": 123063
+	},
+	"poverty population": {
+		"Asian": 110,
+		"Black": 219,
+		"Latino": 5712,
+		"Native American": 642,
+		"Pacific Islander": 103,
+		"White nonhispanic": 13864,
+		"Overall": 21032
+	},
+	"poverty rate": {
+		"Asian": 7.9,
+		"Black": 23.3,
+		"Latino": 26.8,
+		"Native American": 48.8,
+		"Pacific Islander": 55.7,
+		"White nonhispanic": 11.5,
+		"Overall": 14.2
+	},
+	"unemployed": {
+		"Asian": 46,
+		"Black": 36,
+		"Latino": 1428,
+		"Native American": 206,
+		"Pacific Islander": 0,
+		"White nonhispanic": 6116,
+		"Overall": 8179
+	},
+	"unemployment rate": {
+		"Asian": 4.1,
+		"Black": 3.9,
+		"Latino": 9.2,
+		"Native American": 20.9,
+		"Pacific Islander": 0,
+		"White nonhispanic": 6,
+		"Overall": 6.7
+	}
+}, {
+	"County": "Mineral County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8079,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 824,
+	"Food Insecurity population": 90,
+	"Food Insecurity Rate": 10.5,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 114
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 16,
+		"Overall": 14.7
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 309,
+		"Overall": 318
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 89.3,
+		"Overall": 86.6
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 62969,
+		"Overall": 62188
+	},
+	"percent": {
+		"Asian": 3,
+		"Black": 1.1,
+		"Latino": 9.6,
+		"Native American": 3.3,
+		"Pacific Islander": 0,
+		"White nonhispanic": 86.4
+	},
+	"populations": {
+		"Asian": 25,
+		"Black": 9,
+		"Latino": 79,
+		"Native American": 27,
+		"Pacific Islander": 0,
+		"White nonhispanic": 712
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 85,
+		"Overall": 113
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 11.9,
+		"Overall": 13.7
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 19,
+		"Overall": 19
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 2.9,
+		"Overall": 2.6
+	}
+}, {
+	"County": "Moffat County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8081,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 13127,
+	"Food Insecurity population": 1690,
+	"Food Insecurity Rate": 12.9,
+	"disability number": {
+		"Asian": null,
+		"Black": 17,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1295
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": 11.6,
+		"Latino": 3.8,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 12.4,
+		"Overall": 11.3
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": 7,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 3053,
+		"Overall": 3475
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": 14.6,
+		"Latino": 64.6,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 66.7,
+		"Overall": 64.8
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 42240,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 62620,
+		"Overall": 57229
+	},
+	"percent": {
+		"Asian": 1.2,
+		"Black": 1.7,
+		"Latino": 15.6,
+		"Native American": 1.9,
+		"Pacific Islander": 0.6,
+		"White nonhispanic": 80.3
+	},
+	"populations": {
+		"Asian": 159,
+		"Black": 219,
+		"Latino": 2044,
+		"Native American": 248,
+		"Pacific Islander": 75,
+		"White nonhispanic": 10543
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": 62,
+		"Latino": 433,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1558,
+		"Overall": 2206
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": 42.5,
+		"Latino": 21.6,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 14.9,
+		"Overall": 17
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 17,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 294,
+		"Overall": 446
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 1.3,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 3.5,
+		"Overall": 4.4
+	}
+}, {
+	"County": "Montezuma County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8083,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 26031,
+	"Food Insecurity population": 3600,
+	"Food Insecurity Rate": 13.8,
+	"disability number": {
+		"Asian": 69,
+		"Black": null,
+		"Native American": 378,
+		"Pacific Islander": null,
+		"White nonhispanic": 3598
+	},
+	"disability rate": {
+		"Asian": 36.7,
+		"Black": null,
+		"Latino": 10.5,
+		"Native American": 11.9,
+		"Pacific Islander": null,
+		"White nonhispanic": 19.2,
+		"Overall": 17.3
+	},
+	"homeowners": {
+		"Asian": 5,
+		"Black": null,
+		"Native American": 498,
+		"Pacific Islander": null,
+		"White nonhispanic": 6343,
+		"Overall": 7683
+	},
+	"homeownership rate": {
+		"Asian": 5.3,
+		"Black": null,
+		"Latino": 68,
+		"Native American": 52.5,
+		"Pacific Islander": null,
+		"White nonhispanic": 75.6,
+		"Overall": 72.1
+	},
+	"median income": {
+		"Asian": 36875,
+		"Black": null,
+		"Latino": 39771,
+		"Native American": 31339,
+		"Pacific Islander": null,
+		"White nonhispanic": 53870,
+		"Overall": 49470
+	},
+	"percent": {
+		"Asian": 0.9,
+		"Black": 0.8,
+		"Latino": 12.5,
+		"Native American": 13.6,
+		"Pacific Islander": 0.1,
+		"White nonhispanic": 72.4
+	},
+	"populations": {
+		"Asian": 232,
+		"Black": 196,
+		"Latino": 3260,
+		"Native American": 3541,
+		"Pacific Islander": 17,
+		"White nonhispanic": 18854
+	},
+	"poverty population": {
+		"Asian": 5,
+		"Black": null,
+		"Latino": 1078,
+		"Native American": 623,
+		"Pacific Islander": null,
+		"White nonhispanic": 2150,
+		"Overall": 3902
+	},
+	"poverty rate": {
+		"Asian": 2.7,
+		"Black": null,
+		"Latino": 33.4,
+		"Native American": 19.6,
+		"Pacific Islander": null,
+		"White nonhispanic": 11.5,
+		"Overall": 15.1
+	},
+	"unemployed": {
+		"Asian": 50,
+		"Black": null,
+		"Latino": 95,
+		"Native American": 49,
+		"Pacific Islander": null,
+		"White nonhispanic": 827,
+		"Overall": 1070
+	},
+	"unemployment rate": {
+		"Asian": 26.9,
+		"Black": null,
+		"Latino": 4.2,
+		"Native American": 2.2,
+		"Pacific Islander": null,
+		"White nonhispanic": 5.2,
+		"Overall": 5.1
+	}
+}, {
+	"County": "Montrose County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8085,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 41686,
+	"Food Insecurity population": 5130,
+	"Food Insecurity Rate": 12.3,
+	"disability number": {
+		"Asian": 45,
+		"Black": 50,
+		"Native American": 79,
+		"Pacific Islander": 36,
+		"White nonhispanic": 5539
+	},
+	"disability rate": {
+		"Asian": 11.7,
+		"Black": 31.6,
+		"Latino": 7.6,
+		"Native American": 20.3,
+		"Pacific Islander": 27.1,
+		"White nonhispanic": 17.6,
+		"Overall": 15.8
+	},
+	"homeowners": {
+		"Asian": 65,
+		"Black": 17,
+		"Native American": 122,
+		"Pacific Islander": 0,
+		"White nonhispanic": 10452,
+		"Overall": 12455
+	},
+	"homeownership rate": {
+		"Asian": 45.5,
+		"Black": 68,
+		"Latino": 69,
+		"Native American": 64.2,
+		"Pacific Islander": null,
+		"White nonhispanic": 73.8,
+		"Overall": 72.7
+	},
+	"median income": {
+		"Asian": 79861,
+		"Black": null,
+		"Latino": 46792,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 51637,
+		"Overall": 50489
+	},
+	"percent": {
+		"Asian": 1.2,
+		"Black": 0.9,
+		"Latino": 20.6,
+		"Native American": 1.6,
+		"Pacific Islander": 0.3,
+		"White nonhispanic": 76.1
+	},
+	"populations": {
+		"Asian": 512,
+		"Black": 384,
+		"Latino": 8596,
+		"Native American": 658,
+		"Pacific Islander": 145,
+		"White nonhispanic": 31704
+	},
+	"poverty population": {
+		"Asian": 107,
+		"Black": 5,
+		"Latino": 1647,
+		"Native American": 63,
+		"Pacific Islander": 36,
+		"White nonhispanic": 4352,
+		"Overall": 6226
+	},
+	"poverty rate": {
+		"Asian": 27.7,
+		"Black": 3.2,
+		"Latino": 19.4,
+		"Native American": 16.2,
+		"Pacific Islander": 27.1,
+		"White nonhispanic": 13.9,
+		"Overall": 15.1
+	},
+	"unemployed": {
+		"Asian": 0,
+		"Black": 12,
+		"Latino": 599,
+		"Native American": 13,
+		"Pacific Islander": 0,
+		"White nonhispanic": 1437,
+		"Overall": 2116
+	},
+	"unemployment rate": {
+		"Asian": 0,
+		"Black": 13.5,
+		"Latino": 10.1,
+		"Native American": 4,
+		"Pacific Islander": 0,
+		"White nonhispanic": 5.4,
+		"Overall": 6.3
+	}
+}, {
+	"County": "Morgan County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8087,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 28517,
+	"Food Insecurity population": 2710,
+	"Food Insecurity Rate": 9.5,
+	"disability number": {
+		"Asian": 5,
+		"Black": 28,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 2463
+	},
+	"disability rate": {
+		"Asian": 3.3,
+		"Black": 2.7,
+		"Latino": 5.8,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 15.1,
+		"Overall": 11.2
+	},
+	"homeowners": {
+		"Asian": 23,
+		"Black": 41,
+		"Native American": 6,
+		"Pacific Islander": null,
+		"White nonhispanic": 5173,
+		"Overall": 6999
+	},
+	"homeownership rate": {
+		"Asian": 67.6,
+		"Black": 11.8,
+		"Latino": 58.6,
+		"Native American": 24,
+		"Pacific Islander": null,
+		"White nonhispanic": 69.9,
+		"Overall": 64
+	},
+	"median income": {
+		"Asian": 69500,
+		"Black": 36575,
+		"Latino": 58242,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 54212,
+		"Overall": 53682
+	},
+	"percent": {
+		"Asian": 0.8,
+		"Black": 3.8,
+		"Latino": 36.1,
+		"Native American": 1.7,
+		"Pacific Islander": 0.3,
+		"White nonhispanic": 58.2
+	},
+	"populations": {
+		"Asian": 236,
+		"Black": 1092,
+		"Latino": 10306,
+		"Native American": 480,
+		"Pacific Islander": 86,
+		"White nonhispanic": 16595
+	},
+	"poverty population": {
+		"Asian": 4,
+		"Black": 229,
+		"Latino": 1050,
+		"Native American": 2,
+		"Pacific Islander": null,
+		"White nonhispanic": 1743,
+		"Overall": 3078
+	},
+	"poverty rate": {
+		"Asian": 2.6,
+		"Black": 22.3,
+		"Latino": 10.3,
+		"Native American": 2.4,
+		"Pacific Islander": null,
+		"White nonhispanic": 10.7,
+		"Overall": 11
+	},
+	"unemployed": {
+		"Asian": 0,
+		"Black": 48,
+		"Latino": 339,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 395,
+		"Overall": 898
+	},
+	"unemployment rate": {
+		"Asian": 0,
+		"Black": 6.2,
+		"Latino": 4.8,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 2.9,
+		"Overall": 4.1
+	}
+}, {
+	"County": "Otero County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8089,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 18282,
+	"Food Insecurity population": 2990,
+	"Food Insecurity Rate": 16.4,
+	"disability number": {
+		"Asian": 19,
+		"Black": 21,
+		"Native American": 138,
+		"Pacific Islander": null,
+		"White nonhispanic": 2081
+	},
+	"disability rate": {
+		"Asian": 11.4,
+		"Black": 20.2,
+		"Latino": 20.3,
+		"Native American": 63.3,
+		"Pacific Islander": null,
+		"White nonhispanic": 21.7,
+		"Overall": 21
+	},
+	"homeowners": {
+		"Asian": 11,
+		"Black": 18,
+		"Native American": 66,
+		"Pacific Islander": null,
+		"White nonhispanic": 3456,
+		"Overall": 4936
+	},
+	"homeownership rate": {
+		"Asian": 31.4,
+		"Black": 25.7,
+		"Latino": 50.5,
+		"Native American": 45.5,
+		"Pacific Islander": null,
+		"White nonhispanic": 73.7,
+		"Overall": 63.9
+	},
+	"median income": {
+		"Asian": 9323,
+		"Black": 2499,
+		"Latino": 30735,
+		"Native American": 19375,
+		"Pacific Islander": null,
+		"White nonhispanic": 44709,
+		"Overall": 38169
+	},
+	"percent": {
+		"Asian": 1.1,
+		"Black": 0.8,
+		"Latino": 41.9,
+		"Native American": 3.3,
+		"Pacific Islander": 0.1,
+		"White nonhispanic": 53.1
+	},
+	"populations": {
+		"Asian": 202,
+		"Black": 142,
+		"Latino": 7658,
+		"Native American": 600,
+		"Pacific Islander": 17,
+		"White nonhispanic": 9711
+	},
+	"poverty population": {
+		"Asian": 122,
+		"Black": 55,
+		"Latino": 2218,
+		"Native American": 113,
+		"Pacific Islander": null,
+		"White nonhispanic": 1528,
+		"Overall": 4226
+	},
+	"poverty rate": {
+		"Asian": 73.1,
+		"Black": 68.8,
+		"Latino": 29.3,
+		"Native American": 51.8,
+		"Pacific Islander": null,
+		"White nonhispanic": 16.2,
+		"Overall": 23.7
+	},
+	"unemployed": {
+		"Asian": 66,
+		"Black": 0,
+		"Latino": 375,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 578,
+		"Overall": 1058
+	},
+	"unemployment rate": {
+		"Asian": 53.8,
+		"Black": 0,
+		"Latino": 6.6,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 7.1,
+		"Overall": 7.3
+	}
+}, {
+	"County": "Ouray County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8091,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 4796,
+	"Food Insecurity population": 480,
+	"Food Insecurity Rate": 9.9,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 534
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 11.6,
+		"Overall": 11.5
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1515,
+		"Overall": 1564
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 73.1,
+		"Overall": 72.3
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 66000,
+		"Overall": 66417
+	},
+	"percent": {
+		"Asian": 0.9,
+		"Black": 0.9,
+		"Latino": 2,
+		"Native American": 0.5,
+		"Pacific Islander": 0.2,
+		"White nonhispanic": 95.7
+	},
+	"populations": {
+		"Asian": 41,
+		"Black": 42,
+		"Latino": 97,
+		"Native American": 23,
+		"Pacific Islander": 9,
+		"White nonhispanic": 4590
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 272,
+		"Overall": 344
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 5.9,
+		"Overall": 7.2
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 162,
+		"Overall": 157
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 4.1,
+		"Overall": 3.8
+	}
+}, {
+	"County": "Park County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8093,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 17867,
+	"Food Insecurity population": 1530,
+	"Food Insecurity Rate": 8.6,
+	"disability number": {
+		"Asian": 0,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 2100
+	},
+	"disability rate": {
+		"Asian": 0,
+		"Black": null,
+		"Latino": 13.9,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 13.3,
+		"Overall": 12.9
+	},
+	"homeowners": {
+		"Asian": 21,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 5470,
+		"Overall": 5988
+	},
+	"homeownership rate": {
+		"Asian": 40.4,
+		"Black": null,
+		"Latino": 90.5,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 86.2,
+		"Overall": 86.4
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 80250,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 72268,
+		"Overall": 73622
+	},
+	"percent": {
+		"Asian": 1.7,
+		"Black": 2.2,
+		"Latino": 6.1,
+		"Native American": 1,
+		"Pacific Islander": 0.5,
+		"White nonhispanic": 88.9
+	},
+	"populations": {
+		"Asian": 300,
+		"Black": 388,
+		"Latino": 1091,
+		"Native American": 177,
+		"Pacific Islander": 98,
+		"White nonhispanic": 15892
+	},
+	"poverty population": {
+		"Asian": 0,
+		"Black": null,
+		"Latino": 2,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1259,
+		"Overall": 1293
+	},
+	"poverty rate": {
+		"Asian": 0,
+		"Black": null,
+		"Latino": 0.2,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 8,
+		"Overall": 7.3
+	},
+	"unemployed": {
+		"Asian": 0,
+		"Black": null,
+		"Latino": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 858,
+		"Overall": 846
+	},
+	"unemployment rate": {
+		"Asian": 0,
+		"Black": null,
+		"Latino": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 6.2,
+		"Overall": 5.5
+	}
+}, {
+	"County": "Phillips County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8095,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 4290,
+	"Food Insecurity population": 340,
+	"Food Insecurity Rate": 8,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 491
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 2.5,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 15.8,
+		"Overall": 12.4
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1022,
+		"Overall": 1214
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 56,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 76.5,
+		"Overall": 71.9
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 48000,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 55429,
+		"Overall": 51155
+	},
+	"percent": {
+		"Asian": 0.7,
+		"Black": 0.2,
+		"Latino": 23.9,
+		"Native American": 0.9,
+		"Pacific Islander": 0.4,
+		"White nonhispanic": 74.1
+	},
+	"populations": {
+		"Asian": 29,
+		"Black": 9,
+		"Latino": 1027,
+		"Native American": 40,
+		"Pacific Islander": 18,
+		"White nonhispanic": 3178
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 30,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 219,
+		"Overall": 256
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 2.9,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 7.1,
+		"Overall": 6.1
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 6,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 41,
+		"Overall": 45
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 0.9,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1.6,
+		"Overall": 1.4
+	}
+}, {
+	"County": "Pitkin County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8097,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 17926,
+	"Food Insecurity population": 1560,
+	"Food Insecurity Rate": 8.7,
+	"disability number": {
+		"Asian": 0,
+		"Black": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1160
+	},
+	"disability rate": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 0.3,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 7.6,
+		"Overall": 6.5
+	},
+	"homeowners": {
+		"Asian": 21,
+		"Black": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 4630,
+		"Overall": 4851
+	},
+	"homeownership rate": {
+		"Asian": 34.4,
+		"Black": 0,
+		"Latino": 47.7,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 67.1,
+		"Overall": 65
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 54856,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 81062,
+		"Overall": 78935
+	},
+	"percent": {
+		"Asian": 3,
+		"Black": 1.4,
+		"Latino": 10.1,
+		"Native American": 0.4,
+		"Pacific Islander": 0,
+		"White nonhispanic": 85.3
+	},
+	"populations": {
+		"Asian": 534,
+		"Black": 249,
+		"Latino": 1809,
+		"Native American": 79,
+		"Pacific Islander": 0,
+		"White nonhispanic": 15296
+	},
+	"poverty population": {
+		"Asian": 228,
+		"Black": 129,
+		"Latino": 58,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 745,
+		"Overall": 1200
+	},
+	"poverty rate": {
+		"Asian": 56.6,
+		"Black": 74.1,
+		"Latino": 3.3,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 4.9,
+		"Overall": 6.7
+	},
+	"unemployed": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 31,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 445,
+		"Overall": 463
+	},
+	"unemployment rate": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 2.2,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 3.3,
+		"Overall": 3
+	}
+}, {
+	"County": "Prowers County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8099,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 12022,
+	"Food Insecurity population": 1490,
+	"Food Insecurity Rate": 12.4,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": 21,
+		"Pacific Islander": null,
+		"White nonhispanic": 1503
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 8.6,
+		"Native American": 11.6,
+		"Pacific Islander": null,
+		"White nonhispanic": 21.5,
+		"Overall": 16.9
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": 22,
+		"Pacific Islander": null,
+		"White nonhispanic": 2225,
+		"Overall": 3198
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 62.8,
+		"Native American": 35.5,
+		"Pacific Islander": null,
+		"White nonhispanic": 68.5,
+		"Overall": 65.4
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 39695,
+		"Native American": 41477,
+		"Pacific Islander": null,
+		"White nonhispanic": 46454,
+		"Overall": 41929
+	},
+	"percent": {
+		"Asian": 0.7,
+		"Black": 1.3,
+		"Latino": 38,
+		"Native American": 2.6,
+		"Pacific Islander": 0.1,
+		"White nonhispanic": 58.9
+	},
+	"populations": {
+		"Asian": 88,
+		"Black": 156,
+		"Latino": 4573,
+		"Native American": 308,
+		"Pacific Islander": 14,
+		"White nonhispanic": 7080
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 926,
+		"Native American": 22,
+		"Pacific Islander": null,
+		"White nonhispanic": 856,
+		"Overall": 1866
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 20.5,
+		"Native American": 12.2,
+		"Pacific Islander": null,
+		"White nonhispanic": 12.5,
+		"Overall": 16
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 148,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 275,
+		"Overall": 446
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 4.7,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 4.7,
+		"Overall": 4.8
+	}
+}, {
+	"County": "Pueblo County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8101,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 165982,
+	"Food Insecurity population": 23230,
+	"Food Insecurity Rate": 14,
+	"disability number": {
+		"Asian": 271,
+		"Black": 455,
+		"Native American": 1904,
+		"Pacific Islander": 47,
+		"White nonhispanic": 17333
+	},
+	"disability rate": {
+		"Asian": 18.8,
+		"Black": 14.4,
+		"Latino": 18.2,
+		"Native American": 28.9,
+		"Pacific Islander": 27.6,
+		"White nonhispanic": 20.5,
+		"Overall": 19.5
+	},
+	"homeowners": {
+		"Asian": 231,
+		"Black": 497,
+		"Native American": 1085,
+		"Pacific Islander": 63,
+		"White nonhispanic": 26222,
+		"Overall": 41589
+	},
+	"homeownership rate": {
+		"Asian": 47.4,
+		"Black": 48.6,
+		"Latino": 57.1,
+		"Native American": 41.3,
+		"Pacific Islander": 64.9,
+		"White nonhispanic": 70.5,
+		"Overall": 64.7
+	},
+	"median income": {
+		"Asian": 39427,
+		"Black": 39038,
+		"Latino": 41360,
+		"Native American": 28846,
+		"Pacific Islander": 71645,
+		"White nonhispanic": 52488,
+		"Overall": 46783
+	},
+	"percent": {
+		"Asian": 1.9,
+		"Black": 3.3,
+		"Latino": 43,
+		"Native American": 5.6,
+		"Pacific Islander": 0.3,
+		"White nonhispanic": 52.1
+	},
+	"populations": {
+		"Asian": 3075,
+		"Black": 5426,
+		"Latino": 71356,
+		"Native American": 9247,
+		"Pacific Islander": 576,
+		"White nonhispanic": 86404
+	},
+	"poverty population": {
+		"Asian": 80,
+		"Black": 1156,
+		"Latino": 16453,
+		"Native American": 2014,
+		"Pacific Islander": 13,
+		"White nonhispanic": 12164,
+		"Overall": 30591
+	},
+	"poverty rate": {
+		"Asian": 5.6,
+		"Black": 36.7,
+		"Latino": 23.4,
+		"Native American": 30.7,
+		"Pacific Islander": 7.8,
+		"White nonhispanic": 14.5,
+		"Overall": 18.9
+	},
+	"unemployed": {
+		"Asian": 67,
+		"Black": 315,
+		"Latino": 4823,
+		"Native American": 808,
+		"Pacific Islander": 0,
+		"White nonhispanic": 4322,
+		"Overall": 9950
+	},
+	"unemployment rate": {
+		"Asian": 5.8,
+		"Black": 11.8,
+		"Latino": 9.1,
+		"Native American": 15.5,
+		"Pacific Islander": 0,
+		"White nonhispanic": 5.9,
+		"Overall": 7.5
+	}
+}, {
+	"County": "Rio Blanco County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8103,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 6384,
+	"Food Insecurity population": 700,
+	"Food Insecurity Rate": 11,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 611
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 7.4,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 11.5,
+		"Overall": 12.1
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1506,
+		"Overall": 1629
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 31.7,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 73.8,
+		"Overall": 70.8
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 50972,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 56324,
+		"Overall": 54357
+	},
+	"percent": {
+		"Asian": 0.5,
+		"Black": 1.5,
+		"Latino": 10.3,
+		"Native American": 4.9,
+		"Pacific Islander": 0,
+		"White nonhispanic": 84.6
+	},
+	"populations": {
+		"Asian": 30,
+		"Black": 96,
+		"Latino": 655,
+		"Native American": 314,
+		"Pacific Islander": 0,
+		"White nonhispanic": 5404
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 22,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 423,
+		"Overall": 637
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 3.7,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 8.2,
+		"Overall": 10.6
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 39,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 258,
+		"Overall": 295
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 8.2,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 6,
+		"Overall": 5.9
+	}
+}, {
+	"County": "Rio Grande County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8105,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 11305,
+	"Food Insecurity population": 1550,
+	"Food Insecurity Rate": 13.8,
+	"disability number": {
+		"Asian": null,
+		"Black": 35,
+		"Native American": 37,
+		"Pacific Islander": null,
+		"White nonhispanic": 1155
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": 33,
+		"Latino": 19.8,
+		"Native American": 14.4,
+		"Pacific Islander": null,
+		"White nonhispanic": 19.9,
+		"Overall": 20.2
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": 0,
+		"Native American": 4,
+		"Pacific Islander": null,
+		"White nonhispanic": 1900,
+		"Overall": 3049
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 56.1,
+		"Native American": 4.2,
+		"Pacific Islander": null,
+		"White nonhispanic": 68.7,
+		"Overall": 63.2
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 35578,
+		"Native American": 13929,
+		"Pacific Islander": null,
+		"White nonhispanic": 47826,
+		"Overall": 39123
+	},
+	"percent": {
+		"Asian": 0.1,
+		"Black": 1.8,
+		"Latino": 44.4,
+		"Native American": 3.4,
+		"Pacific Islander": 0.1,
+		"White nonhispanic": 52.1
+	},
+	"populations": {
+		"Asian": 8,
+		"Black": 208,
+		"Latino": 5020,
+		"Native American": 383,
+		"Pacific Islander": 14,
+		"White nonhispanic": 5887
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": 46,
+		"Latino": 1020,
+		"Native American": 65,
+		"Pacific Islander": null,
+		"White nonhispanic": 813,
+		"Overall": 1894
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": 43.4,
+		"Latino": 20.6,
+		"Native American": 25.3,
+		"Pacific Islander": null,
+		"White nonhispanic": 14,
+		"Overall": 17
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 585,
+		"Native American": 27,
+		"Pacific Islander": null,
+		"White nonhispanic": 187,
+		"Overall": 794
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 15.3,
+		"Native American": 11,
+		"Pacific Islander": null,
+		"White nonhispanic": 3.8,
+		"Overall": 8.7
+	}
+}, {
+	"County": "Routt County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8107,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 25072,
+	"Food Insecurity population": 2350,
+	"Food Insecurity Rate": 9.4,
+	"disability number": {
+		"Asian": 0,
+		"Black": 7,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1394
+	},
+	"disability rate": {
+		"Asian": 0,
+		"Black": 3.3,
+		"Latino": 7.7,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 6.2,
+		"Overall": 6.2
+	},
+	"homeowners": {
+		"Asian": 65,
+		"Black": 2,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 6573,
+		"Overall": 6837
+	},
+	"homeownership rate": {
+		"Asian": 87.8,
+		"Black": 3.1,
+		"Latino": 43.2,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 72.9,
+		"Overall": 71.2
+	},
+	"median income": {
+		"Asian": null,
+		"Black": 78018,
+		"Latino": 47813,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 79017,
+		"Overall": 77443
+	},
+	"percent": {
+		"Asian": 1.5,
+		"Black": 1,
+		"Latino": 7,
+		"Native American": 0.7,
+		"Pacific Islander": 0.1,
+		"White nonhispanic": 89.7
+	},
+	"populations": {
+		"Asian": 374,
+		"Black": 260,
+		"Latino": 1743,
+		"Native American": 181,
+		"Pacific Islander": 19,
+		"White nonhispanic": 22495
+	},
+	"poverty population": {
+		"Asian": 43,
+		"Black": 20,
+		"Latino": 386,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 2214,
+		"Overall": 2705
+	},
+	"poverty rate": {
+		"Asian": 15.9,
+		"Black": 10.1,
+		"Latino": 22.7,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 9.9,
+		"Overall": 10.9
+	},
+	"unemployed": {
+		"Asian": 17,
+		"Black": 11,
+		"Latino": 6,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 610,
+		"Overall": 653
+	},
+	"unemployment rate": {
+		"Asian": 8.6,
+		"Black": 5.6,
+		"Latino": 0.4,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 3.2,
+		"Overall": 3.1
+	}
+}, {
+	"County": "Saguache County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8109,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 6592,
+	"Food Insecurity population": 840,
+	"Food Insecurity Rate": 12.8,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 670
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 13.2,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 17.4,
+		"Overall": 15.6
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": 74,
+		"Pacific Islander": null,
+		"White nonhispanic": 1468,
+		"Overall": 2045
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 54.5,
+		"Native American": 100,
+		"Pacific Islander": null,
+		"White nonhispanic": 80.4,
+		"Overall": 71.5
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 38534,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 39841,
+		"Overall": 38571
+	},
+	"percent": {
+		"Asian": 0.3,
+		"Black": 2.8,
+		"Latino": 36.3,
+		"Native American": 6,
+		"Pacific Islander": 0.4,
+		"White nonhispanic": 58.6
+	},
+	"populations": {
+		"Asian": 22,
+		"Black": 185,
+		"Latino": 2394,
+		"Native American": 393,
+		"Pacific Islander": 25,
+		"White nonhispanic": 3862
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 504,
+		"Native American": 35,
+		"Pacific Islander": null,
+		"White nonhispanic": 421,
+		"Overall": 1152
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 21.2,
+		"Native American": 27.1,
+		"Pacific Islander": null,
+		"White nonhispanic": 10.9,
+		"Overall": 17.6
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 71,
+		"Native American": 10,
+		"Pacific Islander": null,
+		"White nonhispanic": 266,
+		"Overall": 330
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 4,
+		"Native American": 8.3,
+		"Pacific Islander": null,
+		"White nonhispanic": 8,
+		"Overall": 6.2
+	}
+}, {
+	"County": "San Juan County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8111,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 589,
+	"Food Insecurity population": 60,
+	"Food Insecurity Rate": 10.4,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 52
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 9.9,
+		"Overall": 12.9
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 163,
+		"Overall": 181
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 66.5,
+		"Overall": 62.6
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 55268,
+		"Overall": 54625
+	},
+	"percent": {
+		"Asian": 1.7,
+		"Black": 0,
+		"Latino": 8.5,
+		"Native American": 1,
+		"Pacific Islander": 0,
+		"White nonhispanic": 88.8
+	},
+	"populations": {
+		"Asian": 10,
+		"Black": 0,
+		"Latino": 50,
+		"Native American": 6,
+		"Pacific Islander": 0,
+		"White nonhispanic": 523
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 25,
+		"Overall": 31
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 4.8,
+		"Overall": 5.3
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 10,
+		"Overall": 10
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 2.3,
+		"Overall": 2
+	}
+}, {
+	"County": "San Miguel County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8113,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 8049,
+	"Food Insecurity population": 850,
+	"Food Insecurity Rate": 10.6,
+	"disability number": {
+		"Asian": 0,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 390
+	},
+	"disability rate": {
+		"Asian": 0,
+		"Black": null,
+		"Latino": 3.4,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 5.7,
+		"Overall": 5.5
+	},
+	"homeowners": {
+		"Asian": 12,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 2081,
+		"Overall": 2166
+	},
+	"homeownership rate": {
+		"Asian": 19.7,
+		"Black": null,
+		"Latino": 21.2,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 64.4,
+		"Overall": 61
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 38750,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 71085,
+		"Overall": 67038
+	},
+	"percent": {
+		"Asian": 3.2,
+		"Black": 0.2,
+		"Latino": 10.7,
+		"Native American": 1.1,
+		"Pacific Islander": 0,
+		"White nonhispanic": 85.8
+	},
+	"populations": {
+		"Asian": 256,
+		"Black": 13,
+		"Latino": 859,
+		"Native American": 89,
+		"Pacific Islander": 0,
+		"White nonhispanic": 6909
+	},
+	"poverty population": {
+		"Asian": 100,
+		"Black": null,
+		"Latino": 202,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 551,
+		"Overall": 909
+	},
+	"poverty rate": {
+		"Asian": 67.6,
+		"Black": null,
+		"Latino": 23.7,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 8,
+		"Overall": 11.3
+	},
+	"unemployed": {
+		"Asian": 0,
+		"Black": null,
+		"Latino": 36,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 130,
+		"Overall": 169
+	},
+	"unemployment rate": {
+		"Asian": 0,
+		"Black": null,
+		"Latino": 6,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 2.2,
+		"Overall": 2.5
+	}
+}, {
+	"County": "Sedgwick County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8115,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 2322,
+	"Food Insecurity population": 320,
+	"Food Insecurity Rate": 13.8,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 350
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 18.9,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 18.1,
+		"Overall": 18.2
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 587,
+		"Overall": 690
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 53.4,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 73.2,
+		"Overall": 71.4
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 24097,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 47500,
+		"Overall": 43150
+	},
+	"percent": {
+		"Asian": 0.9,
+		"Black": 1.2,
+		"Latino": 13.4,
+		"Native American": 0.7,
+		"Pacific Islander": 0,
+		"White nonhispanic": 84.5
+	},
+	"populations": {
+		"Asian": 22,
+		"Black": 28,
+		"Latino": 312,
+		"Native American": 16,
+		"Pacific Islander": 0,
+		"White nonhispanic": 1961
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 77,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 357,
+		"Overall": 434
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 24.7,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 18.5,
+		"Overall": 19
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 37,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 89,
+		"Overall": 126
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 14.3,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 6,
+		"Overall": 7
+	}
+}, {
+	"County": "Summit County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8117,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 30649,
+	"Food Insecurity population": 2460,
+	"Food Insecurity Rate": 8,
+	"disability number": {
+		"Asian": 0,
+		"Black": 13,
+		"Native American": 3,
+		"Pacific Islander": null,
+		"White nonhispanic": 1441
+	},
+	"disability rate": {
+		"Asian": 0,
+		"Black": 3.8,
+		"Latino": 2.6,
+		"Native American": 2.7,
+		"Pacific Islander": null,
+		"White nonhispanic": 5.7,
+		"Overall": 5.7
+	},
+	"homeowners": {
+		"Asian": 46,
+		"Black": 0,
+		"Native American": 70,
+		"Pacific Islander": null,
+		"White nonhispanic": 6561,
+		"Overall": 6970
+	},
+	"homeownership rate": {
+		"Asian": 100,
+		"Black": 0,
+		"Latino": 26.6,
+		"Native American": 92.1,
+		"Pacific Islander": null,
+		"White nonhispanic": 69.8,
+		"Overall": 65.5
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 67551,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 79991,
+		"Overall": 79277
+	},
+	"percent": {
+		"Asian": 0.9,
+		"Black": 2,
+		"Latino": 14.3,
+		"Native American": 1.2,
+		"Pacific Islander": 0.5,
+		"White nonhispanic": 82.1
+	},
+	"populations": {
+		"Asian": 271,
+		"Black": 605,
+		"Latino": 4382,
+		"Native American": 383,
+		"Pacific Islander": 146,
+		"White nonhispanic": 25173
+	},
+	"poverty population": {
+		"Asian": 10,
+		"Black": 29,
+		"Latino": 828,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 1535,
+		"Overall": 2437
+	},
+	"poverty rate": {
+		"Asian": 5.6,
+		"Black": 9.1,
+		"Latino": 19.1,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 6.1,
+		"Overall": 8
+	},
+	"unemployed": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 91,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 738,
+		"Overall": 840
+	},
+	"unemployment rate": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 3,
+		"Native American": 0,
+		"Pacific Islander": null,
+		"White nonhispanic": 3.3,
+		"Overall": 3.2
+	}
+}, {
+	"County": "Teller County",
+	"State": "Colorado",
+	"Fb Id": 19,
+	"Fips": 8119,
+	"Org.Name": "Care and Share Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 24524,
+	"Food Insecurity population": 2350,
+	"Food Insecurity Rate": 9.6,
+	"disability number": {
+		"Asian": 28,
+		"Black": 73,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 2997
+	},
+	"disability rate": {
+		"Asian": 14.5,
+		"Black": 35.3,
+		"Latino": 13.3,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 13.9,
+		"Overall": 13.8
+	},
+	"homeowners": {
+		"Asian": 6,
+		"Black": 101,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 7960,
+		"Overall": 8451
+	},
+	"homeownership rate": {
+		"Asian": 12.2,
+		"Black": 90.2,
+		"Latino": 63.4,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 83.6,
+		"Overall": 82.5
+	},
+	"median income": {
+		"Asian": null,
+		"Black": 116136,
+		"Latino": 75625,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 65892,
+		"Overall": 66592
+	},
+	"percent": {
+		"Asian": 1.5,
+		"Black": 1.2,
+		"Latino": 6.6,
+		"Native American": 1.9,
+		"Pacific Islander": 0.2,
+		"White nonhispanic": 88.7
+	},
+	"populations": {
+		"Asian": 374,
+		"Black": 288,
+		"Latino": 1614,
+		"Native American": 457,
+		"Pacific Islander": 48,
+		"White nonhispanic": 21764
+	},
+	"poverty population": {
+		"Asian": 0,
+		"Black": 10,
+		"Latino": 125,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1846,
+		"Overall": 1984
+	},
+	"poverty rate": {
+		"Asian": 0,
+		"Black": 4.8,
+		"Latino": 8,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 8.6,
+		"Overall": 8.2
+	},
+	"unemployed": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 58,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1023,
+		"Overall": 1196
+	},
+	"unemployment rate": {
+		"Asian": 0,
+		"Black": 0,
+		"Latino": 4.8,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 5.5,
+		"Overall": 5.8
+	}
+}, {
+	"County": "Washington County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8121,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 4868,
+	"Food Insecurity population": 510,
+	"Food Insecurity Rate": 10.5,
+	"disability number": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 488
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 1.9,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 12,
+		"Overall": 11.1
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": null,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 1352,
+		"Overall": 1396
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 48.9,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 68.4,
+		"Overall": 66.9
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 36667,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 51438,
+		"Overall": 50094
+	},
+	"percent": {
+		"Asian": 1.1,
+		"Black": 2.1,
+		"Latino": 10,
+		"Native American": 0.6,
+		"Pacific Islander": 0,
+		"White nonhispanic": 86.9
+	},
+	"populations": {
+		"Asian": 52,
+		"Black": 101,
+		"Latino": 488,
+		"Native American": 29,
+		"Pacific Islander": 1,
+		"White nonhispanic": 4232
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 93,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 420,
+		"Overall": 535
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 25,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 10.3,
+		"Overall": 11.8
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 87,
+		"Overall": 94
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 2.5,
+		"Overall": 2.4
+	}
+}, {
+	"County": "Weld County",
+	"State": "Colorado",
+	"Fb Id": 141,
+	"Fips": 8123,
+	"Org.Name": "Weld Food Bank",
+	"State Abbreviation": "CO",
+	"Total population": 305345,
+	"Food Insecurity population": 25430,
+	"Food Insecurity Rate": 8.3,
+	"disability number": {
+		"Asian": 207,
+		"Black": 319,
+		"Native American": 551,
+		"Pacific Islander": 14,
+		"White nonhispanic": 22138
+	},
+	"disability rate": {
+		"Asian": 4.3,
+		"Black": 9.1,
+		"Latino": 8.6,
+		"Native American": 24.1,
+		"Pacific Islander": 3.9,
+		"White nonhispanic": 11.1,
+		"Overall": 10.3
+	},
+	"homeowners": {
+		"Asian": 1002,
+		"Black": 269,
+		"Native American": 418,
+		"Pacific Islander": 85,
+		"White nonhispanic": 60133,
+		"Overall": 76321
+	},
+	"homeownership rate": {
+		"Asian": 71.9,
+		"Black": 28.3,
+		"Latino": 58.4,
+		"Native American": 47.3,
+		"Pacific Islander": 63,
+		"White nonhispanic": 78.2,
+		"Overall": 72.9
+	},
+	"median income": {
+		"Asian": 61974,
+		"Black": 41102,
+		"Latino": 55284,
+		"Native American": 75847,
+		"Pacific Islander": null,
+		"White nonhispanic": 81046,
+		"Overall": 74150
+	},
+	"percent": {
+		"Asian": 2.3,
+		"Black": 1.9,
+		"Latino": 29.4,
+		"Native American": 2,
+		"Pacific Islander": 0.4,
+		"White nonhispanic": 65.6
+	},
+	"populations": {
+		"Asian": 6932,
+		"Black": 5675,
+		"Latino": 89924,
+		"Native American": 6063,
+		"Pacific Islander": 1091,
+		"White nonhispanic": 200316
+	},
+	"poverty population": {
+		"Asian": 657,
+		"Black": 996,
+		"Latino": 13128,
+		"Native American": 304,
+		"Pacific Islander": 10,
+		"White nonhispanic": 14205,
+		"Overall": 29866
+	},
+	"poverty rate": {
+		"Asian": 13.7,
+		"Black": 31.1,
+		"Latino": 14.9,
+		"Native American": 13.8,
+		"Pacific Islander": 3,
+		"White nonhispanic": 7.3,
+		"Overall": 10
+	},
+	"unemployed": {
+		"Asian": 121,
+		"Black": 105,
+		"Latino": 3148,
+		"Native American": 110,
+		"Pacific Islander": 0,
+		"White nonhispanic": 5623,
+		"Overall": 9565
+	},
+	"unemployment rate": {
+		"Asian": 3.3,
+		"Black": 3.9,
+		"Latino": 5.1,
+		"Native American": 5.5,
+		"Pacific Islander": 0,
+		"White nonhispanic": 3.5,
+		"Overall": 4.1
+	}
+}, {
+	"County": "Yuma County",
+	"State": "Colorado",
+	"Fb Id": 25,
+	"Fips": 8125,
+	"Org.Name": "Food Bank of the Rockies",
+	"State Abbreviation": "CO",
+	"Total population": 10003,
+	"Food Insecurity population": 1100,
+	"Food Insecurity Rate": 11,
+	"disability number": {
+		"Asian": null,
+		"Black": 45,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 896
+	},
+	"disability rate": {
+		"Asian": null,
+		"Black": 40.9,
+		"Latino": 9.8,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 12.1,
+		"Overall": 11.6
+	},
+	"homeowners": {
+		"Asian": null,
+		"Black": 0,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 2410,
+		"Overall": 2695
+	},
+	"homeownership rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 36.4,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 72.6,
+		"Overall": 66.9
+	},
+	"median income": {
+		"Asian": null,
+		"Black": null,
+		"Latino": 38170,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 57028,
+		"Overall": 52022
+	},
+	"percent": {
+		"Asian": 0.4,
+		"Black": 1.1,
+		"Latino": 23.4,
+		"Native American": 1.4,
+		"Pacific Islander": 0,
+		"White nonhispanic": 74.7
+	},
+	"populations": {
+		"Asian": 36,
+		"Black": 112,
+		"Latino": 2343,
+		"Native American": 143,
+		"Pacific Islander": 0,
+		"White nonhispanic": 7473
+	},
+	"poverty population": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 499,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 858,
+		"Overall": 1357
+	},
+	"poverty rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 23.3,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 11.6,
+		"Overall": 14
+	},
+	"unemployed": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 141,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 119,
+		"Overall": 287
+	},
+	"unemployment rate": {
+		"Asian": null,
+		"Black": 0,
+		"Latino": 10,
+		"Native American": null,
+		"Pacific Islander": null,
+		"White nonhispanic": 2,
+		"Overall": 3.8
+	}
+}]
