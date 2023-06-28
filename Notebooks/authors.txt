@@ -1,0 +1,3 @@
+name=Dawn_Gregg, email=dawn.gregg@ucdenver.edu, articles=OOP_and_Python|Data_Analysis_in_Python
+name=Jorge_Mena, email=Jmena@gmail.com, articles=Introduction_to_Spanish
+name=Sally_Jones, email=sally.jones@ucdenver.edu, articles=Static_Methods
